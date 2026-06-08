@@ -1,70 +1,121 @@
-# Integrated Anti-Money Laundering (AML) and Transaction Risk Management Platform
+# AML Transaction Risk Management Platform
 
-## **Overview**
-This repository showcases a comprehensive AML and transaction risk management platform I developed to enhance financial compliance. The platform integrates **real-time transaction monitoring**, **fraud detection**, **customer profiling**, **compliance tracking**, and **bank risk analysis**. Using **Python**, **SQL**, and **Tableau**, I processed data, applied rule-based fraud detection, visualized risks, and tracked performance with key KPIs.
-
----
-
-## **Accomplishments**
-### **1. Data Integration and Feature Engineering**
-- Consolidated transaction, customer, and bank data into a relational database using SQL.
-- Cleaned and prepared datasets by handling missing values, deduplicating records, and standardizing formats.
-- Engineered key features such as transaction frequency, average transaction amount, and high-risk indicators.
-- Defined KPIs for data quality, ensuring high standards for completeness and consistency.
-
-### **2. Real-Time Transaction Risk Monitoring**
-- Created an interactive dashboard in **Tableau** to visualize transaction data by region.
-- Designed map-based visualizations with dynamic filters for transaction type, date range, and risk levels.
-- Highlighted high-risk regions using color-coded risk indicators, enabling quick identification of potential hotspots.
-- Monitored KPIs such as high-risk region count, average transaction amounts, and alert timeliness.
-
-### **3. Rule-Based Fraud Detection**
-- Implemented a rule-based system using **SQL** and automated it with **Python** scripts to flag suspicious transactions.
-- Developed rules with AML experts to detect fraud patterns (e.g., large single transactions, high-frequency transactions, or activities in high-risk regions).
-- Automated fraud detection and alert generation, outputting detailed reports summarizing flagged transactions.
-- Tracked KPIs like flagged transaction count, false positive rate, and detection accuracy to evaluate system performance.
-
-### **4. Customer Risk Profiling**
-- Built a risk profiling system by analyzing customer transaction patterns and computing composite risk scores in SQL.
-- Segmented customers into low, medium, and high-risk groups and visualized these segments in **Tableau**.
-- Provided compliance teams with clear, color-coded insights to monitor high-risk individuals.
-- Achieved accurate segmentation by ensuring completeness and correctness of risk indicators.
+A rule-based Anti-Money Laundering (AML) pipeline that integrates transaction monitoring, customer risk profiling, fraud detection, and compliance reporting using SQL and Tableau.
 
 ---
 
-## **Technology Stack**
-- **Languages**: Python, SQL
-- **Visualization Tool**: Tableau
-- **Libraries**: Pandas, Matplotlib
-- **Database**: Relational database (SQL-based)
+## Objective
+
+Build an end-to-end AML data platform that ingests multi-source financial data, applies rule-based fraud detection logic across 4 relational tables, segments customers by risk, and produces compliance-ready reporting outputs — mirroring real-world transaction monitoring workflows used in financial institutions.
 
 ---
 
-## **Project Highlights**
-### **Interactive Tableau Dashboard**:
-- Live map-based risk visualizations by region.
-- Transaction trend analysis with dynamic filters.
-- High-risk regions prominently displayed with conditional formatting.
+## Dataset
 
-### **Automation and Scalability**:
-- Python scripts automated data cleaning, feature generation, and fraud detection.
-- Scalable design allows for periodic updates and real-time monitoring.
+**Source:** [Synthetic Transaction Monitoring Dataset – Kaggle](https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml)
 
-### **Insightful Metrics and KPIs**:
-- Focused on data quality (completeness, consistency) and detection performance (false positives, accuracy).
-- Delivered actionable insights to compliance officers for informed decision-making.
+| Table | Description |
+|---|---|
+| `transactions` | Transaction-level records with amount, currency, location, and risk flags |
+| `customers` | Customer profiles with region and pre-assigned risk level |
+| `banks` | Bank-level data including compliance scores |
+| `sanctions` | Sanction records linked to customers and banks |
 
 ---
 
-## **Contributing**
-Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request with enhancements or fixes.
+## Pipeline Overview
+
+```
+Raw CSVs → Schema Design → Data Quality Checks → Deduplication → 
+Multi-Table Join → Feature Engineering → Fraud Rules → Risk Scoring → Compliance Output
+```
+
+### 1. Schema Design & Data Ingestion
+- Designed a normalised 4-table relational schema: `Customers`, `Banks`, `Transactions`, `Sanctions`
+- Loaded all source CSVs into a structured SQL database
+
+### 2. Data Quality Checks
+- Ran NULL audits across all columns in all 4 tables using conditional aggregation
+- Checked for duplicate records on primary keys (`transaction_id`, `customer_id`, `bank_id`, `sanction_id`)
+- Verified date standardisation and referential integrity across foreign keys
+- Result: zero NULL values and zero duplicates — data quality confirmed before any analysis
+
+### 3. Multi-Table Integration
+- Joined all 4 tables into a unified analytical view using `transaction_id` as the base key
+- Brought together customer risk level, bank compliance score, transaction amount, location, and sanction status in a single query output
+
+### 4. Rule-Based Fraud Detection
+Applied the following AML detection rules in SQL:
+- **High-risk transaction flag** — transactions marked `is_high_risk = TRUE`
+- **Invalid bank ID flag** — transactions routed through unverified bank IDs
+- **Velocity check** *(added extension)* — flagged customer accounts with more than 5 transactions within a single calendar day, a recognised rapid-activity laundering pattern
+
+### 5. Customer Risk Profiling
+- Segmented customers into Low, Medium, and High risk groups based on `risk_level`
+- Cross-referenced with `bank compliance_score` to identify customers transacting through low-compliance institutions
+
+### 6. Compliance Reporting Output
+- Produced a joined master table (`AML-joined-tables.csv`) consolidating all flagged transactions with full customer and bank context
+- Visualised risk distribution, flagged transaction trends, and regional hotspots in Tableau (`Book1.twb`)
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+## Key Findings
+
+- Data quality audit confirmed 0 NULL values and 0 duplicate records across all 4 tables — a pre-requisite for reliable AML rule execution
+- Velocity check identified accounts breaching the 5-transaction/day threshold, surfacing rapid-activity patterns not captured by the base `is_high_risk` flag alone
+- Cross-border transactions processed through low-compliance banks (`compliance_score < threshold`) showed disproportionate overlap with sanctioned customer records
 
 ---
 
-## **Acknowledgments**
-I extend my gratitude to AML experts and financial compliance professionals whose insights helped shape this platform.
+## Tools & Technologies
+
+| Layer | Tool |
+|---|---|
+| Data storage & querying | SQL (MySQL) |
+| Data processing | SQL — joins, CASE statements, GROUP BY, window aggregations |
+| Visualisation | Tableau |
+| Data source | CSV (multi-table relational structure) |
+
+---
+
+## File Structure
+
+```
+├── AML-new.sql               # Full SQL pipeline: schema, quality checks, joins, fraud rules
+├── AML-joined-tables.csv     # Master output: all tables joined, used for Tableau
+├── transactions.csv          # Raw transaction data
+├── customers.csv             # Customer profiles
+├── banks.csv                 # Bank metadata and compliance scores
+├── customer_profiles.csv     # Enriched customer profile data
+├── preprocessed_aml_data.csv # Cleaned and preprocessed output
+├── Book1.twb                 # Tableau workbook — risk dashboards
+└── Meta Data for AML.xlsx    # Data dictionary and schema reference
+```
+
+---
+
+## How to Run
+
+1. Install MySQL (or any SQL client — DBeaver, MySQL Workbench)
+2. Run `AML-new.sql` top to bottom — it creates the database, tables, loads data, runs all checks and fraud rules
+3. Open `Book1.twb` in Tableau Desktop and connect to `AML-joined-tables.csv` as the data source to view dashboards
+
+---
+
+## Extension Added
+
+Added a **velocity-based transaction frequency rule** to the SQL pipeline:
+
+```sql
+-- Velocity Check: Flag accounts with >5 transactions in a single day
+SELECT 
+    customer_id,
+    COUNT(*) AS txn_count,
+    MIN(date) AS window_start
+FROM transactions
+GROUP BY customer_id, date
+HAVING COUNT(*) > 5;
+```
+
+This detects rapid transaction activity — a common structuring and layering pattern in AML — which is not captured by the base `is_high_risk` flag alone.
