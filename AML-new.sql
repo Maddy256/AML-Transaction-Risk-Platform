@@ -179,6 +179,14 @@ join
 join 
     banks b on t.bank_id = b.bank_id;
 
+
+-- Velocity Check: Flag accounts with >5 transactions in 24 hours
+SELECT customer_id, COUNT(*) as txn_count, MIN(transaction_date) as window_start
+FROM transactions
+GROUP BY customer_id, CAST(transaction_date AS DATE)
+HAVING COUNT(*) > 5;
+
+
 ------------------------------------------------
 
  
