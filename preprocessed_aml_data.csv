@@ -1,0 +1,1001 @@
+transaction_id,customer_id,customer_name,customer_email,customer_phone,customer_region,customer_risk_level,bank_id,bank_name,bank_region,bank_compliance_score,amount,currency,transaction_date,transaction_location,is_high_risk,is_valid_bank_id,z_score,transaction_count,avg_transaction_amount,max_transaction_amount,min_transaction_amount,high_risk_flag
+1,734,Marcia Cox,vegascott@gmail.com,859.806.6345x563,West,Low,20,Bank 20,West,0.71,2059.49,USD,2024-07-01,Helentown,True,True,-1.0142363933654057,3,1510.9499999999998,2355.94,117.42,False
+2,962,Vanessa Mckenzie,preynolds@carlson.com,764.455.7458x7794,South,Medium,234,Bank 234,North,0.75,4228.66,USD,2024-07-22,West Jasonberg,True,True,-0.24981220242612118,1,4228.66,4228.66,4228.66,False
+3,143,Mark Taylor,kelly85@weber.net,7073159635,East,Medium,598,Bank 598,South,0.57,9223.78,USD,2024-04-27,Brendanberg,True,True,1.5104880804676304,3,8439.966666666667,9480.34,6615.78,True
+4,760,Kevin Poole,joshuaevans@pitts.com,706-152-3334x773,West,Low,34,Bank 34,North,0.64,3063.09,USD,2024-05-31,Lake Davidville,False,True,-0.660563736069451,3,3863.403333333333,6915.24,1611.88,False
+5,175,Anthony Gonzales,alvarezcheryl@bailey.com,897.398.0669x289,South,Low,562,Bank 562,East,0.81,587.11,USD,2024-09-01,East Katherine,False,True,-1.5331089991340563,3,2710.7233333333334,4553.08,587.11,False
+6,252,Sarah Odom,zandrews@hotmail.com,+1-209-288-6101x1602,West,Medium,740,Bank 740,North,0.82,6815.88,USD,2024-04-15,Valerieton,True,True,0.6619344819194745,4,4382.2225,6815.88,2115.49,True
+7,743,Rachel Johnson,alyssaking@austin-long.biz,001-513-459-0135x9778,South,Medium,95,Bank 95,East,0.62,5402.65,USD,2024-03-12,North Taylorton,False,True,0.16390657292150507,1,5402.65,5402.65,5402.65,False
+8,884,Jason Moore,alyssa09@gomez.com,985-015-6256x237,West,Low,779,Bank 779,South,0.75,878.54,USD,2024-10-12,Williamsview,False,True,-1.4304079005731154,1,878.54,878.54,878.54,False
+9,54,Roger Allison,ashleyjohnson@dawson.org,001-367-569-8243x395,South,High,268,Bank 268,South,0.65,6794.4,USD,2024-08-04,Smithbury,False,True,0.6543648439374924,2,6731.735,6794.4,6669.07,True
+10,715,Melissa Murray,jenniferroberts@gmail.com,+1-086-269-9513x512,West,Low,1002,Bank 1002,West,0.79,1055.99,USD,2024-03-28,Paulchester,True,True,-1.3678738102610717,3,4707.13,8229.96,1055.99,False
+11,339,James Hunter,jacksoneric@hotmail.com,001-511-729-3448x1029,North,Medium,902,Bank 902,West,0.76,6276.0,USD,2024-08-29,Freemanview,False,True,0.4716786088416148,1,6276.0,6276.0,6276.0,True
+12,710,Dr. Jason Ortega,melendezjanet@yahoo.com,341.362.5690x9464,South,High,567,Bank 567,East,0.98,610.86,USD,2024-03-21,Hannatown,False,True,-1.524739404065524,2,2232.6349999999998,3854.41,610.86,False
+13,346,John Stephens,markfreeman@hotmail.com,695.796.9525x8364,West,High,898,Bank 898,North,0.72,3929.07,USD,2024-02-06,Joshuamouth,False,True,-0.355388917650608,1,3929.07,3929.07,3929.07,False
+14,315,James Garrett,perezkevin@brown-nelson.com,(403)793-9962x42141,East,Low,510,Bank 510,West,0.67,8734.12,USD,2024-04-17,East Dianatown,True,True,1.337929936414684,3,8090.543333333334,8851.2,6686.31,True
+15,835,Thomas Holland,ellisjames@wilson.com,694-274-8450x825,East,Low,482,Bank 482,South,0.71,7263.75,USD,2024-02-04,Amychester,True,True,0.8197656626918332,3,6951.759999999999,7263.75,6633.27,True
+16,659,James Juarez,hendersonstephen@herrera.info,(593)371-9942,South,Low,673,Bank 673,West,0.54,6688.2,USD,2024-08-24,Jenniferton,False,True,0.6169395388310452,1,6688.2,6688.2,6688.2,True
+17,687,Anna Patterson,sarah51@yahoo.com,001-847-198-6323x0929,East,High,759,Bank 759,North,0.58,9417.45,USD,2024-04-28,South Angelastad,True,True,1.5787381637064781,2,7290.955,9417.45,5164.46,True
+18,47,Sarah Lewis,tiffanycook@hotmail.com,+1-482-369-7721x52330,East,High,934,Bank 934,East,0.58,3910.84,USD,2023-12-26,South Ashley,False,True,-0.36181324262321185,2,3312.51,3910.84,2714.18,False
+19,775,Melissa Obrien,wilcoxrichard@yahoo.com,750.802.7003,South,Low,573,Bank 573,East,0.71,2411.67,USD,2024-06-21,West Sheila,True,True,-0.8901267516291668,1,2411.67,2411.67,2411.67,False
+20,638,Patricia Bird,rachaelweaver@hotmail.com,(333)427-2728x84806,North,Low,167,Bank 167,West,0.87,7310.24,USD,2024-02-12,Brownchester,False,True,0.836148924785983,2,4754.475,7310.24,2198.71,True
+21,25,Laura Smith,bmills@king-bruce.info,330.141.2897x775,South,Low,434,Bank 434,North,0.65,7610.93,USD,2024-04-19,Port Robertstad,True,True,0.9421132844136443,1,7610.93,7610.93,7610.93,True
+22,256,Ariana Prince,arobinson@yahoo.com,750.335.6613x02719,East,Medium,360,Bank 360,North,0.81,3059.82,USD,2024-05-27,West Christopher,True,True,-0.6617160971588867,1,3059.82,3059.82,3059.82,False
+23,579,Tony Stokes,markjones@hart-riddle.biz,+1-737-365-9711,South,High,485,Bank 485,East,0.61,5891.62,USD,2024-02-23,Brianburgh,True,True,0.33622155821246064,2,5910.3099999999995,5929.0,5891.62,False
+24,355,Katie Campbell,erichurley@yahoo.com,763.409.7236x333,North,Low,18,Bank 18,North,0.57,1707.44,USD,2024-01-28,Port Julie,False,True,-1.1383002225812693,1,1707.44,1707.44,1707.44,False
+25,220,Edward Powers,joel77@hotmail.com,+1-033-769-0423x0783,West,High,715,Bank 715,West,0.79,7549.93,USD,2024-09-21,South Teresamouth,False,True,0.9206166402376247,3,6318.276666666668,8740.75,2664.15,True
+26,308,Cynthia Phillips,tayloringram@moore.org,001-857-456-6411x137,East,Low,243,Bank 243,West,0.55,7711.75,USD,2024-11-18,West Philipstad,False,True,0.977642655984567,1,7711.75,7711.75,7711.75,True
+27,958,Marcus Little,bennettkatie@wilson-wise.net,640.981.2151x94948,North,Low,465,Bank 465,South,0.64,875.61,USD,2024-02-18,East Ashley,True,True,-1.43144044430157,3,3982.5433333333335,9994.12,875.61,False
+28,742,Thomas Wright,karinaduffy@yahoo.com,973-196-5840,West,High,686,Bank 686,East,0.67,4510.92,USD,2024-02-26,Shawland,True,True,-0.1503426485716411,2,5583.01,6655.1,4510.92,False
+29,763,Brandi Meadows,travis36@smith.info,779-844-9388,South,Low,412,Bank 412,East,0.51,317.98,USD,2024-09-01,New Teresaburgh,False,True,-1.6279514884306487,3,1540.4833333333333,3580.37,317.98,False
+30,87,Ann Mccann,nathan53@beard.com,174.642.3886,South,High,50,Bank 50,East,0.84,1529.63,USD,2024-06-21,Port Anthony,True,True,-1.200961178334352,1,1529.63,1529.63,1529.63,False
+31,142,Billy Lee,gwagner@austin-larson.com,990-370-1257x4142,North,Medium,330,Bank 330,North,0.54,3992.58,USD,2024-04-02,Lake Rebecca,False,True,-0.33300773942734574,2,3769.74,3992.58,3546.9,False
+32,982,April Gates,joshua11@martin.net,700-718-6187x4045,West,Low,561,Bank 561,North,0.76,6043.12,USD,2024-01-18,North Kathyborough,False,True,0.38961076464962396,1,6043.12,6043.12,6043.12,True
+33,460,Tina Taylor,randolphdavid@hotmail.com,220-093-0996,East,Low,471,Bank 471,South,0.97,4787.91,USD,2024-06-21,North Lisabury,True,True,-0.05273026381236807,3,3872.9566666666665,6739.74,91.22,False
+34,599,Stephanie Miller,nwarren@hotmail.com,241-662-2827x843,South,Low,166,Bank 166,South,0.54,8244.88,USD,2024-05-15,Lake Kim,True,True,1.165519802042949,1,8244.88,8244.88,8244.88,True
+35,786,Deborah Reyes,fwood@gmail.com,863-850-9551x1306,East,High,958,Bank 958,North,0.84,9716.82,USD,2024-04-24,West Christine,True,True,1.6842373500503298,5,4612.992,9716.82,1412.78,True
+36,556,Theresa Curry,meganbush@thompson-braun.com,775.108.2782,North,Medium,974,Bank 974,West,0.72,1536.46,USD,2024-10-06,Jamesshire,True,True,-1.1985542589946434,1,1536.46,1536.46,1536.46,False
+37,321,Kelli Gutierrez,wklein@gmail.com,243.965.6287x4486,East,Medium,704,Bank 704,North,0.92,6578.16,USD,2024-01-16,West Jose,False,True,0.5781610023535175,1,6578.16,6578.16,6578.16,True
+38,792,Mary Johnson,jeffreylopez@hotmail.com,1026591136,East,Low,534,Bank 534,West,0.6,8929.57,USD,2023-12-10,Dawnberg,False,True,1.4068072987786675,1,8929.57,8929.57,8929.57,True
+39,987,Denise Maldonado,debramahoney@hotmail.com,990.690.9357,West,Medium,98,Bank 98,West,0.51,972.24,USD,2024-02-29,Rodgersport,True,True,-1.3973876455027379,3,2684.98,5040.11,972.24,False
+40,68,Anthony Nunez,marshalllinda@watson.com,158.837.5340x7988,West,Medium,270,Bank 270,North,0.64,3178.73,USD,2023-12-11,East Johnview,False,True,-0.6198117371757641,2,3408.0699999999997,3637.41,3178.73,False
+41,255,Cody Baker,cle@hotmail.com,001-433-145-4320x449,West,Low,153,Bank 153,West,0.65,6382.82,USD,2024-03-01,Lake Dianaton,True,True,0.5093224044298509,1,6382.82,6382.82,6382.82,True
+42,876,April Reed,panderson@greer-ryan.biz,+1-422-046-0509x7120,East,High,744,Bank 744,North,0.75,7334.72,USD,2023-12-16,Lake Kennethland,True,True,0.8447757747766219,2,5214.775,7334.72,3094.83,True
+43,706,Diana Torres,kaylamorgan@hotmail.com,+1-532-140-3266x815,South,Low,51,Bank 51,West,0.76,4871.09,USD,2024-06-30,Littleview,True,True,-0.023417298852346537,2,5839.855,6808.62,4871.09,False
+44,358,Eric Ramos,oporter@glass.org,(867)651-9355,North,Low,465,Bank 465,South,0.64,103.07,USD,2023-11-24,West Christina,False,True,-1.7036866326907858,1,103.07,103.07,103.07,False
+45,719,Lawrence Warner,michaelelliott@jenkins.com,001-756-921-6262,West,Low,308,Bank 308,West,0.99,2346.95,USD,2023-11-24,Sawyerhaven,True,True,-0.9129343386959207,2,2498.005,2649.06,2346.95,False
+46,886,Katherine Hoover,franceskim@powers.com,+1-369-603-2989x98433,South,High,803,Bank 803,South,0.82,2446.46,USD,2024-09-09,Tracyburgh,False,True,-0.8778666163687778,3,3150.5,6704.43,300.61,False
+47,998,Ashley Martin,mshepard@meyer.com,(012)837-0964,North,Low,626,Bank 626,North,0.93,6332.92,USD,2024-11-01,Jacobside,False,True,0.4917374446858612,1,6332.92,6332.92,6332.92,True
+48,453,Patrick Hendricks,fbryant@yahoo.com,533-537-0628x4353,South,Medium,10,Hill-Thomas,West,0.69,5942.18,USD,2024-05-03,Masonville,False,True,0.354039104598355,2,5728.05,5942.18,5513.92,False
+49,817,Evan Campbell,tfuentes@yahoo.com,001-873-246-3514x4373,West,Low,869,Bank 869,East,0.82,5989.25,USD,2024-08-05,Port Dawnmouth,True,True,0.3706267610141785,3,3372.75,5989.25,2050.93,False
+50,830,Christopher Brown,melanie82@gmail.com,001-883-866-4462x35786,South,Medium,232,Bank 232,East,0.53,4156.85,USD,2024-10-03,West Hectorside,True,True,-0.2751183338733335,2,3837.07,4156.85,3517.29,False
+51,185,Ashley Bauer,thompsonjavier@hotmail.com,(758)332-2033x3651,North,High,501,Bank 501,North,0.95,5131.22,USD,2024-01-31,North Brittneychester,False,True,0.06825355441827594,2,3171.245,5131.22,1211.27,False
+52,513,Dawn Stevens,jenniferknight@boyd.com,194.917.5754,North,Medium,363,Bank 363,East,0.63,2767.09,USD,2024-03-17,Port Lisa,True,True,-0.7648753209235787,3,3486.0933333333337,4342.14,2767.09,False
+53,147,Amanda Gill,duanesims@hotmail.com,(232)546-8603x5483,South,Low,988,Bank 988,North,0.97,9322.58,USD,2023-12-12,Lake Ronaldbury,True,True,1.5453055959527242,1,9322.58,9322.58,9322.58,True
+54,28,Steven Pineda,fisherelizabeth@johnson.com,205.038.3471,West,Low,707,Bank 707,North,0.81,375.34,USD,2024-03-11,Crossside,True,True,-1.6077375948251325,2,3693.135,7010.93,375.34,False
+55,786,Deborah Reyes,fwood@gmail.com,863-850-9551x1306,East,High,885,Bank 885,North,0.7,2108.26,USD,2024-10-25,Hillland,True,True,-0.9970496501446764,5,4612.992,9716.82,1412.78,False
+56,878,John Fisher,christina28@walker.com,320-294-2230,North,Medium,530,Bank 530,East,0.5,4374.64,USD,2024-10-08,South Troyview,False,True,-0.198368266084886,2,5062.615,5750.59,4374.64,False
+57,169,Nathan Velasquez,johnhernandez@yahoo.com,(365)392-7782,East,Medium,629,Bank 629,West,0.64,7767.43,USD,2024-11-19,West John,True,True,0.9972645108652355,3,4259.863333333334,7767.43,1995.04,True
+58,853,Stephanie Coleman,fritzchristopher@olson-thompson.com,925-578-7080x9487,South,Low,487,Bank 487,North,0.8,297.33,USD,2024-03-19,North Brian,True,True,-1.6352286310902355,2,3473.45,6649.57,297.33,False
+59,323,John Crane,christina89@davenport-trevino.org,+1-612-619-6463x53764,South,Medium,147,Bank 147,West,0.59,4873.85,USD,2024-10-08,South Charles,True,True,-0.022444663804382294,2,5541.02,6208.19,4873.85,False
+60,381,Amanda Newman,gloriakelly@jenkins.biz,595-156-5789,East,Low,1002,Bank 1002,West,0.79,1108.76,USD,2024-02-24,Sherrymouth,False,True,-1.3492774510288001,3,3808.1733333333336,9583.48,732.28,False
+61,806,Brandon Schultz,ljohnson@mcdaniel-jones.biz,+1-119-152-4635x324,North,High,866,Bank 866,North,0.64,1686.19,USD,2024-10-08,Karenshire,True,True,-1.1457888076425875,2,1438.1,1686.19,1190.01,False
+62,79,Linda Simpson,denisewiley@hotmail.com,+1-105-601-8227x5633,North,Medium,537,Bank 537,North,0.55,1885.15,USD,2024-08-16,New Jack,True,True,-1.0756745072284752,3,2648.34,3956.41,1885.15,False
+63,996,Chad Lambert,fhill@lopez.com,001-982-020-4418x12135,West,Medium,749,Bank 749,North,0.85,6192.07,USD,2024-11-19,New Jesse,False,True,0.44210134087942904,2,6755.145,7318.22,6192.07,True
+64,937,Melissa Smith,ashleygreen@hotmail.com,(628)568-6799,West,Low,912,Bank 912,South,0.81,270.54,USD,2024-06-11,Port Ian,False,True,-1.64466953432754,2,2345.125,4419.71,270.54,False
+65,833,Helen Williams,margaretwiley@gmail.com,441-840-1444,North,High,261,Bank 261,North,0.99,8205.8,USD,2024-10-05,West Eric,False,True,1.1517478536101808,2,4986.415,8205.8,1767.03,True
+66,750,Melinda Pope,deborah66@hotmail.com,+1-603-989-2631x59960,East,Medium,880,Bank 880,West,0.96,9815.99,USD,2023-12-20,East Diana,True,True,1.7191852550164914,1,9815.99,9815.99,9815.99,True
+67,369,Lauren Johnson,jonathan82@anderson.com,001-394-298-2562x474,West,Low,868,Bank 868,West,0.72,179.78,USD,2024-07-10,South Richard,False,True,-1.6766537216294342,3,4875.16,9988.13,179.78,False
+68,292,Richard Lewis,fmorris@williams.com,+1-877-776-2712,West,High,240,Bank 240,East,0.73,6766.39,USD,2024-08-11,Port Stephenland,True,True,0.6444940078166679,1,6766.39,6766.39,6766.39,True
+69,423,Joshua Ortiz,saraholmes@hernandez-moran.com,5400975139,South,Medium,582,Bank 582,South,0.68,2330.49,USD,2024-08-08,Coxshire,True,True,-0.9187349085834171,3,4648.446666666667,7153.5,2330.49,False
+70,387,Ashley Dean,ericsandoval@robbins.biz,(039)978-6066,West,Medium,243,Bank 243,West,0.55,7462.16,USD,2024-09-09,Leborough,False,True,0.8896861409043584,3,5708.38,7653.14,2009.84,True
+71,290,Cory Thomas,aprilgonzalez@farmer.org,(332)866-8089x1070,North,Low,703,Bank 703,West,0.78,6512.11,USD,2024-06-23,Johnfort,False,True,0.5548847179629258,2,3803.95,6512.11,1095.79,True
+72,107,Anna Sutton,nharper@blake-butler.com,905-640-2514x8109,East,Low,794,Bank 794,South,0.79,3894.03,USD,2024-01-07,Silvaside,True,True,-0.3677371539117182,1,3894.03,3894.03,3894.03,False
+73,350,Linda Taylor,janetzimmerman@tran-crawford.com,238.818.2957,North,Low,431,Bank 431,North,0.68,3514.6,USD,2024-02-21,Alanstad,False,True,-0.5014498047265888,3,6235.580000000001,9190.51,3514.6,False
+74,613,Katelyn Farrell,glenn65@robertson.net,288.611.4309x06124,East,Low,953,Bank 953,East,0.91,9265.02,USD,2023-12-19,New Courtney,True,True,1.5250212215466312,1,9265.02,9265.02,9265.02,True
+75,268,Ryan Fox,brandy59@scott-west.com,(881)095-3994x808,South,High,316,Bank 316,South,0.57,6210.56,USD,2023-12-14,Port Shane,False,True,0.4486172908927834,4,6178.97,8579.15,1806.41,True
+76,319,Shelia Carroll,thomasnathan@smith-olson.biz,(393)619-9850x4376,North,High,330,Bank 330,North,0.54,7633.46,USD,2024-02-10,New Nicholas,True,True,0.950052946598656,2,7068.525,7633.46,6503.59,True
+77,642,Kristen Rollins,thomaschristensen@hotmail.com,+1-198-675-8726x17547,North,Low,606,Bank 606,East,0.62,357.36,USD,2024-05-10,Christinaton,True,True,-1.6140738187970152,1,357.36,357.36,357.36,False
+78,678,Karen Roberson,isaiah71@mccall.biz,688-884-9784x656,East,Low,301,Bank 301,South,0.93,204.06,USD,2024-08-10,Carpenterland,True,True,-1.6680973524393723,1,204.06,204.06,204.06,False
+79,800,Benjamin Reyes,lopezshawn@gmail.com,1378525992,East,Medium,92,Bank 92,North,0.75,7900.33,USD,2024-01-12,Tracybury,False,True,1.0440990028487271,2,6952.385,7900.33,6004.44,True
+80,857,Jeffrey Anderson,rbrandt@gmail.com,717.082.7313,West,Medium,578,Bank 578,South,0.53,862.82,USD,2024-06-07,Jeffreyburgh,False,True,-1.4359476914984766,3,1722.0866666666668,2708.88,862.82,False
+81,819,Ronald Cortez,natalie07@gmail.com,321-060-7698x36094,East,Low,947,Bank 947,South,0.66,8982.05,USD,2024-04-29,Lake Shawnfort,False,True,1.425301460850102,2,5957.41,8982.05,2932.77,True
+82,643,Shannon Ramirez,makaylapoole@rose-weber.com,430-877-2584,South,Medium,781,Bank 781,North,0.79,4822.18,USD,2024-09-18,Port Nancy,True,True,-0.040653378633479544,1,4822.18,4822.18,4822.18,False
+83,9,James Lopez,bethroberts@rojas.biz,011.287.5137x958,East,Medium,537,Bank 537,North,0.55,5831.24,USD,2024-08-02,Baileyport,True,True,0.3149434045182301,3,4593.856666666667,7909.91,40.42,False
+84,712,Jaime Shepard,kimmichael@yahoo.com,123-516-4935x333,North,Medium,383,Bank 383,West,0.77,5724.24,USD,2024-03-08,Ianstad,False,True,0.2772361762094745,2,6905.41,8086.58,5724.24,False
+85,685,Mark Schultz,sheila23@brown.com,(246)971-1990,West,High,90,Bank 90,South,0.66,6794.99,USD,2024-02-16,West Anthony,False,True,0.6545727622991949,1,6794.99,6794.99,6794.99,True
+86,431,Sandra Mathis,christopher01@goodwin.com,840-677-4947x633,South,Medium,101,Bank 101,West,1.0,5795.6,USD,2024-02-19,Colleenburgh,False,True,0.3023837258553887,3,4794.53,6655.74,1932.25,False
+87,715,Melissa Murray,jenniferroberts@gmail.com,+1-086-269-9513x512,West,Low,766,Bank 766,East,0.67,4835.44,USD,2024-05-12,Davidhaven,True,True,-0.035980501555217176,3,4707.13,8229.96,1055.99,False
+88,966,Christopher Palmer,beltranjacqueline@gregory.com,616-296-2994,North,Low,52,Bank 52,North,0.79,8320.39,USD,2024-01-15,North Sheila,True,True,1.1921298283008381,3,7374.84,9529.77,4274.36,True
+89,161,Timothy Moore,brownlori@hotmail.com,612.990.5106x5110,South,Medium,381,Bank 381,North,0.66,7020.76,USD,2024-08-02,Port Brent,True,True,0.7341350140306694,1,7020.76,7020.76,7020.76,True
+90,193,Manuel Chang,heatherjohnson@hotmail.com,526-184-6970,North,Low,803,Bank 803,South,0.82,625.95,USD,2024-07-21,Wrightmouth,False,True,-1.5194216276619807,1,625.95,625.95,625.95,False
+91,152,Robert Jackson,hensonmaureen@hotmail.com,283.275.7029,North,High,739,Bank 739,East,0.77,582.94,USD,2024-08-19,Youngville,False,True,-1.5345785238260887,1,582.94,582.94,582.94,False
+92,438,Robert Lowe,brookefritz@hotmail.com,(973)178-0261x2063,South,High,985,Bank 985,South,0.91,2511.98,USD,2024-07-31,West Jamesside,False,True,-0.8547771060997156,1,2511.98,2511.98,2511.98,False
+93,955,Rachel Bell,samuelhurley@york-serrano.com,(225)425-4053,South,Low,201,Bank 201,South,0.95,3331.77,USD,2024-11-19,Garzafurt,True,True,-0.565879828574157,4,2840.8175,5367.5,1191.51,False
+94,493,Michelle Rivera,justin61@yahoo.com,(705)603-7481,South,Medium,872,Bank 872,West,0.93,7730.8,USD,2024-09-17,Foxmouth,False,True,0.9843559522395371,3,4300.946666666667,7730.8,2559.75,True
+95,252,Sarah Odom,zandrews@hotmail.com,+1-209-288-6101x1602,West,Medium,519,Bank 519,East,0.82,5938.74,USD,2024-01-23,North Kristen,True,True,0.3528268348284285,4,4382.2225,6815.88,2115.49,False
+96,611,Sharon Crawford,brittney14@avila.com,(162)737-7482x4087,East,Low,812,Bank 812,South,0.94,6738.35,USD,2024-10-28,Julianbury,True,True,0.6346125995757566,4,4004.4425,6738.35,567.52,True
+97,67,Jessica Moyer,williamsmichelle@hotmail.com,7920943978,South,Medium,560,Bank 560,South,0.81,2719.25,USD,2024-01-23,Waltersshire,False,True,-0.7817343284216242,3,1396.78,2719.25,157.37,False
+98,239,Karen Rice,katrina77@hotmail.com,(229)152-0653,West,Medium,760,Bank 760,East,0.71,2630.61,USD,2024-05-26,Lawrencemouth,True,True,-0.8129714192374008,1,2630.61,2630.61,2630.61,False
+99,34,Jessica Bowman,gtaylor@powell-acosta.com,961.331.8598x3861,South,High,355,Bank 355,East,0.99,9074.28,USD,2024-04-14,Samuelton,False,True,1.4578036820362383,2,8131.325000000001,9074.28,7188.37,True
+100,552,Jerry Martinez,rosedaniel@yahoo.com,+1-359-276-8890x678,East,High,697,Bank 697,North,0.61,9805.83,USD,2023-12-04,Harrisontown,False,True,1.7156048303471743,1,9805.83,9805.83,9805.83,True
+101,150,Benjamin Robinson DVM,howardmichael@gmail.com,001-163-971-2739,East,Medium,793,Bank 793,South,0.82,9183.25,USD,2024-02-25,South Alexa,True,True,1.4962051462306782,1,9183.25,9183.25,9183.25,True
+102,85,Randy Campbell,icoleman@salazar.com,838.055.2228x670,East,Low,950,Bank 950,East,0.52,3786.84,USD,2024-05-01,Port Clinton,True,True,-0.4055113389810221,1,3786.84,3786.84,3786.84,False
+103,437,Scott Johnson,fjohnson@allen-dillon.com,511.765.2123x0420,South,Low,520,Bank 520,West,0.82,4144.91,USD,2024-08-30,East James,False,True,-0.27932603766778735,2,4668.635,5192.36,4144.91,False
+104,793,Nathan Hernandez,armstrongadam@fitzgerald.biz,+1-780-433-2899,East,Low,804,Bank 804,South,0.67,8028.85,USD,2023-12-01,Sarahport,False,True,1.0893899652995802,2,4932.535,8028.85,1836.22,True
+105,115,Amanda Webb,robertrowland@hotmail.com,+1-056-816-2694,West,High,356,Bank 356,North,0.9,2313.52,USD,2024-04-05,East Marcborough,True,True,-0.9247152045123851,2,5560.055,8806.59,2313.52,False
+106,173,Debbie Clay,kimberly14@hotmail.com,+1-923-877-2404x8801,North,High,750,Bank 750,South,0.63,9735.81,USD,2023-11-23,Solischester,False,True,1.6909295020651267,1,9735.81,9735.81,9735.81,True
+107,939,Kevin Hudson,malonepatricia@duke-austin.info,760.114.1785x14731,East,Low,622,Bank 622,West,0.92,520.42,USD,2024-11-19,Morganville,True,True,-1.5566108220864945,1,520.42,520.42,520.42,False
+108,669,Sheri Schwartz,riosdiana@yahoo.com,1003995422,South,Low,113,Bank 113,North,0.73,3150.06,USD,2024-11-14,New Timothy,True,True,-0.6299151599384932,2,2989.0,3150.06,2827.94,False
+109,545,Kimberly Moore,robertlynch@rodriguez.net,(375)939-4250,East,Low,388,Bank 388,East,0.95,2273.83,USD,2024-07-09,Christopherhaven,True,True,-0.9387021193869133,1,2273.83,2273.83,2273.83,False
+110,622,Melissa May,zachary10@yahoo.com,(194)791-9272x5161,East,High,497,Bank 497,North,0.65,3261.11,USD,2024-09-21,Port Jessicaville,False,True,-0.590780695418051,1,3261.11,3261.11,3261.11,False
+111,636,Brian Jones,mortonsarah@oliver.net,072-052-5293x20496,South,High,93,Bank 93,North,0.79,8907.32,USD,2024-03-04,New Mary,False,True,1.3989663097144638,1,8907.32,8907.32,8907.32,True
+112,175,Anthony Gonzales,alvarezcheryl@bailey.com,897.398.0669x289,South,Low,715,Bank 715,West,0.79,2991.98,USD,2024-01-31,Jimenezchester,False,True,-0.6856231847146436,3,2710.7233333333334,4553.08,587.11,False
+113,503,Charles Willis,whitneylewis@allen.com,(362)423-2679x0834,South,High,849,Bank 849,West,0.8,6850.81,USD,2024-06-16,Danielmouth,True,True,0.6742439537402675,2,5411.17,6850.81,3971.53,True
+114,645,Kristen Sanchez,gregorymiller@gmail.com,001-464-102-9163x775,West,Low,924,Bank 924,South,0.59,7054.76,USD,2023-11-26,Salazarfort,False,True,0.7461167501287786,1,7054.76,7054.76,7054.76,True
+115,547,Joshua Alvarado,sara18@faulkner-williams.com,558.072.5045,South,High,802,Bank 802,East,0.72,1138.43,USD,2024-04-09,Morrisstad,False,True,-1.3388216242631854,1,1138.43,1138.43,1138.43,False
+116,916,Melissa Wagner,susan58@yahoo.com,028-846-2338x80491,West,Low,749,Bank 749,North,0.85,4305.09,USD,2024-09-04,Ryanberg,True,True,-0.22287796448557723,2,4566.025,4826.96,4305.09,False
+117,271,Valerie Robinson,christopher68@garcia-hoffman.com,342.734.6522x461,East,Low,919,Bank 919,West,0.84,6545.82,USD,2024-01-15,South Vanessa,False,True,0.5667642569001983,2,8220.720000000001,9895.62,6545.82,True
+118,665,Michael Cummings,djimenez@gmail.com,0816088981,North,Medium,255,Bank 255,East,0.99,3322.32,USD,2023-12-23,West William,False,True,-0.5692100464014255,2,5668.225,8014.13,3322.32,False
+119,978,Jeremy Hays,travis87@taylor-white.com,223.942.1745,North,Medium,675,Bank 675,North,0.97,5689.5,USD,2024-05-06,West Christine,True,True,0.26499366114922995,1,5689.5,5689.5,5689.5,False
+120,11,Christopher Palmer,kendra27@walker-knight.org,001-730-710-7452x072,East,Low,502,Bank 502,East,0.66,5631.9,USD,2024-10-11,South Derek,False,True,0.2446951905830212,1,5631.9,5631.9,5631.9,False
+121,343,Christopher Anderson,adamwarren@jones.com,+1-574-674-3982,North,Medium,1003,Bank 1003,West,0.59,903.03,USD,2024-11-07,Mariamouth,False,True,-1.421777526542448,5,5491.6,8419.59,903.03,False
+122,196,Cristina Goodwin,sethwalker@hotmail.com,765.212.0001,North,High,684,Bank 684,West,0.62,9020.73,USD,2024-11-04,Pamelamouth,True,True,1.4389324476817158,3,5620.5233333333335,9020.73,2377.28,True
+123,54,Roger Allison,ashleyjohnson@dawson.org,001-367-569-8243x395,South,High,990,Bank 990,North,1.0,6669.07,USD,2024-06-12,North Robert,False,True,0.6101980502558443,2,6731.735,6794.4,6669.07,True
+124,268,Ryan Fox,brandy59@scott-west.com,(881)095-3994x808,South,High,254,Bank 254,South,0.75,8579.15,USD,2024-08-25,West Amandaborough,False,True,1.2833178880875074,4,6178.97,8579.15,1806.41,True
+125,952,Michael Velez,zross@smith.com,(261)284-3089x8419,North,Low,605,Bank 605,East,0.74,663.35,USD,2024-03-15,West Benjaminside,True,True,-1.5062417179540604,1,663.35,663.35,663.35,False
+126,314,Lisa Colon,lvaldez@hotmail.com,0798857202,West,Low,775,Bank 775,South,0.93,4543.01,USD,2023-12-03,New Cristinafurt,False,True,-0.13903400411904318,2,7113.415,9683.82,4543.01,False
+127,851,Stephen Richards,charlesdustin@moore-curtis.biz,(693)086-0091,West,Medium,397,Bank 397,West,0.91,6121.95,USD,2024-10-29,New Tylerstad,False,True,0.41739077219709314,2,3747.17,6121.95,1372.39,True
+128,143,Mark Taylor,kelly85@weber.net,7073159635,East,Medium,441,Bank 441,South,0.57,9480.34,USD,2024-10-06,Lake Ashley,False,True,1.6009008514479512,3,8439.966666666667,9480.34,6615.78,True
+129,849,Sarah Mccarty,christophergardner@gmail.com,001-177-353-2915x768,West,Low,788,Bank 788,West,0.91,5801.69,USD,2024-10-30,New Christy,True,True,0.3045298662329615,3,7342.876666666666,9442.85,5801.69,False
+130,536,Matthew Cook,robin08@hotmail.com,001-405-138-5314x059,East,Low,244,Bank 244,West,0.73,1289.07,USD,2024-11-04,New Mollyland,True,True,-1.285735485268504,2,1991.0299999999997,2692.99,1289.07,False
+131,616,Charles Martinez,robert66@yahoo.com,+1-005-281-2220x3149,East,High,843,Bank 843,South,0.95,9411.5,USD,2024-01-30,Walkerstad,False,True,1.5766413598893088,1,9411.5,9411.5,9411.5,True
+132,562,Kimberly Davidson DDS,richard88@baker-ross.com,001-871-686-3073x7605,South,Low,922,Bank 922,East,0.95,3690.23,USD,2024-09-23,New Johnborough,False,True,-0.43955708969979673,1,3690.23,3690.23,3690.23,False
+133,75,David Lopez,payers@smith.com,459.282.6939x66995,East,Low,87,Bank 87,West,0.72,6931.67,USD,2024-03-06,Owenburgh,False,True,0.7027393414135942,2,4078.445,6931.67,1225.22,True
+134,802,Sarah Roberts,eclark@barnes.biz,528-482-3816,North,Low,812,Bank 812,South,0.94,6790.96,USD,2024-07-13,Robertview,False,True,0.6531525741675661,2,6491.264999999999,6790.96,6191.57,True
+135,839,Andre Wilson,bryan95@sharp.info,783.210.6687,West,Medium,299,Bank 299,South,0.97,700.83,USD,2023-12-07,East Priscillaville,False,True,-1.4930336159259094,1,700.83,700.83,700.83,False
+136,549,Stacy Parker,kimberlymeadows@watson.com,587.146.2439,North,Medium,74,Bank 74,West,0.55,5899.61,USD,2024-04-09,New Yeseniaville,True,True,0.3390372661955162,1,5899.61,5899.61,5899.61,False
+137,60,Heather Parrish,thomas84@schroeder.biz,+1-342-386-3304x1535,West,Low,614,Bank 614,West,0.53,2136.09,USD,2024-05-12,East Douglasshire,False,True,-0.9872422467443711,1,2136.09,2136.09,2136.09,False
+138,7,Chris Wong,fwalters@obrien.org,(353)014-2784x894,East,Low,968,Bank 968,North,0.83,4133.14,USD,2024-06-10,East Nicoleland,True,True,-0.2834738327817503,1,4133.14,4133.14,4133.14,False
+139,671,Alyssa Quinn,wsmall@gmail.com,038.763.2050,East,High,309,Bank 309,West,0.51,2862.95,USD,2024-09-02,New Michael,True,True,-0.7310938732069683,2,5029.245,7195.54,2862.95,False
+140,899,Robin Cox,hillcraig@dunn.com,001-783-581-9274x9166,East,High,1007,Bank 1007,North,0.92,4093.14,USD,2024-04-21,South Colton,True,True,-0.2975699928971732,1,4093.14,4093.14,4093.14,False
+141,199,Michelle Stafford,sanchezerik@hotmail.com,(926)029-5005x328,South,Low,547,Bank 547,North,0.92,7797.02,USD,2024-05-08,Smithshire,True,True,1.0076921453106193,3,5820.926666666666,8385.43,1280.33,True
+142,298,Seth Shaw,michaelbauer@price.com,+1-928-535-1971x1112,West,High,991,Bank 991,North,0.88,7764.82,USD,2024-09-22,Walshton,False,True,0.9963447364177039,1,7764.82,7764.82,7764.82,True
+143,356,Dakota Burton,sarahlane@scott.info,503.356.2809x28374,South,High,58,Bank 58,North,0.66,9319.83,USD,2024-10-25,Fosterville,False,True,1.544336484944789,1,9319.83,9319.83,9319.83,True
+144,248,Thomas Rodriguez,harrisoncaleb@yahoo.com,802.329.9125x212,East,Medium,765,Bank 765,South,0.79,6183.03,USD,2024-02-29,Johnsonhaven,True,True,0.43891560869334356,1,6183.03,6183.03,6183.03,True
+145,867,Eric White,cindy47@morgan.com,953.620.4905x8376,West,Medium,483,Bank 483,South,0.6,1524.59,USD,2023-12-01,Port Charles,False,True,-1.2027372945088952,2,3818.3250000000003,6112.06,1524.59,False
+146,965,Margaret Gomez,patricia24@blair-jennings.org,445.652.0719x618,West,High,961,Bank 961,South,0.87,26.65,USD,2024-04-01,Lake Hannah,False,True,-1.7306173465913008,3,3935.476666666667,6296.23,26.65,False
+147,930,Haley Harris,michaelstevens@simmons.com,970.198.2648,East,High,986,Bank 986,West,0.92,1591.87,USD,2024-06-06,Mcdanielland,True,True,-1.1790275531947543,3,5533.676666666666,9855.67,1591.87,False
+148,431,Sandra Mathis,christopher01@goodwin.com,840-677-4947x633,South,Medium,525,Bank 525,South,0.67,6655.74,USD,2024-05-28,Lake Amandaside,True,True,0.6055005048973797,3,4794.53,6655.74,1932.25,True
+149,93,Jeff Thomas,vmorgan@gutierrez.com,698-761-5978x3303,West,Low,680,Bank 680,West,0.95,9593.95,USD,2024-11-05,Jamesshire,False,True,1.6409374702157806,2,5617.35,9593.95,1640.75,True
+150,841,Hailey Miller,jasonschwartz@rodriguez-phillips.biz,(306)843-1747x77831,North,High,328,Bank 328,West,0.74,7183.23,USD,2024-01-13,New Elijahfurt,False,True,0.7913900923794872,3,2884.5966666666664,7183.23,349.8,True
+151,585,Wesley Wallace,brendamoran@gmail.com,5585952792,North,High,871,Bank 871,West,0.7,8389.31,USD,2024-04-19,Michaelhaven,True,True,1.2164175121797114,2,4818.32,8389.31,1247.33,True
+152,174,Anthony Taylor,mckenziepayne@gmail.com,709-550-2288,South,Medium,134,Bank 134,North,0.59,1884.82,USD,2024-11-18,Kimton,True,True,-1.0757908005494277,2,5421.22,8957.62,1884.82,False
+153,424,Bobby Franklin,bstanton@gmail.com,(075)466-0319x67846,West,High,485,Bank 485,East,0.61,9019.9,USD,2024-01-16,North Shawnmouth,False,True,1.4386399523593207,2,5415.045,9019.9,1810.19,True
+154,809,Melissa Carroll,linda70@williams.com,632-833-6420,South,High,751,Bank 751,West,0.5,8457.56,USD,2024-10-31,Holtberg,True,True,1.2404690853766511,1,8457.56,8457.56,8457.56,True
+155,785,Curtis Davis,brittany82@thomas.com,8777251507,North,Low,167,Bank 167,West,0.87,4329.02,USD,2024-07-17,Josephfurt,True,True,-0.2144449366965255,3,5375.96,9921.79,1877.07,False
+156,559,Kathryn Rice,origgs@yahoo.com,001-954-043-0044x86154,North,High,49,Bank 49,South,0.89,8011.53,USD,2024-04-12,Josephton,True,True,1.0832863279696021,1,8011.53,8011.53,8011.53,True
+157,201,Sheena Sullivan,imarks@rowe.com,+1-794-552-4385x69153,East,Medium,87,Bank 87,West,0.72,2103.3,USD,2024-08-23,Steelemouth,True,True,-0.9987975739989888,1,2103.3,2103.3,2103.3,False
+158,136,Raven Rogers,megan99@golden.net,+1-356-141-8725x3102,East,Medium,60,Bank 60,South,0.95,5139.22,USD,2024-07-07,North Charlesburgh,False,True,0.07107278644136047,2,2750.07,5139.22,360.92,False
+159,120,Melinda Rodriguez,andrewraymond@kirby.org,965.347.9719x27607,East,Low,654,Bank 654,South,0.58,4025.26,USD,2024-04-29,New Cristian,True,True,-0.32149117661304527,3,5988.1466666666665,8034.61,4025.26,False
+160,822,William Thompson,joanna10@smith.biz,100-937-4621x167,South,Medium,955,Bank 955,North,0.54,251.09,USD,2024-11-07,Matthewville,True,True,-1.651523792183664,2,3328.4,6405.71,251.09,False
+161,118,Amanda Walker,owelch@ruiz.com,(117)075-9410x39339,East,Medium,237,Bank 237,North,0.88,9383.67,USD,2024-07-31,South Johnnyton,False,True,1.5668339564890035,1,9383.67,9383.67,9383.67,True
+162,958,Marcus Little,bennettkatie@wilson-wise.net,640.981.2151x94948,North,Low,393,Bank 393,West,0.82,1077.9,USD,2024-08-16,Port Heatherton,False,True,-1.3601526385578488,3,3982.5433333333335,9994.12,875.61,False
+163,169,Nathan Velasquez,johnhernandez@yahoo.com,(365)392-7782,East,Medium,215,Bank 215,North,0.94,1995.04,USD,2024-01-22,Christinahaven,False,True,-1.0369488313513804,3,4259.863333333334,7767.43,1995.04,False
+164,1,Anthony Smith,pcarter@hotmail.com,243.751.6176x2665,West,Medium,10,Hill-Thomas,West,0.69,5185.75,USD,2024-02-18,Port Danielshire,False,True,0.08747014469562579,1,5185.75,5185.75,5185.75,False
+165,625,Lindsey Clark,mariewells@hotmail.com,(108)856-9471,West,Medium,230,Bank 230,North,0.56,8845.4,USD,2024-06-17,South Ryan,True,True,1.3771454538557895,1,8845.4,8845.4,8845.4,True
+166,208,Robert Cameron,richard84@wilson.biz,480.295.1133x065,West,High,999,Bank 999,East,0.76,4210.36,USD,2023-12-24,Gordonfort,False,True,-0.25626119567892713,1,4210.36,4210.36,4210.36,False
+167,776,Scott Hudson,pmarshall@jackson-alvarez.org,+1-155-310-0179x35737,North,Low,308,Bank 308,West,0.99,2158.33,USD,2024-10-02,West Aaronchester,False,True,-0.9794047817201962,1,2158.33,2158.33,2158.33,False
+168,626,Deborah Harris,castrochristopher@yahoo.com,692.019.1361x175,East,Low,1003,Bank 1003,West,0.59,4136.61,USD,2024-07-02,Port Johnmouth,True,True,-0.28225099089173766,2,5811.54,7486.47,4136.61,False
+169,748,Susan Zuniga,manderson@gmail.com,+1-384-538-6602x2093,West,High,39,Bank 39,North,0.65,1556.59,USD,2024-01-15,New Sarah,True,True,-1.191460366416557,1,1556.59,1556.59,1556.59,False
+170,816,Terri Garcia,tiffanywarren@gmail.com,(534)825-1290x326,West,Medium,999,Bank 999,East,0.76,1015.55,USD,2024-04-30,North Michael,True,True,-1.382125028137764,1,1015.55,1015.55,1015.55,False
+171,442,Paul Owens,reeveskenneth@yahoo.com,0378123862,West,High,875,Bank 875,South,0.58,7084.1,USD,2024-01-18,East Emilyview,True,True,0.7564562835734413,1,7084.1,7084.1,7084.1,True
+172,350,Linda Taylor,janetzimmerman@tran-crawford.com,238.818.2957,North,Low,600,Bank 600,North,0.66,6001.63,USD,2024-11-08,Larryside,True,True,0.3749895225699019,3,6235.580000000001,9190.51,3514.6,True
+173,752,John Smith,richardcurtis@mckay.com,001-693-796-5141x344,North,High,819,Bank 819,North,0.9,4676.44,USD,2024-05-06,Jillmouth,False,True,-0.09201273801402227,1,4676.44,4676.44,4676.44,False
+174,457,Amanda Smith,kimdonald@yahoo.com,706-895-4575x686,South,Low,546,Bank 546,West,0.54,3302.83,USD,2024-10-08,Hillside,True,True,-0.5760784004176652,1,3302.83,3302.83,3302.83,False
+175,19,Rebekah Alexander,raven28@holmes-reyes.com,859-332-7429x154,West,Low,399,Bank 399,West,0.58,3355.63,USD,2024-02-16,Francesstad,True,True,-0.5574714690653073,3,2430.96,3668.41,268.84,False
+176,72,Bradley Lewis,rosarioashley@gmail.com,(337)929-1912x197,North,Low,995,Bank 995,North,0.94,6493.33,USD,2024-03-29,Perryhaven,True,True,0.548266570788735,3,7216.256666666667,7964.62,6493.33,True
+177,139,Ronald Duncan,markwilliams@hotmail.com,(274)664-0924,South,Low,48,Bank 48,East,0.7,5452.55,USD,2024-06-19,Lake Stevenberg,False,True,0.18149153266549503,2,2936.7200000000003,5452.55,420.89,False
+178,357,Kathryn Shelton,pnorman@bean-hampton.info,665-963-2490,West,High,898,Bank 898,North,0.72,9995.9,USD,2024-11-16,Hudsonborough,True,True,1.7825862591756338,1,9995.9,9995.9,9995.9,True
+179,294,Jill Lynch,aaronwilson@gmail.com,(961)411-6582,North,High,49,Bank 49,South,0.89,8710.94,USD,2024-09-21,Scottbury,True,True,1.3297612116277964,1,8710.94,8710.94,8710.94,True
+180,540,Alyssa Bush,lyonsjeff@porter.com,001-014-311-2623x522,East,High,19,Bank 19,West,0.62,31.68,USD,2024-03-15,North Suzanne,False,True,-1.7288447544567862,1,31.68,31.68,31.68,False
+181,537,Alexa Shelton,cgriffin@mcconnell.com,364-665-2710,South,Low,982,Bank 982,South,0.88,3131.17,USD,2024-02-18,East Sarafurt,True,True,-0.6365720715530016,3,5134.916666666667,6392.35,3131.17,False
+182,798,Gene Perry,douglaswood@williams.net,401-125-0291x33861,South,Low,393,Bank 393,West,0.82,7436.33,USD,2024-07-07,West Travis,True,True,0.8805835455098242,1,7436.33,7436.33,7436.33,True
+183,784,Jessica Rubio,christopherreilly@yahoo.com,(156)433-3418,East,High,807,Bank 807,South,0.86,7294.25,USD,2024-04-05,Forbesmouth,True,True,0.830513984779843,6,5130.055,7294.25,2383.42,True
+184,850,Brittney Murray,james30@gmail.com,402.842.6738x527,South,Medium,528,Bank 528,South,0.62,7931.63,USD,2024-04-24,Garrettchester,False,True,1.0551292481390453,2,4413.24,7931.63,894.85,True
+185,481,Jenna Payne,annaavila@hotmail.com,+1-383-428-5067x832,North,Low,713,Bank 713,South,0.94,9104.14,USD,2024-02-21,Goodwinfurt,True,True,1.4683264655624009,3,8481.07,9104.14,7374.96,True
+186,926,Judith Kennedy,tamara54@rodriguez-mckee.net,690-076-0746x43091,South,High,301,Bank 301,South,0.93,784.93,USD,2024-05-27,Lake Natashaport,False,True,-1.4633964392832333,2,3773.1150000000002,6761.3,784.93,False
+187,488,Travis Murray,adamnewton@yahoo.com,+1-505-636-7226,South,Medium,58,Bank 58,North,0.66,1585.55,USD,2024-04-14,Emilyfort,True,True,-1.181254746492991,2,1420.9299999999998,1585.55,1256.31,False
+188,930,Haley Harris,michaelstevens@simmons.com,970.198.2648,East,High,5,"Wilcox, Lynch and Weeks",South,0.51,9855.67,USD,2024-07-12,Brianville,False,True,1.733168645850991,3,5533.676666666666,9855.67,1591.87,True
+189,789,Cassidy Quinn,mark61@gates.com,+1-926-775-9250x61960,East,Medium,649,Bank 649,North,0.65,2872.43,USD,2024-03-30,Mitchellview,False,True,-0.7277530832596132,2,3201.205,3529.98,2872.43,False
+190,466,Angela Young,nicholeweber@cannon-mcdonald.com,423-339-9096x126,South,High,330,Bank 330,North,0.54,2515.53,USD,2024-04-24,Brianville,False,True,-0.8535260718894717,2,3221.635,3927.74,2515.53,False
+191,169,Nathan Velasquez,johnhernandez@yahoo.com,(365)392-7782,East,Medium,1007,Bank 1007,North,0.92,3017.12,USD,2024-04-04,South Brianland,True,True,-0.6767637480821005,3,4259.863333333334,7767.43,1995.04,False
+192,608,Kristy Stephens,shellyowens@gmail.com,959-549-2628x70404,North,High,933,Bank 933,East,0.53,831.12,USD,2023-12-30,North Kaitlynhaven,True,True,-1.447118898389949,2,1176.52,1521.92,831.12,False
+193,667,John Williams,sparksjohn@wilson.info,(410)031-3251,East,Low,670,Bank 670,North,0.72,1497.7,USD,2024-03-14,Lewisbury,False,True,-1.2122134381464882,2,826.315,1497.7,154.93,False
+194,376,Scott Adams,olivia95@parrish-smith.net,025-302-8678,South,Low,736,Bank 736,South,0.63,7312.29,USD,2024-08-31,Sandratown,False,True,0.8368713529918985,2,5034.735,7312.29,2757.18,True
+195,831,Samantha Thompson,suelong@yahoo.com,198-543-9211x50268,North,Low,138,Bank 138,West,0.6,592.82,USD,2024-01-22,North Thomas,True,True,-1.5310967722775797,3,1819.51,4776.3,89.41,False
+196,553,Erika Stewart MD,anthonyjessica@yahoo.com,4418100553,East,Medium,789,Bank 789,West,0.61,6954.15,USD,2023-12-18,Barrettmouth,True,True,0.7106613833984616,2,7115.615,7277.08,6954.15,True
+197,394,Dawn Lopez,eburton@burke.net,+1-778-018-0606x21103,East,Medium,107,Bank 107,North,0.6,9172.74,USD,2024-04-11,Nicholasland,False,True,1.4925013801603508,2,9302.8,9432.86,9172.74,True
+198,31,Scott Smith,melissacrawford@pierce-goodman.com,427.712.5672,West,Low,721,Bank 721,East,0.69,8488.58,USD,2024-08-18,Rachelstad,False,True,1.2514006575461616,1,8488.58,8488.58,8488.58,True
+199,431,Sandra Mathis,christopher01@goodwin.com,840-677-4947x633,South,Medium,54,Bank 54,West,0.81,1932.25,USD,2024-08-30,Evanstown,True,True,-1.0590762786925652,3,4794.53,6655.74,1932.25,False
+200,224,Jonathan Collins,ashley80@gmail.com,001-996-863-3145x9870,North,High,854,Bank 854,East,0.52,6821.33,USD,2024-03-05,Port Michele,True,True,0.6638550837352007,1,6821.33,6821.33,6821.33,True
+201,429,Matthew Patel,donald19@gmail.com,538.043.4194,South,Medium,294,Bank 294,South,0.54,682.06,USD,2024-09-18,West Denise,False,True,-1.4996482390600718,3,6193.44,9355.9,682.06,False
+202,53,Brandon Maynard,carrilloamy@obrien.biz,+1-646-674-2040x52135,East,Medium,410,Bank 410,North,0.95,823.07,USD,2024-04-08,North Matthewchester,True,True,-1.449955750613178,1,823.07,823.07,823.07,False
+203,47,Sarah Lewis,tiffanycook@hotmail.com,+1-482-369-7721x52330,East,High,765,Bank 765,South,0.79,2714.18,USD,2024-02-15,Sharontown,True,True,-0.7835210167162541,2,3312.51,3910.84,2714.18,False
+204,800,Benjamin Reyes,lopezshawn@gmail.com,1378525992,East,Medium,164,Bank 164,North,0.64,6004.44,USD,2024-05-18,New Jenniferbury,True,True,0.3759797778180102,2,6952.385,7900.33,6004.44,True
+205,941,Gabriela Davis,tnavarro@yahoo.com,001-374-191-1783x196,South,High,147,Bank 147,West,0.59,3343.46,USD,2024-09-02,New Christine,False,True,-0.5617602257804246,2,6424.5,9505.54,3343.46,False
+206,887,Justin Davies,jgibbs@davis-erickson.com,+1-739-468-1517x0427,South,Medium,499,Bank 499,West,0.54,7506.58,USD,2024-05-14,Port Nicholasshire,True,True,0.9053399267125353,1,7506.58,7506.58,7506.58,True
+207,806,Brandon Schultz,ljohnson@mcdaniel-jones.biz,+1-119-152-4635x324,North,High,666,Bank 666,East,0.79,1190.01,USD,2024-04-15,Lake Stacey,True,True,-1.320644625794348,2,1438.1,1686.19,1190.01,False
+208,433,Amanda Lynch,karla16@yahoo.com,+1-368-504-0933,North,Low,110,Bank 110,North,0.65,6391.3,USD,2024-02-16,East Heather,False,True,0.5123107903743207,1,6391.3,6391.3,6391.3,True
+209,681,Sharon Perkins MD,rhughes@torres-jones.org,410.104.5192,West,High,545,Bank 545,South,0.8,8462.91,USD,2023-11-28,New Robert,False,True,1.242354446792089,2,5179.9349999999995,8462.91,1896.96,True
+210,156,Steven Hunt,swansonstephanie@coleman-richardson.net,630.969.4814,North,Medium,218,Bank 218,East,0.81,14.37,USD,2024-05-30,South Gabriela,True,True,-1.7349448677467356,2,997.305,1980.24,14.37,False
+211,980,Taylor Gaines,karenfrazier@gmail.com,(082)927-8978x31377,West,Low,111,Bank 111,West,0.68,8721.51,USD,2023-12-11,West Faith,True,True,1.3334861219382967,1,8721.51,8721.51,8721.51,True
+212,414,Jane Garcia,harveystacy@murillo-graham.org,481-800-9611x3300,East,Low,938,Bank 938,East,0.93,3554.49,USD,2024-10-01,Gonzalezfurt,False,True,-0.4873924090514836,1,3554.49,3554.49,3554.49,False
+213,956,Samantha Stanton,matthew35@carr.com,+1-653-158-0096x3140,South,Medium,939,Bank 939,West,0.55,8857.61,USD,2024-10-22,Patriciaport,False,True,1.3814483067310226,1,8857.61,8857.61,8857.61,True
+214,400,Mary Brewer,vchristian@yahoo.com,001-613-794-6849x582,South,Low,746,Bank 746,North,0.53,4037.01,USD,2024-06-07,South Elizabethside,True,True,-0.3173504295791399,4,5409.4975,9209.03,1070.63,False
+215,39,Charles Barnes,kellykent@horne-marshall.com,080.534.1051,South,Low,846,Bank 846,East,0.93,6524.94,USD,2024-08-05,Coxtown,False,True,0.5594060613199475,1,6524.94,6524.94,6524.94,True
+216,989,Ashley Herrera,howardmartha@gmail.com,+1-600-651-4781x189,West,Low,879,Bank 879,East,0.67,6409.55,USD,2024-06-18,West Lisaborough,True,True,0.5187421634269822,2,6914.0,7418.45,6409.55,True
+217,777,Anna Henson,molinastephen@baker.com,786.362.1700,West,Low,297,Bank 297,South,0.72,5067.72,USD,2024-07-13,South Shannonton,False,True,0.04587590023504246,2,3071.7250000000004,5067.72,1075.73,False
+218,853,Stephanie Coleman,fritzchristopher@olson-thompson.com,925-578-7080x9487,South,Low,850,Bank 850,West,0.88,6649.57,USD,2024-11-03,Coleland,False,True,0.6033261721995757,2,3473.45,6649.57,297.33,True
+219,881,Alyssa Roberts,rebeccahernandez@sanders.com,(647)175-9272,South,Medium,324,Bank 324,West,0.71,9397.79,USD,2024-05-18,Freemanhaven,False,True,1.571809901009748,2,6979.360000000001,9397.79,4560.93,True
+220,268,Ryan Fox,brandy59@scott-west.com,(881)095-3994x808,South,High,554,Bank 554,South,0.67,1806.41,USD,2024-04-11,Haleyville,True,True,-1.1034227984156848,4,6178.97,8579.15,1806.41,False
+221,400,Mary Brewer,vchristian@yahoo.com,001-613-794-6849x582,South,Low,962,Bank 962,South,0.9,1070.63,USD,2024-10-28,Lake Nicoleburgh,False,True,-1.362714615658827,4,5409.4975,9209.03,1070.63,False
+222,536,Matthew Cook,robin08@hotmail.com,001-405-138-5314x059,East,Low,739,Bank 739,East,0.77,2692.99,USD,2024-09-06,Hardyborough,True,True,-0.7909884575373992,2,1991.0299999999997,2692.99,1289.07,False
+223,534,Dwayne Mcdonald,michaelerickson@williams-maldonado.com,001-118-648-6658x827,West,Medium,666,Bank 666,East,0.79,8269.02,USD,2023-11-23,East Laurie,True,True,1.1740268346726068,1,8269.02,8269.02,8269.02,True
+224,464,Joshua Richard,davidwatson@hotmail.com,275.672.9478x31160,North,Low,123,Bank 123,South,0.8,4875.58,USD,2024-09-18,Lake Patrickside,True,True,-0.02183500487939042,1,4875.58,4875.58,4875.58,False
+225,850,Brittney Murray,james30@gmail.com,402.842.6738x527,South,Medium,341,Bank 341,West,0.63,894.85,USD,2024-10-15,North Frankside,False,True,-1.424660191286052,2,4413.24,7931.63,894.85,False
+226,834,Kimberly Thompson,schmidtalicia@lester.biz,001-934-267-0415x264,East,High,199,Bank 199,North,0.63,6060.93,USD,2024-11-01,South Tyler,True,True,0.3958870799410161,1,6060.93,6060.93,6060.93,True
+227,4,James Campbell,virginiamorgan@gmail.com,161-783-7589x5926,South,Low,873,Bank 873,North,0.68,6185.55,USD,2024-11-19,West Elizabethchester,False,True,0.43980366678061533,4,4092.14,6185.55,2899.69,True
+228,268,Ryan Fox,brandy59@scott-west.com,(881)095-3994x808,South,High,314,Bank 314,East,1.0,8119.76,USD,2024-03-09,Port Jonathan,False,True,1.121427013201907,4,6178.97,8579.15,1806.41,True
+229,941,Gabriela Davis,tnavarro@yahoo.com,001-374-191-1783x196,South,High,588,Bank 588,North,0.85,9505.54,USD,2024-09-19,Browntown,True,True,1.6097814323206678,2,6424.5,9505.54,3343.46,True
+230,79,Linda Simpson,denisewiley@hotmail.com,+1-105-601-8227x5633,North,Medium,808,Bank 808,East,0.92,2103.46,USD,2024-07-16,Christopherhaven,False,True,-0.9987411893585272,3,2648.34,3956.41,1885.15,False
+231,117,Yolanda Hardy,clarktraci@yahoo.com,582.878.3040,West,High,162,Bank 162,West,0.91,1472.6,USD,2024-10-05,Lopezshire,True,True,-1.2210587786189158,1,1472.6,1472.6,1472.6,False
+232,176,Julie Walker,ksanchez@lloyd.org,001-853-737-2857,West,High,123,Bank 123,South,0.8,7954.56,USD,2024-02-05,Briannahaven,True,True,1.0632098719252117,2,4309.09,7954.56,663.62,True
+233,614,James Schmidt,reedpatricia@thomas-perez.com,7986762019,North,High,386,Bank 386,West,0.56,6886.38,USD,2024-08-06,Lake Michael,False,True,0.686778964122907,1,6886.38,6886.38,6886.38,True
+234,348,Kathleen Collins,marcussmith@yahoo.com,+1-396-556-5310x5643,South,Medium,44,Bank 44,East,0.95,4915.54,USD,2024-10-15,West Diane,True,True,-0.007752940924083165,1,4915.54,4915.54,4915.54,False
+235,159,Jeffrey Lawson,umartin@gmail.com,001-491-223-2033,East,High,804,Bank 804,South,0.67,9831.19,USD,2024-05-13,New Stephanie,False,True,1.7245417958603524,1,9831.19,9831.19,9831.19,True
+236,447,Wanda Carter,larryburke@hotmail.com,001-999-905-2353x22709,South,High,128,Bank 128,East,0.75,8230.38,USD,2024-06-08,North Autumnburgh,False,True,1.1604099440011082,1,8230.38,8230.38,8230.38,True
+237,134,Michele Freeman DVM,wendymurray@hotmail.com,667-153-4934x36446,West,High,1,Figueroa-Green,South,0.81,3790.68,USD,2024-01-05,North Ronald,False,True,-0.40415810760994164,1,3790.68,3790.68,3790.68,False
+238,611,Sharon Crawford,brittney14@avila.com,(162)737-7482x4087,East,Low,677,Bank 677,North,0.58,4561.89,USD,2024-10-04,New Richardview,True,True,-0.13238061654456365,4,4004.4425,6738.35,567.52,False
+239,10,Jared Harmon,ravila@hotmail.com,133.487.1656x55795,North,High,500,Bank 500,South,0.88,3298.52,USD,2024-08-30,East Scott,True,True,-0.5775972616701021,3,2462.2433333333333,3298.52,1011.47,False
+240,434,Dr. Shawn Shepard,aliciajackson@lamb.biz,195-071-3264,North,High,594,Bank 594,East,0.7,2428.29,USD,2024-08-28,Reyesberg,False,True,-0.8842697971012087,1,2428.29,2428.29,2428.29,False
+241,739,Steven Ritter,lawrence93@gmail.com,001-061-853-6696x64973,East,Low,704,Bank 704,North,0.92,8464.68,USD,2024-07-12,Port Stevenberg,False,True,1.2429782018771967,1,8464.68,8464.68,8464.68,True
+242,177,Kimberly Martin,michele20@jackson.com,555.992.4221,South,Low,875,Bank 875,South,0.58,7309.8,USD,2023-12-26,Brandonland,True,True,0.8359938670247136,2,6886.895,7309.8,6463.99,True
+243,639,Matthew Martinez,yhudson@yahoo.com,+1-687-809-2746x936,East,Low,508,Bank 508,West,0.54,4805.8,USD,2024-08-05,Joeshire,True,True,-0.04642575620074516,1,4805.8,4805.8,4805.8,False
+244,212,Bryan Bennett PhD,alexa35@robinson-mullins.com,0510357140,South,Medium,66,Bank 66,East,0.62,7005.88,USD,2024-09-17,Williamfort,True,True,0.7288912424677322,3,5984.650000000001,7575.61,3372.46,True
+245,249,Janet Anderson DDS,wgreene@madden-garcia.com,(146)306-2186,North,Low,30,Bank 30,East,0.92,2555.26,USD,2024-10-22,New Jonathan,True,True,-0.8395250608548281,3,4506.906666666667,6058.5,2555.26,False
+246,687,Anna Patterson,sarah51@yahoo.com,001-847-198-6323x0929,East,High,250,Bank 250,West,0.83,5164.46,USD,2024-05-22,New Andrew,True,True,0.07996746347419209,2,7290.955,9417.45,5164.46,False
+247,445,Anthony Hunter,millerjoshua@yahoo.com,001-456-207-0642,West,Medium,956,Bank 956,East,0.95,1549.96,USD,2024-05-01,New Zachary,False,True,-1.1937968049556884,1,1549.96,1549.96,1549.96,False
+248,670,Jennifer Johnson,chambersjoseph@gibson.com,781.920.5200,North,High,223,Bank 223,East,0.51,2428.46,USD,2024-05-16,Lake Andrewton,False,True,-0.8842098884207181,3,4918.91,6929.89,2428.46,False
+249,911,Gary Whitaker,rsalinas@moreno.com,738-350-3886x370,East,High,997,Bank 997,South,0.7,3963.45,USD,2024-09-02,New Danielle,True,True,-0.3432732680314023,3,4586.233333333334,6140.46,3654.79,False
+250,913,Martha Haynes,marymcconnell@gmail.com,+1-185-386-4531x210,South,Medium,601,Bank 601,East,0.67,5122.28,USD,2024-01-09,Wilsonview,False,True,0.0651030626324788,1,5122.28,5122.28,5122.28,False
+251,707,Sarah Walker,adamscarol@hotmail.com,001-011-977-7346x987,West,Low,196,Bank 196,North,0.58,1822.57,USD,2024-01-27,South Breannafurt,True,True,-1.0977279497290542,3,6470.55,9652.95,1822.57,False
+252,468,Dawn Hanson,leonardjordan@dixon.biz,506.064.9597x55646,West,High,267,Bank 267,South,0.8,4613.5,USD,2024-05-06,Rebeccabury,False,True,-0.11419304595563969,2,2401.405,4613.5,189.31,False
+253,542,Linda Phillips,rhondacook@cole.com,781-683-0156x994,South,Low,125,Bank 125,West,0.65,4914.22,USD,2024-11-17,Kyleville,False,True,-0.00821811420789201,2,3224.15,4914.22,1534.08,False
+254,580,Jeff Munoz,timothybeck@cruz-jackson.com,9592219322,West,Low,322,Bank 322,West,0.91,460.83,USD,2024-04-14,Mathewsstad,False,True,-1.5776105766184454,3,6623.893333333333,9753.09,460.83,False
+255,245,Christina Waters,harrisandrea@gmail.com,495.376.6727,North,Medium,164,Bank 164,North,0.64,4948.03,USD,2024-07-07,East Paigefurt,True,True,0.0036966651296688165,2,5223.0650000000005,5498.1,4948.03,False
+256,458,Michael Marshall,greenvalerie@rodriguez.com,6894667386,South,Medium,479,Bank 479,South,0.67,8445.78,USD,2024-05-07,Port Markmouth,True,True,1.2363177662226597,3,6883.423333333333,8445.78,5069.65,True
+257,146,Kaitlyn Adams,jeremyhardin@hotmail.com,364.285.9214,South,Medium,748,Bank 748,South,0.8,1571.33,USD,2024-09-21,North John,True,True,-1.1862659314140238,1,1571.33,1571.33,1571.33,False
+258,46,Jennifer Saunders,michaelalvarez@hotmail.com,584-635-6115x14261,South,Medium,976,Bank 976,West,0.89,177.53,USD,2024-06-20,East Matthew,False,True,-1.6774466306359266,2,1340.7150000000001,2503.9,177.53,False
+259,713,Arthur Carter,hilledward@zimmerman.com,383-975-2505,South,Medium,265,Bank 265,South,0.53,5561.8,USD,2023-12-01,South Rickeyville,False,True,0.21999166998074318,2,7757.73,9953.66,5561.8,False
+260,987,Denise Maldonado,debramahoney@hotmail.com,990.690.9357,West,Medium,355,Bank 355,East,0.99,2042.59,USD,2024-05-15,South Briannaport,False,True,-1.0201920210141717,3,2684.98,5040.11,972.24,False
+261,841,Hailey Miller,jasonschwartz@rodriguez-phillips.biz,(306)843-1747x77831,North,High,900,Bank 900,South,0.62,349.8,USD,2024-06-16,Maldonadobury,False,True,-1.61673799305883,3,2884.5966666666664,7183.23,349.8,False
+262,199,Michelle Stafford,sanchezerik@hotmail.com,(926)029-5005x328,South,Low,767,Bank 767,East,0.87,1280.33,USD,2024-08-27,Brucefort,True,True,-1.2888154962537237,3,5820.926666666666,8385.43,1280.33,False
+263,299,Mark Ritter,kcarpenter@hunter-jones.info,334-344-2995x2863,East,Low,627,Bank 627,North,0.59,8088.19,USD,2024-02-14,Danielsside,False,True,1.1103016188308095,2,7002.405,8088.19,5916.62,True
+264,263,Travis Taylor,michael92@gmail.com,328-973-0519x543,North,Medium,960,Bank 960,East,0.75,4503.43,USD,2024-05-29,East Richardville,True,True,-0.1529821545532539,1,4503.43,4503.43,4503.43,False
+265,390,Timothy Murphy,lowemelissa@yahoo.com,886.576.5455x980,East,Medium,279,Bank 279,West,0.93,715.49,USD,2024-07-11,New Anna,False,True,-1.4878673732436072,1,715.49,715.49,715.49,False
+266,924,Shelby Howell,xporter@yahoo.com,+1-011-535-0504,North,Low,176,Bank 176,West,0.54,6913.32,USD,2024-05-20,North Douglas,False,True,0.696272727960644,2,4387.165,6913.32,1861.01,True
+267,815,Andrew Strickland,monica17@haynes.info,375.328.9258x78520,South,Medium,615,Bank 615,North,0.52,231.34,USD,2024-04-22,Lake Danielfort,True,True,-1.6584837712406542,2,3185.475,6139.61,231.34,False
+268,155,Christopher Anderson,xgordon@gmail.com,372.326.4228x8018,North,Low,3,"Morgan, Terry and Cortez",East,0.72,4323.75,USD,2024-08-22,Bernardtown,False,True,-0.2163021057917326,2,4764.46,5205.17,4323.75,False
+269,190,Gina Lopez,kevin63@gmail.com,289.590.7508,West,High,766,Bank 766,East,0.67,2147.56,USD,2024-09-21,Lake Andrewborough,True,True,-0.9832001728312738,2,1698.865,2147.56,1250.17,False
+270,593,Erica Marquez,newmanamber@vasquez.net,197.694.6104x539,East,Low,414,Bank 414,South,0.69,8046.96,USD,2024-11-10,Jonesville,True,True,1.0957720017918378,2,4352.155,8046.96,657.35,True
+271,961,Christopher Miller,jeffreymartin@sullivan.biz,543-923-3932x446,East,High,944,Bank 944,North,0.76,9821.71,USD,2024-03-12,Jacksontown,False,True,1.7212010059129967,1,9821.71,9821.71,9821.71,True
+272,732,Frank Harris,baileysara@gmail.com,083-837-8253,West,Low,557,Bank 557,West,0.58,5719.44,USD,2024-11-19,Lake James,False,True,0.2755446369956237,2,5964.51,6209.58,5719.44,False
+273,28,Steven Pineda,fisherelizabeth@johnson.com,205.038.3471,West,Low,723,Bank 723,South,0.75,7010.93,USD,2024-07-08,Fisherfort,False,True,0.7306708826823043,2,3693.135,7010.93,375.34,True
+274,267,Kenneth King,amanda04@hess.com,995-429-4119x1924,North,Medium,936,Bank 936,North,0.62,5501.76,USD,2024-07-25,Hessport,False,True,0.19883333364749375,2,4284.945,5501.76,3068.13,False
+275,429,Matthew Patel,donald19@gmail.com,538.043.4194,South,Medium,433,Bank 433,East,0.84,8542.36,USD,2024-08-02,East Barbaramouth,True,True,1.2703529448213478,3,6193.44,9355.9,682.06,True
+276,505,Lori Olson,zdowns@gmail.com,046.693.7705,East,Medium,81,Bank 81,South,0.86,5835.83,USD,2024-07-22,Robertfort,False,True,0.3165609388914749,3,3664.773333333333,5835.83,826.94,False
+277,981,Danny Lewis,morganwoods@jacobson-harris.com,+1-533-977-8488x161,East,Medium,146,Bank 146,West,0.6,2569.61,USD,2024-07-09,New Josephborough,False,True,-0.8344680634134203,1,2569.61,2569.61,2569.61,False
+278,44,Melanie Rose,nmcgee@jones.com,697-486-6117,South,Low,144,Bank 144,South,0.66,6793.69,USD,2024-10-09,Lake Coryhaven,False,True,0.6541146370954436,1,6793.69,6793.69,6793.69,True
+279,309,Eric Howell,christine44@hotmail.com,(496)157-8335,South,High,202,Bank 202,West,0.83,6343.65,USD,2023-12-24,Port Robert,True,True,0.4955187396368232,1,6343.65,6343.65,6343.65,True
+280,223,Dawn Wilson,emilymendez@yahoo.com,884-151-7168x4844,North,High,552,Bank 552,South,0.78,6647.48,USD,2024-03-15,Taylorville,True,True,0.6025896478335449,1,6647.48,6647.48,6647.48,True
+281,826,John Petersen,taylorshari@king.net,001-433-377-0646x89416,South,Low,730,Bank 730,North,0.89,2299.1,USD,2024-08-01,South Taylorton,False,True,-0.929796870233995,2,1899.435,2299.1,1499.77,False
+282,691,Ruth Lewis,fitzgeraldashley@long.com,+1-041-937-3363x7404,East,High,621,Bank 621,East,0.89,2657.98,USD,2023-12-02,Dianebury,True,True,-0.8033261216784229,1,2657.98,2657.98,2657.98,False
+283,419,Heather Baldwin,jeffreyhall@kerr.com,792.559.0647,West,Medium,137,Bank 137,East,0.81,8953.74,USD,2024-06-23,South Jennifer,False,True,1.4153249035284117,1,8953.74,8953.74,8953.74,True
+284,525,Brittany Wagner,ericrice@gmail.com,001-552-374-1094,South,High,235,Bank 235,East,0.79,9476.66,USD,2024-02-18,Robinsonland,False,True,1.5996040047173323,1,9476.66,9476.66,9476.66,True
+285,454,Alexis Conway,smurphy@hotmail.com,958.236.5760x31320,West,High,868,Bank 868,West,0.72,291.24,USD,2024-05-19,Port Kenneth,False,True,-1.6373747714678089,2,4605.605,8919.97,291.24,False
+286,838,Christine Ramirez,cle@hotmail.com,+1-028-786-7794,North,Medium,511,Bank 511,East,0.53,5490.4,USD,2024-03-08,Jamesborough,True,True,0.19483002417471354,2,6114.485,6738.57,5490.4,False
+287,301,Timothy Contreras,gonzalezemily@hotmail.com,172-926-1775x0414,North,Medium,974,Bank 974,West,0.72,7056.83,USD,2024-03-07,Port Lesliefurt,True,True,0.7468462264147517,4,5271.78,9790.33,135.47,True
+288,4,James Campbell,virginiamorgan@gmail.com,161-783-7589x5926,South,Low,450,Bank 450,South,0.62,3109.66,USD,2024-08-21,Russellland,False,True,-0.6441522816550702,4,4092.14,6185.55,2899.69,False
+289,72,Bradley Lewis,rosarioashley@gmail.com,(337)929-1912x197,North,Low,405,Bank 405,East,0.82,7190.82,USD,2024-03-17,North Shannon,True,True,0.7940648387613887,3,7216.256666666667,7964.62,6493.33,True
+290,127,Gina Rios,erictaylor@yahoo.com,+1-753-585-3701x467,North,Medium,523,Bank 523,North,0.59,4988.87,USD,2023-12-12,Jonesstad,False,True,0.018088844607515406,2,4818.65,4988.87,4648.43,False
+291,247,Rachel Sims,jacob82@yahoo.com,067-869-5159x45545,North,Low,285,Bank 285,West,0.54,5667.24,USD,2024-05-01,New Luishaven,False,True,0.25714914804499717,4,3236.3025,5667.24,1603.76,False
+292,126,Justin Bryant,chloe09@gmail.com,001-826-146-7775x183,West,Low,395,Bank 395,South,0.55,5438.63,USD,2024-09-30,Williamsborough,True,True,0.1765860689453279,1,5438.63,5438.63,5438.63,False
+293,400,Mary Brewer,vchristian@yahoo.com,001-613-794-6849x582,South,Low,985,Bank 985,South,0.91,7321.32,USD,2024-02-20,Roytown,False,True,0.8400535611379552,4,5409.4975,9209.03,1070.63,True
+294,551,Carol Berg,mercedes39@cooper.com,001-841-724-4814x355,West,Medium,617,Bank 617,North,0.75,4183.5,USD,2024-04-10,Hunterport,False,True,-0.2657267671964333,3,2076.4233333333336,4183.5,412.07,False
+295,484,Jason Young,roberta53@warner.com,001-013-638-1936,East,Medium,533,Bank 533,East,0.52,6888.92,USD,2024-08-24,Lake Jorgefurt,True,True,0.6876740702902363,2,4575.385,6888.92,2261.85,True
+296,717,Albert Freeman,jgarrett@hotmail.com,+1-043-668-0864x3696,North,Medium,260,Bank 260,East,0.8,6939.09,USD,2024-07-06,Lake Amy,False,True,0.7053541791150052,2,7480.545,8022.0,6939.09,True
+297,351,Jeremy Blake,michaelaguilar@chandler.org,(534)725-6431x097,South,Low,776,Bank 776,West,0.54,8329.63,USD,2024-07-20,Brendaport,False,True,1.1953860412875006,2,7748.424999999999,8329.63,7167.22,True
+298,747,Karen Hernandez,tmontoya@yahoo.com,(920)232-2031x871,East,High,787,Bank 787,West,0.54,1804.21,USD,2024-07-09,West Ryan,True,True,-1.104198087222033,1,1804.21,1804.21,1804.21,False
+299,458,Michael Marshall,greenvalerie@rodriguez.com,6894667386,South,Medium,437,Bank 437,South,0.82,5069.65,USD,2024-09-23,Jessicaport,True,True,0.04655603996061138,3,6883.423333333333,8445.78,5069.65,False
+300,216,Charles Martinez,daniel40@gmail.com,306.125.7546,North,Medium,848,Bank 848,North,0.58,8480.02,USD,2024-02-24,North Carlosport,False,True,1.2483840792814613,1,8480.02,8480.02,8480.02,True
+301,439,Laura Fisher,vasquezanna@yahoo.com,321-713-3858x4239,South,Low,790,Bank 790,South,0.57,2480.82,USD,2024-11-02,Nathanport,True,True,-0.8657580148296298,1,2480.82,2480.82,2480.82,False
+302,475,Isaac Hutchinson,nicholas33@hendricks-moran.org,947.254.5787x126,North,Low,610,Bank 610,South,0.97,7181.1,USD,2024-07-16,Stephanieshire,True,True,0.7906394718533412,3,4950.096666666667,7181.1,2886.41,True
+303,290,Cory Thomas,aprilgonzalez@farmer.org,(332)866-8089x1070,North,Low,545,Bank 545,South,0.8,1095.79,USD,2023-12-09,Bakerside,False,True,-1.353848130946226,2,3803.95,6512.11,1095.79,False
+304,965,Margaret Gomez,patricia24@blair-jennings.org,445.652.0719x618,West,High,278,Bank 278,North,0.57,5483.55,USD,2024-06-19,Taylorberg,True,True,0.19241605675494758,3,3935.476666666667,6296.23,26.65,False
+305,802,Sarah Roberts,eclark@barnes.biz,528-482-3816,North,Low,947,Bank 947,South,0.66,6191.57,USD,2024-01-03,Ryanton,True,True,0.4419251388779863,2,6491.264999999999,6790.96,6191.57,True
+306,503,Charles Willis,whitneylewis@allen.com,(362)423-2679x0834,South,High,882,Bank 882,East,0.65,3971.53,USD,2024-09-05,Robertborough,False,True,-0.3404258436880868,2,5411.17,6850.81,3971.53,False
+307,586,Shane Stein,melissa69@petty-smith.com,001-681-148-8567x26618,North,Medium,805,Bank 805,North,0.75,3364.09,USD,2023-11-29,Yodermouth,False,True,-0.5544901312008954,1,3364.09,3364.09,3364.09,False
+308,187,Linda Robinson,whitakerlisa@flores.com,800.813.2808x1058,West,High,927,Bank 927,East,0.71,5439.16,USD,2024-10-21,Kochville,True,True,0.17677284306685717,2,5788.545,6137.93,5439.16,False
+309,718,Christopher Baxter,robertgibson@yahoo.com,+1-235-803-7906,North,Medium,152,Bank 152,South,0.64,1432.47,USD,2024-11-20,New Colin,False,True,-1.2352007512547134,2,5366.264999999999,9300.06,1432.47,False
+310,780,Tanner Weaver,blackeric@yahoo.com,(133)576-2569x4880,North,Low,844,Bank 844,North,0.75,1773.87,USD,2024-07-26,East Robert,True,True,-1.1148900246695812,3,5278.843333333333,9452.52,1773.87,False
+311,46,Jennifer Saunders,michaelalvarez@hotmail.com,584-635-6115x14261,South,Medium,247,Bank 247,East,0.95,2503.9,USD,2024-10-28,West Aaronmouth,True,True,-0.8576245304430309,2,1340.7150000000001,2503.9,177.53,False
+312,267,Kenneth King,amanda04@hess.com,995-429-4119x1924,North,Medium,255,Bank 255,East,0.99,3068.13,USD,2024-07-11,Terriberg,True,True,-0.6587876198949076,2,4284.945,5501.76,3068.13,False
+313,680,Monica Cook DDS,ginalawrence@hotmail.com,(595)951-2853x2957,West,High,612,Bank 612,East,0.9,5933.81,USD,2024-03-14,Scottshire,True,True,0.35108948309420285,1,5933.81,5933.81,5933.81,False
+314,145,Dylan Simpson,lopeztimothy@gmail.com,001-606-475-5859,North,High,876,Bank 876,South,0.55,8411.99,USD,2024-04-27,Aguirreborough,False,True,1.224410034965156,3,3647.1733333333336,8411.99,248.69,True
+315,990,Ebony Elliott,kaisernicole@gmail.com,001-018-612-6994x64402,East,Low,120,Bank 120,North,0.5,2798.56,USD,2024-04-02,Hardinland,False,True,-0.7537851669527699,1,2798.56,2798.56,2798.56,False
+316,56,Joseph Vincent,xjohnson@alvarez.info,0602013700,South,Low,237,Bank 237,North,0.88,9515.56,USD,2024-04-18,South Jesse,True,True,1.6133125204295806,1,9515.56,9515.56,9515.56,True
+317,714,Alexis Wilson,josewhite@gmail.com,(007)064-2235,West,Medium,202,Bank 202,West,0.83,7879.18,USD,2024-06-07,Mariastad,False,True,1.0366456581876975,4,5505.3625,7879.18,2764.94,True
+318,646,Clayton Newman DDS,castillosamuel@watts-ross.info,884-187-7832,West,High,850,Bank 850,West,0.88,6411.68,USD,2024-08-29,East Stacy,False,True,0.5194927839531286,3,5183.626666666667,7133.35,2005.85,True
+319,222,John Ware,erin10@hotmail.com,240.134.8379,East,Low,697,Bank 697,North,0.61,9964.43,USD,2024-04-10,South Wesleyberg,False,True,1.7714961052048253,1,9964.43,9964.43,9964.43,True
+320,245,Christina Waters,harrisandrea@gmail.com,495.376.6727,North,Medium,282,Bank 282,East,0.82,5498.1,USD,2024-11-17,West Michael,True,True,0.19754353499693264,2,5223.0650000000005,5498.1,4948.03,False
+321,866,Michelle Gray,eddieflores@gmail.com,001-033-263-5602,West,Medium,575,Bank 575,West,0.55,7262.49,USD,2024-06-22,South Candace,True,True,0.8193216336481972,2,5312.165,7262.49,3361.84,True
+322,249,Janet Anderson DDS,wgreene@madden-garcia.com,(146)306-2186,North,Low,147,Bank 147,West,0.59,4906.96,USD,2023-11-28,South Sarahton,False,True,-0.0107765672688413,3,4506.906666666667,6058.5,2555.26,False
+323,429,Matthew Patel,donald19@gmail.com,538.043.4194,South,Medium,514,Bank 514,North,0.53,9355.9,USD,2024-01-14,South Brittanychester,True,True,1.5570476973288712,3,6193.44,9355.9,682.06,True
+324,594,Samantha Morgan,jcharles@mitchell-phillips.com,654-400-4698x520,South,Medium,992,Bank 992,West,0.91,1170.48,USD,2024-11-11,Port Crystalberg,True,True,-1.3275270759707032,2,3110.5550000000003,5050.63,1170.48,False
+325,714,Alexis Wilson,josewhite@gmail.com,(007)064-2235,West,Medium,602,Bank 602,East,0.9,5466.56,USD,2023-11-26,Hendersonbury,False,True,0.18642871274592188,4,5505.3625,7879.18,2764.94,False
+326,527,Michelle Thomas,cynthia85@gmail.com,902-220-3707x0830,East,High,463,Bank 463,West,0.93,1976.69,USD,2024-01-08,West Margaret,True,True,-1.0434154448043305,2,1265.65,1976.69,554.61,False
+327,522,Danielle Martinez,twhite@olson-ingram.com,752-948-9910x0358,East,Medium,336,Bank 336,South,0.93,2951.02,USD,2024-11-04,Alexistown,False,True,-0.7000576526728364,1,2951.02,2951.02,2951.02,False
+328,592,Christopher Caldwell,alexisdennis@hotmail.com,(307)404-3550x89746,West,High,365,Bank 365,West,0.76,8012.16,USD,2024-03-21,West Kathryn,False,True,1.08350834249142,1,8012.16,8012.16,8012.16,True
+329,405,Travis Hill,mlopez@richardson.com,989-237-7752x478,South,High,214,Bank 214,East,0.86,9663.3,USD,2024-06-26,North Jessicaberg,True,True,1.6653766878158942,1,9663.3,9663.3,9663.3,True
+330,714,Alexis Wilson,josewhite@gmail.com,(007)064-2235,West,Medium,651,Bank 651,North,0.54,5910.77,USD,2023-12-28,Priceside,True,True,0.34297009486771945,4,5505.3625,7879.18,2764.94,False
+331,519,James Osborne,carrillodawn@yahoo.com,(403)134-3212,North,Low,422,Bank 422,East,0.61,4016.15,USD,2024-02-16,Taylorfort,True,True,-0.32470157707933284,3,3564.7033333333334,5045.59,1632.37,False
+332,369,Lauren Johnson,jonathan82@anderson.com,001-394-298-2562x474,West,Low,17,Bank 17,South,0.93,9988.13,USD,2024-06-17,Carlosmouth,False,True,1.7798480800732128,3,4875.16,9988.13,179.78,True
+333,994,Emily Walker,lawrence63@gmail.com,879-480-3557,West,Low,65,Bank 65,North,0.88,1756.98,USD,2024-03-03,Lake Lindaside,False,True,-1.1208421282783183,1,1756.98,1756.98,1756.98,False
+334,402,Cynthia Browning,hoffmandwayne@washington.org,235-780-4029x959,South,Low,42,Bank 42,North,0.51,1423.22,USD,2024-10-31,Ellisonborough,False,True,-1.238460488281405,2,2871.94,4320.66,1423.22,False
+335,344,Sylvia Perez,penaangelica@gmail.com,(219)993-1234x2115,North,Low,685,Bank 685,North,0.96,9525.79,USD,2024-08-13,Johnnyville,False,True,1.6169176133791006,1,9525.79,9525.79,9525.79,True
+336,537,Alexa Shelton,cgriffin@mcconnell.com,364-665-2710,South,Low,971,Bank 971,South,0.83,5881.23,USD,2024-05-04,Henrytown,False,True,0.3325600806224795,3,5134.916666666667,6392.35,3131.17,False
+337,343,Christopher Anderson,adamwarren@jones.com,+1-574-674-3982,North,Medium,189,Bank 189,West,0.86,6413.72,USD,2023-12-28,Lake Davidhaven,True,True,0.5202116881190151,5,5491.6,8419.59,903.03,True
+338,242,Patricia Carter,hpeck@kane.com,+1-700-182-6477x5669,East,Medium,64,Bank 64,West,0.87,2209.98,USD,2024-10-30,Lake Daniel,True,True,-0.9612031149711566,1,2209.98,2209.98,2209.98,False
+339,929,Roger Larson,ocantrell@gmail.com,914.465.4103,East,Low,439,Bank 439,West,0.59,9104.47,USD,2024-05-29,Michelleland,False,True,1.468442758883353,2,8374.08,9104.47,7643.69,True
+340,295,Tonya Miller,randy98@martinez-chandler.net,297-161-8956x58451,South,Low,565,Bank 565,East,0.72,7804.25,USD,2024-06-17,Walkerton,False,True,1.010240026251482,1,7804.25,7804.25,7804.25,True
+341,364,Jennifer Hawkins,calvinmiller@morales-phillips.com,(173)731-0780x121,West,High,884,Bank 884,South,0.56,5852.85,USD,2024-08-02,Jordanchester,False,True,0.3225588550205874,2,5942.705,6032.56,5852.85,False
+342,424,Bobby Franklin,bstanton@gmail.com,(075)466-0319x67846,West,High,555,Bank 555,North,0.53,1810.19,USD,2024-08-19,Billyland,True,True,-1.1020907112847773,2,5415.045,9019.9,1810.19,False
+343,963,Debbie Clark,beth61@edwards-williams.com,001-207-573-3262x842,East,Low,550,Bank 550,North,0.99,1164.52,USD,2024-05-05,Devonside,True,True,-1.3296274038279012,2,3423.54,5682.56,1164.52,False
+344,929,Roger Larson,ocantrell@gmail.com,914.465.4103,East,Low,845,Bank 845,North,0.53,7643.69,USD,2024-08-29,North Clarence,False,True,0.9536580395481752,2,8374.08,9104.47,7643.69,True
+345,844,Angela Buck,sallymueller@herrera-sanchez.biz,427.060.2064x7822,South,Low,775,Bank 775,South,0.93,1439.14,USD,2024-06-20,Katrinamouth,True,True,-1.2328502165554667,1,1439.14,1439.14,1439.14,False
+346,273,Adam Caldwell,stephenkelley@robinson.biz,218.355.9831x529,South,Low,870,Bank 870,North,0.58,2024.4,USD,2024-10-10,Melindaland,False,True,-1.02660224982666,2,3774.58,5524.76,2024.4,False
+347,482,Kimberly Owens,qsloan@powell.com,001-793-212-9887,North,Medium,458,Bank 458,East,0.8,3150.25,USD,2023-12-30,Port Cindy,False,True,-0.629848203177945,1,3150.25,3150.25,3150.25,False
+348,220,Edward Powers,joel77@hotmail.com,+1-033-769-0423x0783,West,High,25,Bank 25,North,0.63,8740.75,USD,2024-04-23,East Annafurt,False,True,1.340266374953815,3,6318.276666666668,8740.75,2664.15,True
+349,944,Alexa Brown,gonzalezemily@gmail.com,946.049.1185x93794,North,Low,602,Bank 602,East,0.9,8195.84,USD,2024-06-20,North Bridget,False,True,1.148237909741441,1,8195.84,8195.84,8195.84,True
+350,158,Shannon Allen,ostanley@hotmail.com,957.181.0720x718,North,Low,304,Bank 304,North,0.86,7536.55,USD,2024-08-05,East Tyler,True,True,0.9159014746790158,2,6393.84,7536.55,5251.13,True
+351,210,Alexis Holt,jacksonrachel@copeland-hall.com,0175102960,North,Low,879,Bank 879,East,0.67,6094.4,USD,2024-10-22,Sampsonland,True,True,0.4076820419175957,1,6094.4,6094.4,6094.4,True
+352,633,Mary Vang,brittanygreene@hotmail.com,(599)379-6471,South,High,500,Bank 500,South,0.88,5704.22,USD,2024-05-19,North Lisa,False,True,0.27018104807170557,1,5704.22,5704.22,5704.22,False
+353,141,Mary Jordan,richard81@yahoo.com,(437)796-8421,West,Low,620,Bank 620,West,0.95,4063.65,USD,2024-10-14,Trevorton,True,True,-0.30796238694226846,1,4063.65,4063.65,4063.65,False
+354,667,John Williams,sparksjohn@wilson.info,(410)031-3251,East,Low,415,Bank 415,East,0.96,154.93,USD,2023-12-04,New Ashleymouth,True,True,-1.68541096110114,2,826.315,1497.7,154.93,False
+355,664,Melvin Carr,williamsmelissa@sanders.com,415-887-4191,South,Low,738,Bank 738,East,0.81,6080.06,USD,2024-09-26,Powellshire,False,True,0.402628568516217,1,6080.06,6080.06,6080.06,True
+356,291,Andrea Martinez,martha07@gmail.com,708-821-3193,South,Low,789,Bank 789,West,0.61,5144.52,USD,2024-02-05,Stephenmouth,False,True,0.07294052765665404,1,5144.52,5144.52,5144.52,False
+357,167,Joshua Wolf,stephenhall@hood.com,(382)448-0216x7672,North,Low,306,Bank 306,South,0.64,2639.87,USD,2024-11-08,Kelseychester,True,True,-0.8097081581706805,2,4364.525,6089.18,2639.87,False
+358,120,Melinda Rodriguez,andrewraymond@kirby.org,965.347.9719x27607,East,Low,560,Bank 560,South,0.81,5904.57,USD,2024-05-20,East Christopher,False,True,0.34078519004982866,3,5988.1466666666665,8034.61,4025.26,False
+359,957,Lisa Olson,hollandryan@porter-johnston.com,859.561.2510,North,High,988,Bank 988,North,0.97,6103.91,USD,2024-05-24,New Angelaburgh,True,True,0.41103340398503757,2,5932.110000000001,6103.91,5760.31,True
+360,789,Cassidy Quinn,mark61@gates.com,+1-926-775-9250x61960,East,Medium,327,Bank 327,West,0.77,3529.98,USD,2024-09-24,East Hannah,False,True,-0.4960298311622088,2,3201.205,3529.98,2872.43,False
+361,683,John Carney,mitchelljulie@curry.com,796.477.4061,East,Medium,453,Bank 453,East,0.59,8674.97,USD,2024-05-05,Myersmouth,True,True,1.3170852396440023,1,8674.97,8674.97,8674.97,True
+362,75,David Lopez,payers@smith.com,459.282.6939x66995,East,Low,546,Bank 546,West,0.54,1225.22,USD,2024-02-23,East Shaneberg,True,True,-1.3082364808527471,2,4078.445,6931.67,1225.22,False
+363,735,Jamie Morgan,blaketiffany@james.biz,+1-726-707-2947x478,East,Medium,608,Bank 608,West,0.76,5704.01,USD,2024-01-04,Christophertown,True,True,0.27010704323109963,1,5704.01,5704.01,5704.01,False
+364,484,Jason Young,roberta53@warner.com,001-013-638-1936,East,Medium,450,Bank 450,South,0.62,2261.85,USD,2024-07-28,North Edwardstad,True,True,-0.9429239193414823,2,4575.385,6888.92,2261.85,False
+365,517,Timothy Murphy,brittany73@johnson.biz,001-734-225-3532,West,Medium,627,Bank 627,North,0.59,8868.4,USD,2024-05-12,Carterland,False,True,1.3852507459221575,1,8868.4,8868.4,8868.4,True
+366,178,Tamara Castro,martinezmargaret@hotmail.com,001-946-118-0367x3154,North,High,408,Bank 408,South,0.73,602.48,USD,2024-05-15,Triciaville,True,True,-1.5276925496097051,3,1987.2366666666667,3463.89,602.48,False
+367,708,Lisa Black,amyhopkins@mitchell-rogers.com,001-972-857-0562,West,High,845,Bank 845,North,0.53,9514.35,USD,2024-09-30,Port Nicoleton,False,True,1.6128861115860895,1,9514.35,9514.35,9514.35,True
+368,392,Stephanie Young,phamilton@yahoo.com,664.276.5561x937,South,Low,36,Bank 36,South,0.81,7227.93,USD,2024-10-28,Farmerborough,False,True,0.8071425513084722,1,7227.93,7227.93,7227.93,True
+369,513,Dawn Stevens,jenniferknight@boyd.com,194.917.5754,North,Medium,256,Bank 256,East,0.75,4342.14,USD,2024-01-30,Jasontown,False,True,-0.2098213961786669,3,3486.0933333333337,4342.14,2767.09,False
+370,946,Jillian Molina,mcclurewendy@bernard.com,143-757-5189,East,Medium,745,Bank 745,West,0.89,4449.37,USD,2024-10-09,East Scottmouth,False,True,-0.17203311494924778,1,4449.37,4449.37,4449.37,False
+371,851,Stephen Richards,charlesdustin@moore-curtis.biz,(693)086-0091,West,Medium,504,Bank 504,North,0.6,1372.39,USD,2024-05-17,Markchester,False,True,-1.2563731837480783,2,3747.17,6121.95,1372.39,False
+372,679,Michael Watts,williamallen@osborn.com,273-474-2678,East,Medium,185,Bank 185,South,0.76,3924.17,USD,2024-03-29,East Kristinshire,False,True,-0.3571156972647473,1,3924.17,3924.17,3924.17,False
+373,284,Jennifer Coleman,matthewallen@yahoo.com,526-769-3489x29813,East,Low,906,Bank 906,South,0.72,6981.48,USD,2023-12-06,Kristinfort,True,True,0.7202925847973242,1,6981.48,6981.48,6981.48,True
+374,24,Carolyn Gilmore,andersonkelsey@gmail.com,(940)134-4137x57943,West,Low,480,Bank 480,North,0.77,6825.12,USD,2024-08-20,South Gary,True,True,0.665190694906137,1,6825.12,6825.12,6825.12,True
+375,771,Jennifer Jimenez,hallstacey@allen.com,708.121.2556x504,West,Medium,655,Bank 655,East,0.84,2252.73,USD,2024-10-18,South Carl,False,True,-0.9461378438477988,4,5795.33,9648.45,2252.73,False
+376,412,Sandra Cervantes,hberry@gmail.com,494.586.7750x3965,West,Low,784,Bank 784,West,0.66,8796.84,USD,2024-11-17,Jamieton,False,True,1.3600327154756664,2,7145.51,8796.84,5494.18,True
+377,506,Destiny Montgomery,fullergeorge@vargas.com,4668886269,North,Low,148,Bank 148,South,0.88,5776.99,USD,2024-01-30,Terriland,True,True,0.2958254873616881,1,5776.99,5776.99,5776.99,False
+378,246,Stephen Vega,adkinslisa@cole.com,(114)648-7212x935,West,Medium,943,Bank 943,North,1.0,3111.95,USD,2024-10-25,East Adrianmouth,False,True,-0.6433452764884623,3,3808.6866666666665,4942.58,3111.95,False
+379,516,Henry Gilbert,julie23@yahoo.com,(060)484-3844,North,Medium,158,Bank 158,North,0.69,7233.76,USD,2024-05-08,Carlosborough,False,True,0.8091970666452951,1,7233.76,7233.76,7233.76,True
+380,868,Douglas Martin,josemaldonado@james.com,001-529-635-6373,South,High,48,Bank 48,East,0.7,9931.19,USD,2024-11-16,Rodriguezberg,True,True,1.759782196148909,1,9931.19,9931.19,9931.19,True
+381,532,Stephanie Hudson,zachary75@gmail.com,(922)885-9020x77006,South,Low,690,Bank 690,West,0.69,6212.61,USD,2024-04-23,West Patrickfurt,False,True,0.4493397190986986,3,5911.986666666667,7157.74,4365.61,True
+382,4,James Campbell,virginiamorgan@gmail.com,161-783-7589x5926,South,Low,322,Bank 322,West,0.91,4173.66,USD,2024-01-13,Louisland,False,True,-0.26919442258482734,4,4092.14,6185.55,2899.69,False
+383,883,Joseph Carlson,edgarsilva@campbell.com,727-940-0333x2696,South,Medium,354,Bank 354,East,0.85,2330.52,USD,2024-11-06,New Andrewview,False,True,-0.9187243364633305,1,2330.52,2330.52,2330.52,False
+384,706,Diana Torres,kaylamorgan@hotmail.com,+1-532-140-3266x815,South,Low,481,Bank 481,South,0.77,6808.62,USD,2024-01-27,Lake Thomas,True,True,0.6593760288585252,2,5839.855,6808.62,4871.09,True
+385,822,William Thompson,joanna10@smith.biz,100-937-4621x167,South,Medium,469,Bank 469,South,0.85,6405.71,USD,2024-08-20,South Kyleburgh,True,True,0.5173889320559016,2,3328.4,6405.71,251.09,True
+386,689,Rachel Hansen,johnsonryan@moore.com,001-628-451-2021,West,High,513,Bank 513,South,0.96,4390.82,USD,2024-07-31,Pattersonside,False,True,-0.19266636931819775,1,4390.82,4390.82,4390.82,False
+387,458,Michael Marshall,greenvalerie@rodriguez.com,6894667386,South,Medium,776,Bank 776,West,0.54,7134.84,USD,2024-11-18,Michaelland,False,True,0.7743372626798548,3,6883.423333333333,8445.78,5069.65,True
+388,650,Joseph Andrews,bmartinez@smith-hernandez.org,+1-938-094-0842,North,Low,227,Bank 227,East,0.7,3432.85,USD,2024-09-01,North Danielville,True,True,-0.5302588319624839,1,3432.85,3432.85,3432.85,False
+389,437,Scott Johnson,fjohnson@allen-dillon.com,511.765.2123x0420,South,Low,235,Bank 235,East,0.79,5192.36,USD,2023-12-01,Jenniferview,True,True,0.08979953515469928,2,4668.635,5192.36,4144.91,False
+390,523,Thomas Hernandez,davidsimmons@schneider-friedman.org,001-645-941-6695x256,North,High,180,Bank 180,West,0.72,9261.44,USD,2024-05-16,North Joshuastad,False,True,1.5237596152163009,1,9261.44,9261.44,9261.44,True
+391,907,Jeremiah Russell,pachecomarvin@yahoo.com,286.216.1203x382,West,Medium,449,Bank 449,West,0.55,8743.29,USD,2024-09-17,New Kelly,False,True,1.3411614811211447,2,8636.435000000001,8743.29,8529.58,True
+392,483,Chad Green,rachel97@gmail.com,(705)064-4295x4912,West,High,691,Bank 691,East,0.89,8077.89,USD,2024-11-13,New Manuelside,True,True,1.1066718576010885,2,8357.855,8637.82,8077.89,True
+393,819,Ronald Cortez,natalie07@gmail.com,321-060-7698x36094,East,Low,539,Bank 539,South,0.99,2932.77,USD,2024-09-09,North Kristopherborough,False,True,-0.706489025725498,2,5957.41,8982.05,2932.77,False
+394,368,Shannon King,jarviskaren@johnson.info,(426)117-7563x659,West,Low,761,Bank 761,East,0.7,5704.79,USD,2024-03-01,New Anthony,False,True,0.27038191835335024,3,6657.083333333333,7292.38,5704.79,False
+395,555,Nathan Garza,mayerchristopher@newton.com,251.102.5568x78305,North,Low,656,Bank 656,North,0.81,5857.3,USD,2024-03-23,Whiteborough,True,True,0.3241270528334281,2,5728.885,5857.3,5600.47,False
+396,119,Joanna Johns,cheyennesmith@ortiz.info,901.185.2727x756,South,Medium,518,Bank 518,North,0.58,3114.5,USD,2024-02-25,Lake Crystal,True,True,-0.642446646281104,2,3845.29,4576.08,3114.5,False
+397,957,Lisa Olson,hollandryan@porter-johnston.com,859.561.2510,North,High,720,Bank 720,North,0.89,5760.31,USD,2024-08-24,New Courtneyborough,True,True,0.28994738859355706,2,5932.110000000001,6103.91,5760.31,False
+398,364,Jennifer Hawkins,calvinmiller@morales-phillips.com,(173)731-0780x121,West,High,408,Bank 408,South,0.73,6032.56,USD,2024-05-31,Petersonhaven,True,True,0.38588937837915255,2,5942.705,6032.56,5852.85,True
+399,259,Christopher Moore,tporter@yahoo.com,001-207-919-8487x1629,West,High,630,Bank 630,East,0.74,5586.2,USD,2024-08-03,New Markstad,True,True,0.22859032765115087,1,5586.2,5586.2,5586.2,False
+400,892,Oscar Greene DVM,tmclean@yahoo.com,(052)867-4198,South,Low,323,Bank 323,North,0.72,6753.55,USD,2024-06-09,Sarahland,True,True,0.6399691404196172,1,6753.55,6753.55,6753.55,True
+401,19,Rebekah Alexander,raven28@holmes-reyes.com,859-332-7429x154,West,Low,45,Bank 45,North,0.57,268.84,USD,2024-05-21,Johnstonmouth,False,True,-1.6452686211324454,3,2430.96,3668.41,268.84,False
+402,227,Julie Potts,matthewsthomas@leon.info,(434)954-5027x02493,West,Medium,817,Bank 817,North,0.69,8394.68,USD,2024-09-14,South Edwin,False,True,1.2183099216752071,1,8394.68,8394.68,8394.68,True
+403,99,Bradley Scott,gabrielrodriguez@gmail.com,001-834-620-6948,East,Medium,92,Bank 92,North,0.75,1644.99,USD,2024-08-25,Thomasside,False,True,-1.160307852561473,2,2184.345,2723.7,1644.99,False
+404,742,Thomas Wright,karinaduffy@yahoo.com,973-196-5840,West,High,467,Bank 467,South,0.5,6655.1,USD,2024-09-02,Mindyfort,False,True,0.6052749663355332,2,5583.01,6655.1,4510.92,True
+405,285,Daniel Smith,kristindurham@cochran-santos.com,217-983-6560x75351,South,Low,444,Bank 444,North,0.89,6674.15,USD,2024-02-21,Davidmouth,False,True,0.611988262590503,2,6987.53,7300.91,6674.15,True
+406,109,Angela Garner,aliciawiggins@white.com,+1-294-203-0843x364,East,Low,487,Bank 487,North,0.8,5939.23,USD,2024-02-28,North Vickishire,False,True,0.3529995127898424,1,5939.23,5939.23,5939.23,False
+407,475,Isaac Hutchinson,nicholas33@hendricks-moran.org,947.254.5787x126,North,Low,52,Bank 52,North,0.79,4782.78,USD,2024-08-22,Kimview,True,True,-0.054538096347171064,3,4950.096666666667,7181.1,2886.41,False
+408,797,Nicole Medina,jennifer38@murphy.net,+1-256-505-0292x98651,East,High,652,Bank 652,North,0.84,4704.76,USD,2024-08-20,West Sharonburgh,True,True,-0.0820326566523028,1,4704.76,4704.76,4704.76,False
+409,626,Deborah Harris,castrochristopher@yahoo.com,692.019.1361x175,East,Low,941,Bank 941,West,0.78,7486.47,USD,2023-12-13,Atkinschester,True,True,0.8982530822145066,2,5811.54,7486.47,4136.61,True
+410,837,Alexis Herrera,melissa16@hotmail.com,001-538-815-1902x980,North,Medium,712,Bank 712,West,0.62,2593.23,USD,2024-08-28,Cruzberg,False,True,-0.8261442808652633,1,2593.23,2593.23,2593.23,False
+411,870,Henry Kelly,jay15@gmail.com,821.988.1428,East,Medium,211,Bank 211,South,0.72,3973.95,USD,2024-04-01,Mooremouth,False,True,-0.33957302600110384,1,3973.95,3973.95,3973.95,False
+412,611,Sharon Crawford,brittney14@avila.com,(162)737-7482x4087,East,Low,699,Bank 699,North,0.66,4150.01,USD,2024-07-10,Monroehaven,True,True,-0.27752877725307085,4,4004.4425,6738.35,567.52,False
+413,713,Arthur Carter,hilledward@zimmerman.com,383-975-2505,South,Medium,368,Bank 368,West,0.98,9953.66,USD,2024-01-22,West Kathyhaven,False,True,1.7677007140937475,2,7757.73,9953.66,5561.8,True
+414,864,Patricia Hunter,ashley23@gmail.com,(462)876-1846x1828,South,Low,160,Bank 160,South,0.95,2697.79,USD,2024-10-25,Josephfurt,False,True,-0.7892969183235484,2,1787.735,2697.79,877.68,False
+415,804,Wesley Butler,acannon@poole.org,644.511.0759,East,Low,730,Bank 730,North,0.89,6134.69,USD,2024-02-18,West Aaron,False,True,0.4218803991938552,3,5630.513333333333,7698.37,3058.48,True
+416,821,Brittany Mosley,vgregory@hotmail.com,380.951.6364x0881,North,Low,556,Bank 556,South,0.88,905.28,USD,2024-10-14,Christineburgh,False,True,-1.4209846175359555,1,905.28,905.28,905.28,False
+417,156,Steven Hunt,swansonstephanie@coleman-richardson.net,630.969.4814,North,Medium,802,Bank 802,East,0.72,1980.24,USD,2024-05-03,North Melissa,False,True,-1.0421644105940868,2,997.305,1980.24,14.37,False
+418,760,Kevin Poole,joshuaevans@pitts.com,706-152-3334x773,West,Low,311,Bank 311,North,0.92,6915.24,USD,2024-09-19,East Stevenhaven,False,True,0.6969493436461842,3,3863.403333333333,6915.24,1611.88,True
+419,401,Sabrina Williams,yarnold@hotmail.com,744-218-6676x86329,South,Medium,827,Bank 827,West,0.9,1815.27,USD,2023-12-29,East Juanberg,True,True,-1.1003004989501186,1,1815.27,1815.27,1815.27,False
+420,100,Christopher Holt,bkelly@carpenter.biz,+1-900-312-9702x7509,West,Low,704,Bank 704,North,0.92,2655.72,USD,2024-06-30,Lawsonton,False,True,-0.8041225547249443,2,5821.195,8986.67,2655.72,False
+421,572,Stacy Newman,paul14@yahoo.com,174.670.6270,South,Low,220,Bank 220,East,0.76,3145.99,USD,2024-02-07,Garciafurt,False,True,-0.6313494442302375,1,3145.99,3145.99,3145.99,False
+422,519,James Osborne,carrillodawn@yahoo.com,(403)134-3212,North,Low,50,Bank 50,East,0.84,5045.59,USD,2023-12-23,Wolfemouth,True,True,0.038077199651184834,3,3564.7033333333334,5045.59,1632.37,False
+423,670,Jennifer Johnson,chambersjoseph@gibson.com,781.920.5200,North,High,373,Bank 373,East,0.82,5398.38,USD,2024-07-16,Colleenside,False,True,0.16240180782918387,3,4918.91,6929.89,2428.46,False
+424,826,John Petersen,taylorshari@king.net,001-433-377-0646x89416,South,Low,119,Bank 119,East,0.8,1499.77,USD,2023-12-14,South Markbury,False,True,-1.2114839618605149,2,1899.435,2299.1,1499.77,False
+425,744,Ana Rivas,ruth91@becker-villegas.biz,350.458.3478,North,High,915,Bank 915,North,0.89,1014.12,USD,2024-03-13,Evanburgh,False,True,-1.3826289658618904,1,1014.12,1014.12,1014.12,False
+426,351,Jeremy Blake,michaelaguilar@chandler.org,(534)725-6431x097,South,Low,88,Bank 88,West,0.52,7167.22,USD,2024-07-06,Velasquezport,False,True,0.7857481042932895,2,7748.424999999999,8329.63,7167.22,True
+427,469,Beth Maxwell,salazarmatthew@gmail.com,910-382-0134,East,Medium,318,Bank 318,South,0.93,2121.09,USD,2024-08-09,Port Ritatown,False,True,-0.9925283067876547,2,2648.77,3176.45,2121.09,False
+428,707,Sarah Walker,adamscarol@hotmail.com,001-011-977-7346x987,West,Low,132,Bank 132,East,0.85,9652.95,USD,2023-12-22,Rebeccamouth,False,True,1.661729306386029,3,6470.55,9652.95,1822.57,True
+429,496,Christopher Calhoun,danielbullock@brown-jacobson.com,(138)245-7799,North,Low,262,Bank 262,East,0.69,2188.08,USD,2023-12-29,Lake Lisaview,True,True,-0.9689207626343506,2,3742.875,5297.67,2188.08,False
+430,655,Diana Smith,angela89@gmail.com,(764)344-8287x2662,East,High,634,Bank 634,South,0.95,4794.33,USD,2024-05-19,Deanberg,False,True,-0.050467830113842704,2,4342.82,4794.33,3891.31,False
+431,350,Linda Taylor,janetzimmerman@tran-crawford.com,238.818.2957,North,Low,230,Bank 230,North,0.56,9190.51,USD,2024-07-13,Schmidtmouth,False,True,1.4987635992916275,3,6235.580000000001,9190.51,3514.6,True
+432,681,Sharon Perkins MD,rhughes@torres-jones.org,410.104.5192,West,High,688,Bank 688,West,0.81,1896.96,USD,2024-10-04,South Brandonshire,True,True,-1.0715126159543966,2,5179.9349999999995,8462.91,1896.96,False
+433,62,Stephanie Sanders,harriscristian@yahoo.com,0941153616,West,High,409,Bank 409,West,0.79,467.73,USD,2024-06-21,West Davidstad,False,True,-1.5751789889985353,1,467.73,467.73,467.73,False
+434,721,John Flynn,kathryn74@walker.com,3233312428,West,High,993,Bank 993,South,0.97,5626.44,USD,2024-11-06,Markmouth,True,True,0.24277106472726598,2,6728.905,7831.37,5626.44,False
+435,37,Jonathan Collins,bryanmichael@allen.net,480.435.0184x3398,East,High,958,Bank 958,North,0.84,1887.27,USD,2024-02-12,Lake Jeffreyfort,True,True,-1.0749274107423579,2,2955.005,4022.74,1887.27,False
+436,391,Jonathan Spencer,vanessa12@payne.com,+1-876-041-1912x38995,North,High,103,Bank 103,North,0.97,9751.56,USD,2024-11-03,New Brandonton,True,True,1.6964798651105744,3,9731.53,9763.79,9679.24,True
+437,218,Molly Thomas,jade09@gmail.com,263-888-9866x0418,East,Low,747,Bank 747,North,0.88,1946.99,USD,2024-07-26,Elizabethburgh,False,True,-1.053881843690032,1,1946.99,1946.99,1946.99,False
+438,785,Curtis Davis,brittany82@thomas.com,8777251507,North,Low,378,Bank 378,West,0.78,1877.07,USD,2024-01-10,Barbarastad,True,True,-1.0785219315717907,3,5375.96,9921.79,1877.07,False
+439,407,Steven Griffith,jasmine34@martinez.biz,666-669-7486,West,High,671,Bank 671,South,0.54,578.19,USD,2024-08-11,Andrewsfort,True,True,-1.5362524428397952,2,3853.13,7128.07,578.19,False
+440,319,Shelia Carroll,thomasnathan@smith-olson.biz,(393)619-9850x4376,North,High,18,Bank 18,North,0.57,6503.59,USD,2024-03-14,Cooperborough,False,True,0.551882235858341,2,7068.525,7633.46,6503.59,True
+441,488,Travis Murray,adamnewton@yahoo.com,+1-505-636-7226,South,Medium,622,Bank 622,West,0.92,1256.31,USD,2024-09-13,Hannahfurt,False,True,-1.297280240403035,2,1420.9299999999998,1585.55,1256.31,False
+442,520,Terry Quinn,kwoods@gmail.com,483-783-3755x14135,West,Medium,246,Bank 246,South,0.72,678.11,USD,2024-03-05,Elizabethhaven,False,True,-1.5010402348714698,1,678.11,678.11,678.11,False
+443,8,Patrick Spencer,hannah10@yahoo.com,5924666956,East,Low,60,Bank 60,South,0.95,6583.51,USD,2024-11-14,Lake Saraside,False,True,0.5800463637689555,1,6583.51,6583.51,6583.51,True
+444,177,Kimberly Martin,michele20@jackson.com,555.992.4221,South,Low,475,Bank 475,West,0.53,6463.99,USD,2024-07-09,Baldwinport,False,True,0.5379270373440723,2,6886.895,7309.8,6463.99,True
+445,654,David Wright,meyerjoshua@lopez-douglas.net,9050523075,West,Low,781,Bank 781,North,0.79,4055.84,USD,2024-08-05,Lawrencetown,False,True,-0.3107146622048047,1,4055.84,4055.84,4055.84,False
+446,710,Dr. Jason Ortega,melendezjanet@yahoo.com,341.362.5690x9464,South,High,12,Bank 12,East,0.54,3854.41,USD,2024-06-28,West Samanthaview,False,True,-0.38169940050604445,2,2232.6349999999998,3854.41,610.86,False
+447,812,Barbara Williams,kingcarolyn@gmail.com,756.811.3604x84022,North,High,719,Bank 719,North,0.72,8165.41,USD,2023-11-26,Davidton,True,True,1.137514255933633,1,8165.41,8165.41,8165.41,True
+448,155,Christopher Anderson,xgordon@gmail.com,372.326.4228x8018,North,Low,768,Bank 768,North,0.77,5205.17,USD,2024-06-26,Mckinneyside,True,True,0.09431383043166353,2,4764.46,5205.17,4323.75,False
+449,867,Eric White,cindy47@morgan.com,953.620.4905x8376,West,Medium,776,Bank 776,West,0.54,6112.06,USD,2024-06-17,West Michaelside,False,True,0.41390549660855513,2,3818.3250000000003,6112.06,1524.59,True
+450,651,Mark Arellano,agonzalez@flores.biz,266.908.8362x141,West,Medium,392,Bank 392,South,0.92,6032.62,USD,2024-06-16,North Austinfurt,False,True,0.3859105226193255,1,6032.62,6032.62,6032.62,True
+451,378,Jennifer Rodriguez,ricky44@griffin.com,977.453.1149,East,Medium,154,Bank 154,South,0.79,4558.89,USD,2024-07-20,Johnport,True,True,-0.13343782855322037,1,4558.89,4558.89,4558.89,False
+452,655,Diana Smith,angela89@gmail.com,(764)344-8287x2662,East,High,797,Bank 797,West,0.64,3891.31,USD,2024-06-28,Shepherdland,True,True,-0.36869569279956704,2,4342.82,4794.33,3891.31,False
+453,21,Michelle Hart,meredithjackson@clark.biz,837.992.4785,West,Medium,806,Bank 806,East,0.54,6445.35,USD,2024-05-28,Port Bonnie,False,True,0.5313582267302855,2,6150.3,6445.35,5855.25,True
+454,772,Lonnie Brooks Jr.,martinlindsay@yahoo.com,(927)517-8804x702,South,Low,65,Bank 65,North,0.88,2349.21,USD,2024-04-17,Lake Henry,True,True,-0.9121379056493992,1,2349.21,2349.21,2349.21,False
+455,788,Michael Soto,ellislori@banks.com,712-713-6877,North,High,838,Bank 838,East,0.51,6827.54,USD,2024-11-07,Port Kathyfort,False,True,0.6660435125931201,2,4534.115,6827.54,2240.69,True
+456,843,Pedro Schwartz,mitchelllawrence@yahoo.com,001-893-862-8238x683,West,High,195,Bank 195,North,0.81,9673.62,USD,2024-08-26,West Christy,False,True,1.6690134971256738,1,9673.62,9673.62,9673.62,True
+457,108,Robert Bryant,lewisjeffrey@martin.org,931-999-7253,North,High,507,Bank 507,East,0.82,7901.96,USD,2024-08-14,Burkemouth,False,True,1.0446734213734306,2,8619.745,9337.53,7901.96,True
+458,830,Christopher Brown,melanie82@gmail.com,001-883-866-4462x35786,South,Medium,141,Bank 141,West,0.88,3517.29,USD,2024-10-10,Lake Brittanyfort,False,True,-0.5005018379588266,2,3837.07,4156.85,3517.29,False
+459,381,Amanda Newman,gloriakelly@jenkins.biz,595-156-5789,East,Low,136,Bank 136,West,0.67,9583.48,USD,2024-11-05,West Jamesside,True,True,1.6372478003055684,3,3808.1733333333336,9583.48,732.28,True
+460,581,Tammy Tucker,kendrabenson@savage.com,+1-120-453-9061x8689,North,Low,114,Bank 114,South,0.64,5406.76,USD,2024-08-28,New Randy,False,True,0.16535495337336495,1,5406.76,5406.76,5406.76,False
+461,842,Abigail Jones,canthony@gmail.com,432.209.2539x95183,West,High,859,Bank 859,North,0.9,2187.11,USD,2024-07-18,Nicolefurt,False,True,-0.9692625945171496,1,2187.11,2187.11,2187.11,False
+462,158,Shannon Allen,ostanley@hotmail.com,957.181.0720x718,North,Low,535,Bank 535,East,0.55,5251.13,USD,2024-06-06,Samanthaport,False,True,0.11051031840428417,2,6393.84,7536.55,5251.13,False
+463,246,Stephen Vega,adkinslisa@cole.com,(114)648-7212x935,West,Medium,1001,Bank 1001,South,0.66,4942.58,USD,2024-08-06,South Adamton,True,True,0.0017760633139425428,3,3808.6866666666665,4942.58,3111.95,False
+464,19,Rebekah Alexander,raven28@holmes-reyes.com,859-332-7429x154,West,Low,527,Bank 527,West,0.59,3668.41,USD,2023-12-05,South Jose,True,True,-0.44724654504275985,3,2430.96,3668.41,268.84,False
+465,205,Tina Young,bwalker@lee.com,994-610-1443x411,West,High,685,Bank 685,North,0.96,420.03,USD,2024-09-04,South Amberstad,False,True,-1.5919886599361768,1,420.03,420.03,420.03,False
+466,199,Michelle Stafford,sanchezerik@hotmail.com,(926)029-5005x328,South,Low,969,Bank 969,East,0.97,8385.43,USD,2024-06-04,Port Dana,True,True,1.2150501846485156,3,5820.926666666666,8385.43,1280.33,True
+467,142,Billy Lee,gwagner@austin-larson.com,990-370-1257x4142,North,Medium,872,Bank 872,West,0.93,3546.9,USD,2024-06-19,Lake Edwardbury,True,True,-0.49006715543338497,2,3769.74,3992.58,3546.9,False
+468,66,Robert Sosa,ryan60@cross-kelley.com,+1-186-636-5804x292,East,Low,250,Bank 250,West,0.83,3439.5,USD,2024-09-27,Timothyside,True,True,-0.5279153453432949,2,4641.9349999999995,5844.37,3439.5,False
+469,849,Sarah Mccarty,christophergardner@gmail.com,001-177-353-2915x768,West,Low,93,Bank 93,North,0.79,9442.85,USD,2024-01-10,Katherinetown,False,True,1.5876892253797714,3,7342.876666666666,9442.85,5801.69,True
+470,926,Judith Kennedy,tamara54@rodriguez-mckee.net,690-076-0746x43091,South,High,212,Bank 212,West,0.92,6761.3,USD,2024-03-10,Shanebury,True,True,0.6427002714419803,2,3773.1150000000002,6761.3,784.93,True
+471,416,Nicholas Sloan,derek71@hall-madden.com,(365)059-0550x2085,North,Medium,308,Bank 308,West,0.99,7531.77,USD,2024-02-24,Richardchester,True,True,0.9142169835452228,1,7531.77,7531.77,7531.77,True
+472,423,Joshua Ortiz,saraholmes@hernandez-moran.com,5400975139,South,Medium,965,Bank 965,South,0.95,7153.5,USD,2024-08-26,Aaronborough,True,True,0.7809131213736994,3,4648.446666666667,7153.5,2330.49,True
+473,791,Lindsey Ruiz,matthew70@roth-roberts.com,(898)042-5469,North,Medium,232,Bank 232,East,0.53,5298.63,USD,2024-02-23,Youngstad,False,True,0.1272495085413486,1,5298.63,5298.63,5298.63,False
+474,217,Andrew Golden,alexanderrichard@rose.com,+1-652-615-1317x21098,East,High,755,Bank 755,West,0.84,5426.31,USD,2024-10-17,Lake Anthonyshire,True,True,0.17224445162977783,1,5426.31,5426.31,5426.31,False
+475,95,Amy Bates,sherryvillanueva@yahoo.com,847.738.4007,East,Medium,963,Bank 963,North,0.84,4851.24,USD,2024-01-19,Lake Stacy,True,True,-0.030412518309625162,3,4953.203333333334,9856.99,151.38,False
+476,751,Tyler Gibbs II,moorestephanie@yahoo.com,201-806-7956x67909,North,High,73,Bank 73,South,0.62,4145.44,USD,2024-10-19,Powellland,True,True,-0.2791392635462581,1,4145.44,4145.44,4145.44,False
+477,176,Julie Walker,ksanchez@lloyd.org,001-853-737-2857,West,High,332,Bank 332,East,0.73,663.62,USD,2024-07-15,Port Matthewhaven,True,True,-1.5061465688732814,2,4309.09,7954.56,663.62,False
+478,68,Anthony Nunez,marshalllinda@watson.com,158.837.5340x7988,West,Medium,918,Bank 918,South,0.52,3637.41,USD,2023-12-16,Chadland,True,True,-0.4581710691322124,2,3408.0699999999997,3637.41,3178.73,False
+479,89,Christina Cross,tmarks@dalton.com,(065)368-4609x7005,South,Low,866,Bank 866,North,0.64,2133.82,USD,2024-02-26,Lake Benjaminhaven,False,True,-0.9880422038309213,3,2650.5866666666666,4909.12,908.82,False
+480,936,Zachary Edwards DDS,kimberly61@collins.biz,388-588-5115x362,North,High,780,Bank 780,West,0.97,2237.84,USD,2024-08-02,Lake Ericborough,True,True,-0.9513851394507647,1,2237.84,2237.84,2237.84,False
+481,846,Travis Reyes,simmonsrobert@hotmail.com,(816)091-7303,North,Low,144,Bank 144,South,0.66,3144.19,USD,2024-04-26,Smithchester,True,True,-0.6319837714354315,3,4281.323333333334,5547.11,3144.19,False
+482,478,Carol Ward,alisonwalker@yahoo.com,001-910-053-7478x738,East,High,313,Bank 313,South,0.75,7721.13,USD,2024-11-05,East Belindatown,True,True,0.9809482055316336,1,7721.13,7721.13,7721.13,True
+483,511,Rebecca Murray,franksteven@velasquez-cox.com,+1-135-391-0505,East,Medium,264,Bank 264,West,0.86,8287.55,USD,2024-02-08,Watsonmouth,True,True,1.180556880846076,1,8287.55,8287.55,8287.55,True
+484,97,Linda Johnson,denise67@velasquez.com,599.039.3558x7563,East,High,171,Bank 171,East,0.75,224.51,USD,2024-09-10,Andersonview,False,True,-1.6608906905803624,1,224.51,224.51,224.51,False
+485,453,Patrick Hendricks,fbryant@yahoo.com,533-537-0628x4353,South,Medium,125,Bank 125,West,0.65,5513.92,USD,2024-11-20,East Kim,False,True,0.2031185663225822,2,5728.05,5942.18,5513.92,False
+486,692,Brittany Sanchez DDS,beverlylarson@patton.com,001-503-109-9000,North,Low,790,Bank 790,South,0.57,3884.58,USD,2024-06-08,Conwaymouth,True,True,-0.3710673717389869,1,3884.58,3884.58,3884.58,False
+487,66,Robert Sosa,ryan60@cross-kelley.com,+1-186-636-5804x292,East,Low,617,Bank 617,North,0.75,5844.37,USD,2024-01-01,East John,False,True,0.31957046907611764,2,4641.9349999999995,5844.37,3439.5,False
+488,335,Stephen Jackson,ksmall@hotmail.com,001-421-542-3867x7263,South,Medium,103,Bank 103,North,0.97,4011.08,USD,2024-02-19,New Lynn,False,True,-0.32648826537396275,1,4011.08,4011.08,4011.08,False
+489,524,Michelle Bennett MD,matthewrodriguez@yahoo.com,001-109-226-2179x75572,North,Low,23,Bank 23,North,0.79,5085.23,USD,2024-11-18,Lake Marissa,True,True,0.05204649432556849,2,4787.735,5085.23,4490.24,False
+490,81,Cynthia Christensen,brownrita@figueroa-miles.com,898-003-3371,West,Low,866,Bank 866,North,0.64,8297.69,USD,2024-01-02,West Melissaside,False,True,1.184130257435336,2,8858.98,9420.27,8297.69,True
+491,768,Susan Nelson,brookeaguirre@molina.biz,428-148-9096x15793,East,Low,696,Bank 696,West,0.95,2312.17,USD,2024-03-10,Michellebury,True,True,-0.9251909499162806,2,2847.9300000000003,3383.69,2312.17,False
+492,646,Clayton Newman DDS,castillosamuel@watts-ross.info,884-187-7832,West,High,113,Bank 113,North,0.73,7133.35,USD,2024-04-09,North Kaylashire,False,True,0.7738121807155554,3,5183.626666666667,7133.35,2005.85,True
+493,541,Scott Watson,oprice@lewis.com,927.527.5984x2107,North,High,450,Bank 450,South,0.62,1330.59,USD,2024-06-21,Gregorybury,True,True,-1.271103671068695,3,3487.1633333333334,6935.92,1330.59,False
+494,307,Diana Alvarez,jstephens@gmail.com,0412031770,North,Medium,669,Bank 669,South,0.58,1105.99,USD,2024-09-02,Lake Steven,True,True,-1.3502536101167935,1,1105.99,1105.99,1105.99,False
+495,903,Stephanie Lewis,kevin65@gmail.com,(675)358-8255x812,West,Medium,112,Bank 112,South,0.91,3955.59,USD,2023-12-09,Stevensontown,True,True,-0.34604316349408276,1,3955.59,3955.59,3955.59,False
+496,793,Nathan Hernandez,armstrongadam@fitzgerald.biz,+1-780-433-2899,East,Low,442,Bank 442,North,0.66,1836.22,USD,2024-05-24,South Kimberlystad,True,True,-1.0929176350896659,2,4932.535,8028.85,1836.22,False
+497,343,Christopher Anderson,adamwarren@jones.com,+1-574-674-3982,North,Medium,606,Bank 606,East,0.62,4332.86,USD,2023-11-23,Ortizhaven,False,True,-0.2130917053254452,5,5491.6,8419.59,903.03,False
+498,841,Hailey Miller,jasonschwartz@rodriguez-phillips.biz,(306)843-1747x77831,North,High,640,Bank 640,West,0.96,1120.76,USD,2024-09-04,Jonathanview,True,True,-1.3450486029941735,3,2884.5966666666664,7183.23,349.8,False
+499,288,Emily Aguilar,clarkallison@williams.com,+1-112-133-1416x490,North,Low,254,Bank 254,South,0.75,7129.47,USD,2024-09-07,North Jamieborough,False,True,0.7724448531843594,3,5436.09,8172.59,1006.21,True
+500,271,Valerie Robinson,christopher68@garcia-hoffman.com,342.734.6522x461,East,Low,732,Bank 732,West,0.94,9895.62,USD,2024-04-13,Lake Jasmineport,True,True,1.7472471857662695,2,8220.720000000001,9895.62,6545.82,True
+501,958,Marcus Little,bennettkatie@wilson-wise.net,640.981.2151x94948,North,Low,809,Bank 809,North,0.59,9994.12,USD,2024-03-03,West Tara,True,True,1.7819589800504978,3,3982.5433333333335,9994.12,875.61,True
+502,541,Scott Watson,oprice@lewis.com,927.527.5984x2107,North,High,694,Bank 694,South,0.56,6935.92,USD,2024-09-20,Townsendport,False,True,0.7042370584258579,3,3487.1633333333334,6935.92,1330.59,True
+503,113,Steven Hansen PhD,loganjessica@hotmail.com,258-710-9098x510,East,Low,262,Bank 262,East,0.69,5553.1,USD,2023-11-28,Eugeneville,True,True,0.2169257551556388,1,5553.1,5553.1,5553.1,False
+504,343,Christopher Anderson,adamwarren@jones.com,+1-574-674-3982,North,Medium,401,Bank 401,West,0.78,8419.59,USD,2024-02-29,Garciabury,False,True,1.2270883053870865,5,5491.6,8419.59,903.03,True
+505,315,James Garrett,perezkevin@brown-nelson.com,(403)793-9962x42141,East,Low,398,Bank 398,East,0.87,8851.2,USD,2024-02-12,Port Zacharyview,False,True,1.3791893970725262,3,8090.543333333334,8851.2,6686.31,True
+506,299,Mark Ritter,kcarpenter@hunter-jones.info,334-344-2995x2863,East,Low,515,Bank 515,North,0.81,5916.62,USD,2024-10-03,South Mollybury,True,True,0.3450316582845998,2,7002.405,8088.19,5916.62,False
+507,877,Kimberly Jones,millsamanda@hotmail.com,001-255-762-7606x3199,East,High,919,Bank 919,West,0.84,2107.14,USD,2024-10-21,Taylorbury,False,True,-0.9974443426279084,1,2107.14,2107.14,2107.14,False
+508,555,Nathan Garza,mayerchristopher@newton.com,251.102.5568x78305,North,Low,858,Bank 858,West,0.56,5600.47,USD,2024-02-02,Denisestad,True,True,0.23361913277232807,2,5728.885,5857.3,5600.47,False
+509,469,Beth Maxwell,salazarmatthew@gmail.com,910-382-0134,East,Medium,557,Bank 557,West,0.58,3176.45,USD,2024-05-21,Murphyview,False,True,-0.6206152183023432,2,2648.77,3176.45,2121.09,False
+510,347,Sandra Douglas,cowandebra@martinez.biz,2236935785,South,Medium,342,Bank 342,North,0.55,4713.35,USD,2024-10-10,Guerrerotown,True,True,-0.07900550626751573,1,4713.35,4713.35,4713.35,False
+511,557,Lisa Murray,thomasgardner@gmail.com,001-385-039-9540x5151,South,Low,484,Bank 484,South,0.63,5909.94,USD,2024-01-18,Sherylborough,True,True,0.3426775995453241,2,4330.98,5909.94,2752.02,False
+512,583,Victoria Lee,stanleyjames@yahoo.com,168-505-7909,West,Medium,630,Bank 630,East,0.74,211.71,USD,2024-10-09,East Josephtown,True,True,-1.6654014618172979,2,3304.3650000000002,6397.02,211.71,False
+513,93,Jeff Thomas,vmorgan@gutierrez.com,698-761-5978x3303,West,Low,788,Bank 788,West,0.91,1640.75,USD,2024-07-14,Lewisfurt,False,True,-1.1618020455337077,2,5617.35,9593.95,1640.75,False
+514,671,Alyssa Quinn,wsmall@gmail.com,038.763.2050,East,High,999,Bank 999,East,0.76,7195.54,USD,2023-12-29,Port Gregory,True,True,0.7957281856550087,2,5029.245,7195.54,2862.95,True
+515,337,Paul Foley,jenniferjordan@yahoo.com,+1-796-738-3733x043,East,High,560,Bank 560,South,0.81,6501.27,USD,2024-06-13,Melindaborough,False,True,0.5510646585716465,1,6501.27,6501.27,6501.27,True
+516,18,Frank Myers,wramirez@page-white.com,+1-996-635-8485x87793,West,Medium,617,Bank 617,North,0.75,7750.07,USD,2024-07-26,West Natalie,True,True,0.9911467773751418,1,7750.07,7750.07,7750.07,True
+517,331,Melissa Rojas,hsilva@fields.info,+1-646-561-5841x1411,West,Low,32,Bank 32,North,0.57,1625.93,USD,2024-03-23,Hodgechester,False,True,-1.1670246728564717,1,1625.93,1625.93,1625.93,False
+518,734,Marcia Cox,vegascott@gmail.com,859.806.6345x563,West,Low,641,Bank 641,West,0.61,2355.94,USD,2024-03-15,Joshuahaven,False,True,-0.9097662267099793,3,1510.9499999999998,2355.94,117.42,False
+519,374,Matthew Foster,sheryl66@bell-graham.net,(749)138-5826,North,High,740,Bank 740,North,0.82,5678.63,USD,2024-06-30,West Lisa,True,True,0.26116302963786386,2,5565.995,5678.63,5453.36,False
+520,394,Dawn Lopez,eburton@burke.net,+1-778-018-0606x21103,East,Medium,173,Bank 173,East,0.78,9432.86,USD,2024-02-15,North Philip,False,True,1.5841687093909447,2,9302.8,9432.86,9172.74,True
+521,340,Melissa Garcia,mariasanchez@brown.info,+1-602-040-6882x68575,South,Medium,341,Bank 341,West,0.63,4372.02,USD,2023-11-27,Grantview,False,True,-0.19929156457244615,1,4372.02,4372.02,4372.02,False
+522,955,Rachel Bell,samuelhurley@york-serrano.com,(225)425-4053,South,Low,678,Bank 678,North,0.89,1472.49,USD,2024-01-07,North Victoria,True,True,-1.2210975430592332,4,2840.8175,5367.5,1191.51,False
+523,71,John Preston,cjohnson@reese.biz,+1-474-206-7156x45920,South,Medium,240,Bank 240,East,0.73,9138.89,USD,2024-04-14,New Jonathanmouth,True,True,1.4805725046626743,1,9138.89,9138.89,9138.89,True
+524,799,Mark Reeves,sheilajones@jones.com,312-876-3165x2720,South,Low,390,Bank 390,South,0.77,1638.54,USD,2024-05-23,Aaronland,False,True,-1.162580858380085,1,1638.54,1638.54,1638.54,False
+525,99,Bradley Scott,gabrielrodriguez@gmail.com,001-834-620-6948,East,Medium,260,Bank 260,East,0.8,2723.7,USD,2024-04-15,Danielburgh,True,True,-0.7801661306087835,2,2184.345,2723.7,1644.99,False
+526,27,Linda Chavez,vyoung@yahoo.com,001-694-406-5074x864,West,Medium,814,Bank 814,South,1.0,6050.36,USD,2023-12-02,South Lisa,True,True,0.3921621696305154,1,6050.36,6050.36,6050.36,True
+527,88,Denise Pierce,ritterjoshua@hotmail.com,001-182-071-0240x829,North,Low,1006,Bank 1006,West,0.5,4131.0,USD,2024-04-23,Thompsonborough,False,True,-0.28422797734792554,1,4131.0,4131.0,4131.0,False
+528,539,Joshua Fox,clifford75@garcia-martinez.com,0365003811,South,High,52,Bank 52,North,0.79,3952.29,USD,2024-04-21,Youngmouth,False,True,-0.3472060967036052,1,3952.29,3952.29,3952.29,False
+529,160,Sylvia Hess DVM,dramirez@burns.biz,001-758-743-3067x8700,East,Low,616,Bank 616,East,0.66,7065.13,USD,2024-02-11,Andrealand,True,True,0.749771179638702,3,5505.933333333333,7065.13,3828.55,True
+530,391,Jonathan Spencer,vanessa12@payne.com,+1-876-041-1912x38995,North,High,1000,Bank 1000,East,0.96,9679.24,USD,2024-04-01,Blackburgh,True,True,1.6709940076218903,3,9731.53,9763.79,9679.24,True
+531,763,Brandi Meadows,travis36@smith.info,779-844-9388,South,Low,529,Bank 529,North,0.63,3580.37,USD,2023-12-30,North Kellymouth,False,True,-0.4782721934568051,3,1540.4833333333333,3580.37,317.98,False
+532,757,Catherine Fox,vsmall@cooper.com,799.060.3753x7167,South,Low,563,Bank 563,North,0.78,459.49,USD,2023-12-01,Jonesburgh,False,True,-1.5780827979823122,1,459.49,459.49,459.49,False
+533,343,Christopher Anderson,adamwarren@jones.com,+1-574-674-3982,North,Medium,369,Bank 369,East,0.71,7388.8,USD,2023-11-24,Bradfordfurt,True,True,0.8638337832526733,5,5491.6,8419.59,903.03,True
+534,462,Timothy Andrews,nsalas@levine-martin.com,(603)832-1024,East,High,1006,Bank 1006,West,0.5,9750.32,USD,2023-12-22,West Kenneth,False,True,1.6960428841469963,1,9750.32,9750.32,9750.32,True
+535,829,Susan Gibson,christine84@hart.org,+1-174-900-0631x5842,South,High,143,Bank 143,South,0.71,4336.54,USD,2024-08-13,North Stephenmouth,True,True,-0.21179485859482622,1,4336.54,4336.54,4336.54,False
+536,734,Marcia Cox,vegascott@gmail.com,859.806.6345x563,West,Low,193,Bank 193,East,0.93,117.42,USD,2024-04-30,West Gregorytown,False,True,-1.698629635249378,3,1510.9499999999998,2355.94,117.42,False
+537,501,Travis Galloway,jpetersen@owen-cervantes.com,286.098.1851x209,South,Medium,867,Bank 867,East,0.57,9636.4,USD,2024-10-09,South Anthonyhaven,False,True,1.6558970201382726,1,9636.4,9636.4,9636.4,True
+538,167,Joshua Wolf,stephenhall@hood.com,(382)448-0216x7672,North,Low,888,Bank 888,East,0.87,6089.18,USD,2024-01-30,West Courtney,True,True,0.40584249302253333,2,4364.525,6089.18,2639.87,True
+539,132,Cheryl Gillespie,christopherbrown@gmail.com,+1-561-059-6376,East,High,609,Bank 609,East,0.63,2721.97,USD,2023-12-14,Mossberg,False,True,-0.7807757895337755,1,2721.97,2721.97,2721.97,False
+540,507,Craig Wilkins,wilkinsdavid@yahoo.com,729-098-9961x141,East,High,499,Bank 499,West,0.54,8475.72,USD,2024-03-05,Conleyshire,False,True,1.246868742069053,2,9137.205,9798.69,8475.72,True
+541,721,John Flynn,kathryn74@walker.com,3233312428,West,High,233,Bank 233,North,0.78,7831.37,USD,2024-09-28,North Randystad,True,True,1.0197972228097385,2,6728.905,7831.37,5626.44,True
+542,999,Katelyn Vasquez,jeffrey76@yahoo.com,544-590-9925,North,High,408,Bank 408,South,0.73,9429.64,USD,2024-09-11,Schultzbury,True,True,1.5830339685016528,1,9429.64,9429.64,9429.64,True
+543,436,Connie Burton,williamschristina@golden.com,001-852-594-9733,West,High,976,Bank 976,West,0.89,2951.22,USD,2024-04-02,New Rachelland,True,True,-0.6999871718722593,2,4253.19,5555.16,2951.22,False
+544,786,Deborah Reyes,fwood@gmail.com,863-850-9551x1306,East,High,544,Bank 544,North,0.71,1561.0,USD,2024-04-10,New Christina,False,True,-1.1899062647638317,5,4612.992,9716.82,1412.78,False
+545,780,Tanner Weaver,blackeric@yahoo.com,(133)576-2569x4880,North,Low,808,Bank 808,East,0.92,9452.52,USD,2024-08-28,South Thomasstad,False,True,1.5910969720876749,3,5278.843333333333,9452.52,1773.87,True
+546,492,April Ray,villarrealpam@davila-jones.com,9212046469,North,Medium,233,Bank 233,North,0.78,9482.81,USD,2024-03-28,New Teresatown,False,True,1.6017712893350784,1,9482.81,9482.81,9482.81,True
+547,712,Jaime Shepard,kimmichael@yahoo.com,123-516-4935x333,North,Medium,146,Bank 146,West,0.6,8086.58,USD,2024-06-30,Daniellemouth,True,True,1.1097342483861639,2,6905.41,8086.58,5724.24,True
+548,412,Sandra Cervantes,hberry@gmail.com,494.586.7750x3965,West,Low,647,Bank 647,South,0.74,5494.18,USD,2024-05-15,Cassandrahaven,True,True,0.1961621113056212,2,7145.51,8796.84,5494.18,False
+549,553,Erika Stewart MD,anthonyjessica@yahoo.com,4418100553,East,Medium,905,Bank 905,East,0.73,7277.08,USD,2024-07-25,Laurenhaven,False,True,0.8244632080502977,2,7115.615,7277.08,6954.15,True
+550,296,Stacy Mccoy,scottgloria@novak.biz,1496557199,North,Medium,1005,Bank 1005,North,0.98,5113.55,USD,2024-02-19,Jessicamouth,False,True,0.06202657568728795,2,6997.32,8881.09,5113.55,False
+551,428,Shannon Williams,jaredgonzalez@smith.com,+1-118-158-2354x6417,South,High,503,Bank 503,North,0.72,8825.2,USD,2024-07-16,New Kathryn,False,True,1.3700268929975012,1,8825.2,8825.2,8825.2,True
+552,810,Linda Green,karathomas@gmail.com,001-030-089-6927x8495,South,High,311,Bank 311,North,0.92,146.95,USD,2024-05-28,South David,True,True,-1.6882231450441672,1,146.95,146.95,146.95,False
+553,402,Cynthia Browning,hoffmandwayne@washington.org,235-780-4029x959,South,Low,907,Bank 907,West,0.65,4320.66,USD,2024-07-17,Andersonberg,False,True,-0.21739103416064906,2,2871.94,4320.66,1423.22,False
+554,160,Sylvia Hess DVM,dramirez@burns.biz,001-758-743-3067x8700,East,Low,700,Bank 700,West,0.59,3828.55,USD,2024-10-26,Port Mariochester,True,True,-0.3908125680206651,3,5505.933333333333,7065.13,3828.55,False
+555,491,Mr. Vincent Cook PhD,carolynle@cisneros.biz,0624531520,South,Low,947,Bank 947,South,0.66,594.82,USD,2024-08-17,North Teresaton,True,True,-1.5303919642718085,1,594.82,594.82,594.82,False
+556,275,Linda Lee,dfisher@barajas-kennedy.com,286-122-5379x87262,West,Low,566,Bank 566,North,0.89,7354.65,USD,2024-09-16,East Todd,True,True,0.851799186554131,1,7354.65,7354.65,7354.65,True
+557,514,Daisy Melton,williamslisa@green.com,822.828.1602x325,North,High,108,Bank 108,South,0.5,136.69,USD,2024-05-19,Amandaport,False,True,-1.6918388101137731,1,136.69,136.69,136.69,False
+558,185,Ashley Bauer,thompsonjavier@hotmail.com,(758)332-2033x3651,North,High,108,Bank 108,South,0.5,1211.27,USD,2024-10-09,New Joseph,True,True,-1.313152516693001,2,3171.245,5131.22,1211.27,False
+559,824,Melissa White,freemanjerry@yahoo.com,001-208-376-0056,East,Low,364,Bank 364,West,0.62,3637.94,USD,2024-03-11,Toddbury,False,True,-0.457984295010683,2,3795.84,3953.74,3637.94,False
+560,89,Christina Cross,tmarks@dalton.com,(065)368-4609x7005,South,Low,453,Bank 453,East,0.59,908.82,USD,2024-07-26,Port Emilyville,False,True,-1.4197371073657405,3,2650.5866666666666,4909.12,908.82,False
+561,498,Brian Thompson,katelyn97@mills-walker.org,(236)234-2277,South,Low,137,Bank 137,East,0.81,9534.8,USD,2024-06-14,Port Destinyside,True,True,1.620092773445099,3,7129.033333333333,9534.8,4512.23,True
+562,852,Charles Davis,crystal13@foster-rodriguez.info,815-310-1888,North,Medium,648,Bank 648,North,0.6,8163.48,USD,2024-01-09,Haroldstad,False,True,1.1368341162080637,1,8163.48,8163.48,8163.48,True
+563,594,Samantha Morgan,jcharles@mitchell-phillips.com,654-400-4698x520,South,Medium,288,Bank 288,North,0.55,5050.63,USD,2023-12-15,North Brittany,True,True,0.039853315825728076,2,3110.5550000000003,5050.63,1170.48,False
+564,597,Michael Dunn,knightgeorge@griffin-flores.net,6102996239,East,High,82,Bank 82,North,0.63,3918.43,USD,2024-04-10,Lake Benjamin,False,True,-0.3591384962413105,2,6452.365,8986.3,3918.43,False
+565,915,Melanie Davis,alejandraharris@gmail.com,570.383.0540,East,Medium,395,Bank 395,South,0.55,4905.83,USD,2024-08-29,New Mollyburgh,False,True,-0.011174783792102029,1,4905.83,4905.83,4905.83,False
+566,270,Daniel Mason,stevenflowers@yahoo.com,343-699-3641x133,South,Low,147,Bank 147,West,0.59,9934.56,USD,2024-09-16,Lake Teresaborough,True,True,1.7609697976386331,1,9934.56,9934.56,9934.56,True
+567,151,Cory Collins,laurapreston@hotmail.com,(378)285-3242x934,East,High,88,Bank 88,West,0.52,9509.48,USD,2024-02-17,Charlesborough,True,True,1.6111699040920364,2,4905.835,9509.48,302.19,True
+568,955,Rachel Bell,samuelhurley@york-serrano.com,(225)425-4053,South,Low,128,Bank 128,East,0.75,5367.5,USD,2024-11-02,Reidmouth,False,True,0.15151957222007753,4,2840.8175,5367.5,1191.51,False
+569,771,Jennifer Jimenez,hallstacey@allen.com,708.121.2556x504,West,Medium,649,Bank 649,North,0.65,5545.83,USD,2024-04-21,South Jonathan,True,True,0.2143637780546606,4,5795.33,9648.45,2252.73,False
+570,94,David Baker,wpowell@hotmail.com,001-499-024-6840x3844,West,Low,215,Bank 215,North,0.94,9394.08,USD,2024-05-28,Oscarstad,True,True,1.570502482159042,1,9394.08,9394.08,9394.08,True
+571,207,Nathan Green,kyledavis@hotmail.com,(264)312-5020x317,North,Medium,254,Bank 254,South,0.75,9851.24,USD,2024-02-20,Clementsfurt,True,True,1.7316074961182077,2,9484.7,9851.24,9118.16,True
+572,693,Austin Perkins,nicholas77@wolfe.com,001-284-820-6508x09223,South,High,235,Bank 235,East,0.79,8122.23,USD,2024-04-22,North Julie,True,True,1.1222974510890342,1,8122.23,8122.23,8122.23,True
+573,753,Thomas Haney,gilbert86@hotmail.com,001-250-968-4520,North,Medium,704,Bank 704,North,0.92,6290.98,USD,2024-08-13,Vanessastad,True,True,0.4769576208048404,2,6968.584999999999,7646.19,6290.98,True
+574,527,Michelle Thomas,cynthia85@gmail.com,902-220-3707x0830,East,High,828,Bank 828,South,0.97,554.61,USD,2024-06-18,Smithmouth,False,True,-1.544562129227837,2,1265.65,1976.69,554.61,False
+575,912,Jeremy Brown,jamiebond@dillon-barnett.org,001-641-287-8606x186,South,High,365,Bank 365,West,0.76,1732.45,USD,2024-01-07,North Ryan,True,True,-1.1294865984691014,1,1732.45,1732.45,1732.45,False
+576,916,Melissa Wagner,susan58@yahoo.com,028-846-2338x80491,West,Low,683,Bank 683,West,0.78,4826.96,USD,2024-04-22,West Scottborough,True,True,-0.038968887499686626,2,4566.025,4826.96,4305.09,False
+577,160,Sylvia Hess DVM,dramirez@burns.biz,001-758-743-3067x8700,East,Low,524,Bank 524,South,0.66,5624.12,USD,2024-01-30,Ronnieville,True,True,0.24195348744057157,3,5505.933333333333,7065.13,3828.55,False
+578,207,Nathan Green,kyledavis@hotmail.com,(264)312-5020x317,North,Medium,385,Bank 385,North,0.86,9118.16,USD,2023-11-23,Stacybury,True,True,1.4732671696828565,2,9484.7,9851.24,9118.16,True
+579,973,Douglas Schroeder,gilbertmarie@gmail.com,+1-829-505-3550,East,High,619,Bank 619,South,0.89,2296.82,USD,2024-11-01,Laurenton,True,True,-0.9306003513605741,1,2296.82,2296.82,2296.82,False
+580,917,James Clark,vickie23@hotmail.com,+1-163-286-3119,South,High,809,Bank 809,North,0.59,7548.75,USD,2024-09-05,Barajasville,True,True,0.9202008035142196,3,7510.276666666668,7964.42,7017.66,True
+581,969,David Kelly,cacosta@burns-thompson.com,+1-870-946-4239x319,East,High,851,Bank 851,East,0.71,3273.65,USD,2023-12-04,North Cameron,False,True,-0.586361549221866,1,3273.65,3273.65,3273.65,False
+582,285,Daniel Smith,kristindurham@cochran-santos.com,217-983-6560x75351,South,Low,686,Bank 686,East,0.67,7300.91,USD,2024-09-29,Phillipsview,True,True,0.8328609954390608,2,6987.53,7300.91,6674.15,True
+583,773,Danielle Welch,david34@schneider.com,891.998.3034x4010,South,Low,521,Bank 521,South,0.84,6902.88,USD,2024-05-23,Port Ashley,False,True,0.6925936301705188,1,6902.88,6902.88,6902.88,True
+584,591,David Mcdaniel,tkelly@hamilton-harris.org,+1-406-367-8199x565,South,Medium,860,Bank 860,North,0.77,2903.38,USD,2024-09-01,Powersshire,False,True,-0.7168461793703048,1,2903.38,2903.38,2903.38,False
+585,663,Anthony Johnston,brianlloyd@allen.com,001-820-695-9551x1180,East,High,613,Bank 613,East,0.74,8685.31,USD,2024-11-18,New Amyshire,True,True,1.320729097033839,1,8685.31,8685.31,8685.31,True
+586,395,Sara Brown,stephen23@hotmail.com,+1-070-320-1158x18692,East,Medium,483,Bank 483,South,0.6,8054.89,USD,2024-09-19,Port Charlesfort,True,True,1.0985665655347203,1,8054.89,8054.89,8054.89,True
+587,917,James Clark,vickie23@hotmail.com,+1-163-286-3119,South,High,618,Bank 618,West,0.76,7964.42,USD,2024-10-01,East Debramouth,True,True,1.0666845753936631,3,7510.276666666668,7964.42,7017.66,True
+588,153,Karen Yang,bryansaunders@gmail.com,889.530.1735x15466,West,Low,992,Bank 992,West,0.91,9016.89,USD,2024-07-31,Samanthabury,False,True,1.4375792163106351,3,7540.1466666666665,9016.89,4897.25,True
+589,963,Debbie Clark,beth61@edwards-williams.com,001-207-573-3262x842,East,Low,896,Bank 896,South,0.69,5682.56,USD,2024-01-28,Joannfurt,True,True,0.26254797736920427,2,3423.54,5682.56,1164.52,False
+590,190,Gina Lopez,kevin63@gmail.com,289.590.7508,West,High,567,Bank 567,East,0.98,1250.17,USD,2024-03-24,Port Terri,True,True,-1.2994440009807524,2,1698.865,2147.56,1250.17,False
+591,573,David Cochran,milleralicia@hotmail.com,001-189-914-5109x7467,South,High,65,Bank 65,North,0.88,3792.94,USD,2024-08-08,Lake Bonnie,True,True,-0.4033616745634202,1,3792.94,3792.94,3792.94,False
+592,855,Michael Hunt,bwilliams@cruz.com,+1-556-158-7593x153,North,Low,313,Bank 313,South,0.75,6540.42,USD,2024-11-04,Brewermouth,True,True,0.5648612752846163,2,8185.05,9829.68,6540.42,True
+593,769,Mary Ross,gregorybuck@yahoo.com,(712)295-4476,East,Medium,122,Bank 122,West,0.55,5868.06,USD,2024-04-06,Stevensonstad,True,True,0.32791891990447686,1,5868.06,5868.06,5868.06,False
+594,804,Wesley Butler,acannon@poole.org,644.511.0759,East,Low,964,Bank 964,South,0.63,3058.48,USD,2023-12-24,Rossfort,False,True,-0.6621883185227534,3,5630.513333333333,7698.37,3058.48,False
+595,861,Robert Alexander,wmcdonald@hicks.com,497.437.2423,East,Low,470,Bank 470,South,0.56,7733.22,USD,2024-08-19,Philliphaven,True,True,0.9852087699265202,1,7733.22,7733.22,7733.22,True
+596,548,Daniel Anderson,kylebailey@griffith.net,(728)347-8526x61846,East,Low,589,Bank 589,East,0.68,4662.69,USD,2024-03-13,East Teresabury,True,True,-0.09685829305369881,1,4662.69,4662.69,4662.69,False
+597,674,Aaron Rivera,madisonsanchez@gmail.com,034.726.0560x070,West,High,325,Bank 325,East,0.86,1017.29,USD,2024-09-23,East Jamesshire,True,True,-1.381511845172743,3,1939.51,4700.21,101.03,False
+598,280,Jacqueline Dennis,halvarez@hotmail.com,9693020288,West,High,433,Bank 433,East,0.84,4398.44,USD,2024-03-20,West Hunter,False,True,-0.18998105081620978,1,4398.44,4398.44,4398.44,False
+599,930,Haley Harris,michaelstevens@simmons.com,970.198.2648,East,High,891,Bank 891,South,0.81,5153.49,USD,2024-02-03,South Antonio,True,True,0.07610159156253735,3,5533.676666666666,9855.67,1591.87,False
+600,585,Wesley Wallace,brendamoran@gmail.com,5585952792,North,High,282,Bank 282,East,0.82,1247.33,USD,2024-06-15,Andersonborough,True,True,-1.3004448283489474,2,4818.32,8389.31,1247.33,False
+601,571,Christian Green,debrasilva@williamson.biz,001-246-646-2346x0537,East,Low,327,Bank 327,West,0.77,7332.16,USD,2024-09-11,Travisview,False,True,0.8438736205292348,1,7332.16,7332.16,7332.16,True
+602,162,Bryan Galloway,wgilbert@wells.com,179.270.0687x2274,East,Medium,278,Bank 278,North,0.57,8705.3,USD,2024-11-12,Parkermouth,False,True,1.3277736530515214,2,7557.105,8705.3,6408.91,True
+603,421,Jessica Hart,brenda60@yahoo.com,(824)477-5867x64703,West,Medium,383,Bank 383,West,0.77,9815.7,USD,2024-11-17,Devinfurt,False,True,1.719083057855655,1,9815.7,9815.7,9815.7,True
+604,618,Cheryl Hill,christinamyers@yahoo.com,001-090-370-3404,East,High,688,Bank 688,West,0.81,2453.74,USD,2024-06-19,Nicoletown,False,True,-0.8753011152277711,1,2453.74,2453.74,2453.74,False
+605,228,Andrew Krause,qlopez@phillips-thompson.org,330-739-9164,South,High,950,Bank 950,East,0.52,1910.4,USD,2024-05-04,Knightland,False,True,-1.0667763061556146,1,1910.4,1910.4,1910.4,False
+606,288,Emily Aguilar,clarkallison@williams.com,+1-112-133-1416x490,North,Low,556,Bank 556,South,0.88,8172.59,USD,2023-11-29,Port Austinport,False,True,1.1400445166743516,3,5436.09,8172.59,1006.21,True
+607,37,Jonathan Collins,bryanmichael@allen.net,480.435.0184x3398,East,High,33,Bank 33,East,0.61,4022.74,USD,2024-04-21,Kyleport,False,True,-0.3223792347003171,2,2955.005,4022.74,1887.27,False
+608,934,Spencer Woods,amy26@phillips.net,962-945-4520x589,West,Low,399,Bank 399,West,0.58,5625.84,USD,2023-11-30,North Shari,False,True,0.24255962232553485,1,5625.84,5625.84,5625.84,False
+609,784,Jessica Rubio,christopherreilly@yahoo.com,(156)433-3418,East,High,709,Bank 709,East,0.94,4580.7,USD,2024-05-22,New Angieton,False,True,-0.12575189725028632,6,5130.055,7294.25,2383.42,False
+610,381,Amanda Newman,gloriakelly@jenkins.biz,595-156-5789,East,Low,930,Bank 930,West,0.74,732.28,USD,2023-12-13,North Johnland,True,True,-1.4819505100351584,3,3808.1733333333336,9583.48,732.28,False
+611,203,Amanda Floyd,wduarte@goodman-clark.com,989.262.8955x33633,West,Low,359,Bank 359,North,0.55,5797.25,USD,2024-06-04,North Jenniferland,False,True,0.30296519246014975,1,5797.25,5797.25,5797.25,False
+612,795,Crystal Schultz,andrew30@williams.com,001-471-796-5088,West,High,148,Bank 148,South,0.88,7837.58,USD,2024-09-17,Port Shannonhaven,True,True,1.0219856516676578,2,6491.71,7837.58,5145.84,True
+613,832,Susan Watkins,omoore@watson-whitney.com,(142)657-7552x17942,East,Medium,396,Bank 396,West,0.59,4102.58,USD,2024-07-29,North Scott,False,True,-0.2942432991099334,2,5800.295,7498.01,4102.58,False
+614,835,Thomas Holland,ellisjames@wilson.com,694-274-8450x825,East,Low,185,Bank 185,South,0.76,6958.26,USD,2024-07-16,Cookport,False,True,0.7121097638503215,3,6951.759999999999,7263.75,6633.27,True
+615,449,Jeffery Thomas,courtney68@gmail.com,718.675.3639x14906,West,Medium,616,Bank 616,East,0.66,4974.08,USD,2024-05-26,Lake Paul,True,True,0.01287678940483789,1,4974.08,4974.08,4974.08,False
+616,115,Amanda Webb,robertrowland@hotmail.com,+1-056-816-2694,West,High,694,Bank 694,South,0.56,8806.59,USD,2024-03-12,Laurenmouth,True,True,1.3634686545038008,2,5560.055,8806.59,2313.52,True
+617,212,Bryan Bennett PhD,alexa35@robinson-mullins.com,0510357140,South,Medium,255,Bank 255,East,0.99,7575.61,USD,2024-08-28,West Keith,False,True,0.9296663750317259,3,5984.650000000001,7575.61,3372.46,True
+618,855,Michael Hunt,bwilliams@cruz.com,+1-556-158-7593x153,North,Low,543,Bank 543,South,0.56,9829.68,USD,2024-08-10,South Kennethtown,False,True,1.7240096658159951,2,8185.05,9829.68,6540.42,True
+619,301,Timothy Contreras,gonzalezemily@hotmail.com,172-926-1775x0414,North,Medium,834,Bank 834,South,0.71,135.47,USD,2024-11-20,South James,True,True,-1.6922687429972934,4,5271.78,9790.33,135.47,False
+620,407,Steven Griffith,jasmine34@martinez.biz,666-669-7486,West,High,442,Bank 442,North,0.66,7128.07,USD,2024-05-30,Deborahside,True,True,0.7719514875803194,2,3853.13,7128.07,578.19,True
+621,612,Diane Hart,igonzalez@garner-gould.biz,105.630.5571x339,West,High,628,Bank 628,North,0.86,6390.85,USD,2024-01-20,South Nicholasport,False,True,0.5121522085730222,1,6390.85,6390.85,6390.85,True
+622,82,Christine Lopez,krichardson@huff.com,506-498-6632,North,Medium,9,"Brown, Lawrence and Chaney",West,0.62,8910.06,USD,2024-06-18,Loriburgh,True,True,1.3999318966823702,1,8910.06,8910.06,8910.06,True
+623,76,Chelsea Bradley,brandysingleton@gmail.com,(276)546-7577,West,Medium,801,Bank 801,South,0.92,5108.84,USD,2024-11-04,Susantown,True,True,0.06036675283369692,1,5108.84,5108.84,5108.84,False
+624,370,Tyrone Peters,castillonicholas@ruiz-gordon.org,+1-636-756-1595,South,Low,207,Bank 207,South,0.89,9045.09,USD,2024-01-04,Haneyshire,True,True,1.4475170091920084,1,9045.09,9045.09,9045.09,True
+625,471,William Cook,michelereeves@gmail.com,001-517-903-0741x5969,West,High,838,Bank 838,East,0.51,5555.32,USD,2024-05-01,Grimesburgh,False,True,0.21770809204204453,1,5555.32,5555.32,5555.32,False
+626,803,Karen Carter,elizabeth62@hotmail.com,806-424-8222x403,South,Medium,615,Bank 615,North,0.52,8829.18,USD,2024-01-31,South Elizabethborough,True,True,1.3714294609289857,1,8829.18,8829.18,8829.18,True
+627,443,Michael Rodgers,coltonrivera@gmail.com,(236)430-7047,East,Low,632,Bank 632,East,1.0,2841.25,USD,2023-12-17,Brendaport,False,True,-0.7387410400695851,1,2841.25,2841.25,2841.25,False
+628,178,Tamara Castro,martinezmargaret@hotmail.com,001-946-118-0367x3154,North,High,969,Bank 969,East,0.97,1895.34,USD,2024-07-01,Perezberg,False,True,-1.0720835104390714,3,1987.2366666666667,3463.89,602.48,False
+629,660,Scott Davis,jared03@hudson.com,(575)352-6612,East,Medium,349,Bank 349,North,0.79,1246.47,USD,2024-08-12,Brandonberg,True,True,-1.300747895791429,1,1246.47,1246.47,1246.47,False
+630,815,Andrew Strickland,monica17@haynes.info,375.328.9258x78520,South,Medium,78,Bank 78,West,0.75,6139.61,USD,2024-05-11,Edwardsburgh,False,True,0.4236142268880522,2,3185.475,6139.61,231.34,True
+631,460,Tina Taylor,randolphdavid@hotmail.com,220-093-0996,East,Low,269,Bank 269,North,0.9,91.22,USD,2024-02-20,Ryanport,False,True,-1.7078626201249796,3,3872.9566666666665,6739.74,91.22,False
+632,779,Daniel Hawkins,nancywhite@hill.com,198.631.3209x5320,West,Medium,517,Bank 517,West,0.91,4705.28,USD,2024-06-29,New Angelafurt,True,True,-0.08184940657080247,1,4705.28,4705.28,4705.28,False
+633,897,Lauren Lee,blake65@martinez.com,001-469-350-2145x51160,West,Low,938,Bank 938,East,0.93,7949.59,USD,2024-03-21,South Donald,False,True,1.0614584240308702,1,7949.59,7949.59,7949.59,True
+634,470,Tonya Parsons,amandagregory@baker-harmon.com,2520235930,South,High,1006,Bank 1006,West,0.5,3914.0,USD,2024-06-18,Michaelhaven,False,True,-0.3606996459740935,2,2196.52,3914.0,479.04,False
+635,10,Jared Harmon,ravila@hotmail.com,133.487.1656x55795,North,High,943,Bank 943,North,1.0,1011.47,USD,2024-08-20,Edwardview,False,True,-1.383562836469537,3,2462.2433333333333,3298.52,1011.47,False
+636,382,Elizabeth Taylor,vwalker@salas.com,692-941-1130x735,East,Low,440,Bank 440,North,0.88,3820.24,USD,2024-08-13,Stevenburgh,True,True,-0.3937410452846443,1,3820.24,3820.24,3820.24,False
+637,10,Jared Harmon,ravila@hotmail.com,133.487.1656x55795,North,High,90,Bank 90,South,0.66,3076.74,USD,2024-09-22,Richardfort,False,True,-0.6557534214300631,3,2462.2433333333333,3298.52,1011.47,False
+638,974,Thomas Miranda,mcdonaldjean@yahoo.com,+1-298-553-9282x670,North,Medium,980,Bank 980,West,0.72,3735.99,USD,2024-10-13,East Elizabeth,True,True,-0.4234310825277533,1,3735.99,3735.99,3735.99,False
+639,301,Timothy Contreras,gonzalezemily@hotmail.com,172-926-1775x0414,North,Medium,535,Bank 535,East,0.55,9790.33,USD,2024-08-09,New Kristen,False,True,1.710142568302448,4,5271.78,9790.33,135.47,True
+640,888,Shaun Howard,robert40@yahoo.com,+1-319-730-0171x343,East,Medium,320,Bank 320,North,0.9,9434.14,USD,2023-12-07,South Peter,True,True,1.5846197865146379,2,5257.6849999999995,9434.14,1081.23,True
+641,74,Lauren Torres,katherinecook@gmail.com,9520786858,South,Medium,177,Bank 177,West,0.72,4176.01,USD,2024-08-15,West Francisco,True,True,-0.2683662731780461,1,4176.01,4176.01,4176.01,False
+642,454,Alexis Conway,smurphy@hotmail.com,958.236.5760x31320,West,High,925,Bank 925,North,0.87,8919.97,USD,2024-08-31,Jenniferfurt,True,True,1.403424220350966,2,4605.605,8919.97,291.24,True
+643,674,Aaron Rivera,madisonsanchez@gmail.com,034.726.0560x070,West,High,516,Bank 516,West,0.73,101.03,USD,2024-11-22,East Mike,False,True,-1.7044055368566724,3,1939.51,4700.21,101.03,False
+644,784,Jessica Rubio,christopherreilly@yahoo.com,(156)433-3418,East,High,413,Bank 413,West,0.87,5950.8,USD,2024-11-06,Floreston,False,True,0.3570768271032286,6,5130.055,7294.25,2383.42,False
+645,780,Tanner Weaver,blackeric@yahoo.com,(133)576-2569x4880,North,Low,928,Bank 928,North,0.66,4610.14,USD,2024-03-16,Veronicaton,True,True,-0.11537712340533507,3,5278.843333333333,9452.52,1773.87,False
+646,4,James Campbell,virginiamorgan@gmail.com,161-783-7589x5926,South,Low,402,Bank 402,North,0.95,2899.69,USD,2024-07-21,Cunninghamfurt,False,True,-0.7181465501409525,4,4092.14,6185.55,2899.69,False
+647,72,Bradley Lewis,rosarioashley@gmail.com,(337)929-1912x197,North,Low,993,Bank 993,South,0.97,7964.62,USD,2024-05-29,Jenniferview,False,True,1.0667550561942403,3,7216.256666666667,7964.62,6493.33,True
+648,102,Emily Whitney,robinroberson@black.com,071.733.8655x0553,West,Low,53,Bank 53,North,0.83,281.57,USD,2024-04-24,East Lindsayland,True,True,-1.6407825181757123,2,3332.0099999999998,6382.45,281.57,False
+649,149,Timothy Fox,lrobinson@singleton.com,(140)408-0025x478,South,Low,244,Bank 244,West,0.73,9294.44,USD,2024-07-16,East Bridgetview,True,True,1.5353889473115245,2,5297.610000000001,9294.44,1300.78,True
+650,415,Jennifer Murillo,davidsoncaitlyn@gmail.com,123.030.1376,West,Medium,988,Bank 988,North,0.97,3022.37,USD,2024-10-28,Kristinastad,True,True,-0.6749136270669512,1,3022.37,3022.37,3022.37,False
+651,389,Michelle Watkins,hillevelyn@chung-garrett.com,8006037326,West,Low,715,Bank 715,West,0.79,1555.02,USD,2024-11-04,East Manuelview,False,True,-1.1920136407010873,1,1555.02,1555.02,1555.02,False
+652,139,Ronald Duncan,markwilliams@hotmail.com,(274)664-0924,South,Low,110,Bank 110,North,0.65,420.89,USD,2024-08-09,Griffithview,False,True,-1.5916855924936948,2,2936.7200000000003,5452.55,420.89,False
+653,720,Christopher Lopez,joshua37@ballard-mcmahon.com,001-081-337-9568x3892,West,Low,556,Bank 556,South,0.88,9391.38,USD,2024-05-15,Hallton,False,True,1.5695509913512509,1,9391.38,9391.38,9391.38,True
+654,265,Alicia Martin,mark14@morrison.com,675.712.6210,North,Medium,23,Bank 23,North,0.79,5719.56,USD,2023-12-14,Schmidtview,False,True,0.27558692547597025,1,5719.56,5719.56,5719.56,False
+655,565,Mr. Adam Johnson,gmaldonado@gilbert-lozano.org,+1-266-507-9352,East,Low,212,Bank 212,West,0.92,3433.1,USD,2024-03-08,Shafferville,True,True,-0.5301707309617625,1,3433.1,3433.1,3433.1,False
+656,578,Melinda Alvarado,harveylarry@gmail.com,858.779.3031x430,West,Low,61,Bank 61,East,0.52,6709.07,USD,2023-12-30,South Stevenside,False,True,0.624294210371267,1,6709.07,6709.07,6709.07,True
+657,846,Travis Reyes,simmonsrobert@hotmail.com,(816)091-7303,North,Low,631,Bank 631,East,0.86,4152.67,USD,2024-11-08,East David,False,True,-0.2765913826053953,3,4281.323333333334,5547.11,3144.19,False
+658,388,Michael Thompson,wattsstephanie@williamson-pittman.com,001-766-519-6603x19819,North,Medium,467,Bank 467,South,0.5,9746.91,USD,2024-02-16,South Dianeport,False,True,1.6948411864971566,1,9746.91,9746.91,9746.91,True
+659,564,Alicia Gonzalez,tcooper@hunter.com,721.512.3999,East,Low,191,Bank 191,East,0.89,5939.31,USD,2024-09-02,Boothport,True,True,0.3530277051100735,1,5939.31,5939.31,5939.31,False
+660,411,Michelle Harding,amywade@gmail.com,1830518739,West,Medium,375,Bank 375,South,0.77,2965.41,USD,2024-05-11,New Rebeccaburgh,True,True,-0.6949865590713131,1,2965.41,2965.41,2965.41,False
+661,593,Erica Marquez,newmanamber@vasquez.net,197.694.6104x539,East,Low,16,Bank 16,South,0.96,657.35,USD,2024-10-30,Pittmanshire,False,True,-1.5083561419713738,2,4352.155,8046.96,657.35,False
+662,754,Jessica Farmer,jmartin@stephens-kelley.com,001-500-404-1703x129,East,High,530,Bank 530,East,0.5,7283.99,USD,2024-09-10,Stephanieton,True,True,0.826898319710237,2,5399.0599999999995,7283.99,3514.13,True
+663,374,Matthew Foster,sheryl66@bell-graham.net,(749)138-5826,North,High,727,Bank 727,North,0.7,5453.36,USD,2024-06-23,Melissaton,False,True,0.18177697990783215,2,5565.995,5678.63,5453.36,False
+664,917,James Clark,vickie23@hotmail.com,+1-163-286-3119,South,High,235,Bank 235,East,0.79,7017.66,USD,2024-04-23,West Krista,True,True,0.733042561621724,3,7510.276666666668,7964.42,7017.66,True
+665,653,Mrs. Nancy Harris,brianturner@anderson-santos.com,001-007-428-9455x85471,East,Low,368,Bank 368,West,0.98,530.93,USD,2023-11-27,Micheleport,False,True,-1.552907056016167,1,530.93,530.93,530.93,False
+666,385,Patricia Schwartz,chris13@yahoo.com,296-384-5967x398,East,High,168,Bank 168,South,0.53,8594.71,USD,2024-08-13,Port Dianeborough,True,True,1.2888012943724065,2,6864.1849999999995,8594.71,5133.66,True
+667,122,Angel Harper,freese@yahoo.com,+1-194-805-1299x43901,East,Low,535,Bank 535,East,0.55,9387.23,USD,2023-12-22,Christianmouth,True,True,1.568088514739276,1,9387.23,9387.23,9387.23,True
+668,479,Eric Jones,wardrobert@gmail.com,(688)965-2994x0554,East,Low,591,Bank 591,South,0.93,2929.82,USD,2024-02-23,Princeborough,False,True,-0.7075286175340104,1,2929.82,2929.82,2929.82,False
+669,325,Benjamin Johnston,rkennedy@yahoo.com,385.926.1086,East,Medium,403,Bank 403,South,0.95,2712.13,USD,2024-10-30,Erinport,True,True,-0.7842434449221694,1,2712.13,2712.13,2712.13,False
+670,320,Renee Lopez,aaron40@mercado-norris.biz,+1-597-424-0998,East,High,523,Bank 523,North,0.59,5609.28,USD,2024-08-29,Garciaview,False,True,0.23672381203774973,1,5609.28,5609.28,5609.28,False
+671,674,Aaron Rivera,madisonsanchez@gmail.com,034.726.0560x070,West,High,605,Bank 605,East,0.74,4700.21,USD,2024-02-22,Ramosborough,True,True,-0.08363609486543219,3,1939.51,4700.21,101.03,False
+672,965,Margaret Gomez,patricia24@blair-jennings.org,445.652.0719x618,West,High,33,Bank 33,East,0.61,6296.23,USD,2024-03-14,Michaelport,True,True,0.47880774181998964,3,3935.476666666667,6296.23,26.65,True
+673,866,Michelle Gray,eddieflores@gmail.com,001-033-263-5602,West,Medium,485,Bank 485,East,0.61,3361.84,USD,2024-06-29,Wilsonton,False,True,-0.555283040207388,2,5312.165,7262.49,3361.84,False
+674,100,Christopher Holt,bkelly@carpenter.biz,+1-900-312-9702x7509,West,Low,441,Bank 441,South,0.57,8986.67,USD,2024-02-17,Lake Ethanstad,True,True,1.4269295673434335,2,5821.195,8986.67,2655.72,True
+675,817,Evan Campbell,tfuentes@yahoo.com,001-873-246-3514x4373,West,Low,18,Bank 18,North,0.57,2078.07,USD,2024-07-12,New Carolbury,True,True,-1.0076887269917918,3,3372.75,5989.25,2050.93,False
+676,857,Jeffrey Anderson,rbrandt@gmail.com,717.082.7313,West,Medium,865,Bank 865,East,0.62,1594.56,USD,2024-05-25,North Kaylatown,False,True,-1.1780795864269922,3,1722.0866666666668,2708.88,862.82,False
+677,755,Debbie Parrish DDS,michael27@gmail.com,+1-595-620-9873x5686,South,Medium,301,Bank 301,South,0.93,3542.88,USD,2024-04-09,Edwardburgh,False,True,-0.49148381952498493,2,2684.3450000000003,3542.88,1825.81,False
+678,83,Daniel Kim,carpenterjoseph@moss.com,(574)060-9599,South,Medium,538,Bank 538,North,0.97,8267.66,USD,2024-01-04,Ponceview,False,True,1.1735475652286822,1,8267.66,8267.66,8267.66,True
+679,162,Bryan Galloway,wgilbert@wells.com,179.270.0687x2274,East,Medium,488,Bank 488,West,0.81,6408.91,USD,2024-07-29,Kristenside,True,True,0.5185166248651354,2,7557.105,8705.3,6408.91,True
+680,784,Jessica Rubio,christopherreilly@yahoo.com,(156)433-3418,East,High,978,Bank 978,South,0.97,2383.42,USD,2023-12-20,West Ryantown,True,True,-0.900082164710684,6,5130.055,7294.25,2383.42,False
+681,515,Kathryn Bond,ralph17@miller.net,493-677-0630x6147,North,High,503,Bank 503,North,0.72,5873.63,USD,2024-02-13,Port Cathystad,True,True,0.32988181020054935,1,5873.63,5873.63,5873.63,False
+682,316,Paul Harmon,chelsea22@henderson.com,219.457.8401,East,High,617,Bank 617,North,0.75,4120.22,USD,2024-03-19,Lake Charlesbury,True,True,-0.28802689249903185,2,2362.395,4120.22,604.57,False
+683,859,Darren Bernard,jtran@gmail.com,320-951-3441,West,High,612,Bank 612,East,0.9,7303.01,USD,2024-08-25,Marvinchester,True,True,0.8336010438451206,2,6346.875,7303.01,5390.74,True
+684,371,Tonya Lane,jasonsnyder@smith.biz,361.700.8894x89523,East,Low,879,Bank 879,East,0.67,5340.8,USD,2024-02-20,East Yolandafurt,False,True,0.14211038534303297,2,5231.96,5340.8,5123.12,False
+685,624,Paul Mcdonald,holly98@yahoo.com,408.765.8513x13503,West,Medium,267,Bank 267,South,0.8,328.74,USD,2024-09-22,Pooleville,True,True,-1.6241596213596001,1,328.74,328.74,328.74,False
+686,701,Bryan Fleming,claire58@perez.biz,001-436-554-9623x00579,North,Medium,36,Bank 36,South,0.81,2861.56,USD,2024-03-28,Lake Gavin,True,True,-0.7315837147709793,1,2861.56,2861.56,2861.56,False
+687,531,Jennifer Thomas,victormartin@livingston.com,(393)412-9594,South,Low,273,Bank 273,West,0.79,2330.47,USD,2024-03-15,New Jonathanbury,True,True,-0.9187419566634748,1,2330.47,2330.47,2330.47,False
+688,787,Max Lloyd,cynthiacarter@gmail.com,+1-989-683-1109,East,Low,455,Bank 455,South,0.86,5671.71,USD,2023-12-31,Lake Erik,True,True,0.25872439393789576,2,5336.235000000001,5671.71,5000.76,False
+689,551,Carol Berg,mercedes39@cooper.com,001-841-724-4814x355,West,Medium,351,Bank 351,North,0.5,1633.7,USD,2024-02-09,North Kevin,True,True,-1.1642864937540511,3,2076.4233333333336,4183.5,412.07,False
+690,137,Christopher Jackson,christopherwilliams@gmail.com,267-435-5900x6236,West,High,164,Bank 164,North,0.64,2230.82,USD,2024-08-09,Moorefurt,True,True,-0.9538590155510214,1,2230.82,2230.82,2230.82,False
+691,760,Kevin Poole,joshuaevans@pitts.com,706-152-3334x773,West,Low,199,Bank 199,North,0.63,1611.88,USD,2023-12-23,Dalebury,False,True,-1.171975949097014,3,3863.403333333333,6915.24,1611.88,False
+692,886,Katherine Hoover,franceskim@powers.com,+1-369-603-2989x98433,South,High,416,Bank 416,North,0.73,300.61,USD,2024-06-10,Ericaberg,False,True,-1.6340727459607711,3,3150.5,6704.43,300.61,False
+693,50,Michelle Gallagher,stephanieleonard@hotmail.com,+1-258-517-5634x3192,South,Medium,803,Bank 803,South,0.82,2713.01,USD,2024-06-05,New Michellefort,False,True,-0.78393332939963,2,2718.1850000000004,2723.36,2713.01,False
+694,196,Cristina Goodwin,sethwalker@hotmail.com,765.212.0001,North,High,72,Bank 72,South,0.55,5463.56,USD,2024-09-15,Dianestad,True,True,0.1853715007372652,3,5620.5233333333335,9020.73,2377.28,False
+695,909,Christie Johnson,michellebaker@gmail.com,435-343-6533,West,Medium,133,Bank 133,South,0.85,6395.74,USD,2024-08-09,South Sharon,True,True,0.5138754641471325,3,6522.783333333333,7158.82,6013.79,True
+696,580,Jeff Munoz,timothybeck@cruz-jackson.com,9592219322,West,Low,538,Bank 538,North,0.97,9753.09,USD,2024-06-19,Robinhaven,True,True,1.6970190432349894,3,6623.893333333333,9753.09,460.83,True
+697,230,Gabriela Clark,ytorres@norris.com,214.892.5644,North,Low,80,Bank 80,West,0.87,5550.32,USD,2024-04-11,Albertside,False,True,0.2159460720276167,2,6592.695,7635.07,5550.32,False
+698,537,Alexa Shelton,cgriffin@mcconnell.com,364-665-2710,South,Low,800,Bank 800,East,0.88,6392.35,USD,2024-03-09,Turnerfort,True,True,0.5126808145773506,3,5134.916666666667,6392.35,3131.17,True
+699,303,Jeffery Tran,millerjason@walker-trujillo.info,+1-878-579-9130x6940,North,High,935,Bank 935,East,0.86,9376.8,USD,2024-07-27,Rosschester,True,True,1.5644129409891794,1,9376.8,9376.8,9376.8,True
+700,566,Scott Wilcox,kevinowens@gmail.com,295.546.8753,North,High,248,Bank 248,North,0.97,1295.05,USD,2024-01-07,Jodyborough,True,True,-1.283628109331248,1,1295.05,1295.05,1295.05,False
+701,574,Anna Gibson,samuel62@lynn.info,(534)740-3936,West,High,450,Bank 450,South,0.62,433.13,USD,2024-10-18,Stephenmouth,False,True,-1.5873721674983756,1,433.13,433.13,433.13,False
+702,888,Shaun Howard,robert40@yahoo.com,+1-319-730-0171x343,East,Medium,639,Bank 639,South,0.58,1081.23,USD,2023-12-22,East Sonia,True,True,-1.35897913322824,2,5257.6849999999995,9434.14,1081.23,False
+703,95,Amy Bates,sherryvillanueva@yahoo.com,847.738.4007,East,Medium,381,Bank 381,North,0.66,151.38,USD,2024-08-31,East Pamelaville,True,True,-1.686661995311384,3,4953.203333333334,9856.99,151.38,False
+704,911,Gary Whitaker,rsalinas@moreno.com,738-350-3886x370,East,High,336,Bank 336,South,0.93,3654.79,USD,2024-07-27,North Chrisport,True,True,-0.4520462875620612,3,4586.233333333334,6140.46,3654.79,False
+705,530,Joanne Wells,melissacastro@gmail.com,251-445-3837,West,High,160,Bank 160,South,0.95,922.7,USD,2024-04-06,Heatherburgh,False,True,-1.4148457398056888,1,922.7,922.7,922.7,False
+706,528,Pamela Galvan,justin59@yahoo.com,001-192-640-1125x671,South,Medium,256,Bank 256,East,0.75,1357.0,USD,2024-02-15,Heatherbury,False,True,-1.2617966813524872,1,1357.0,1357.0,1357.0,False
+707,928,Samuel Clark,markrich@hotmail.com,001-309-677-1171x87184,North,High,399,Bank 399,West,0.58,6768.72,USD,2024-01-23,New Erica,False,True,0.6453151091433912,1,6768.72,6768.72,6768.72,True
+708,77,Elizabeth Davidson,mfernandez@gmail.com,690-632-4085x9182,South,Low,441,Bank 441,South,0.57,6801.69,USD,2024-10-24,South Alexandria,False,True,0.6569338691185281,1,6801.69,6801.69,6801.69,True
+709,513,Dawn Stevens,jenniferknight@boyd.com,194.917.5754,North,Medium,342,Bank 342,North,0.55,3349.05,USD,2024-06-04,Cortezborough,False,True,-0.5597902874042943,3,3486.0933333333337,4342.14,2767.09,False
+710,609,Rachel Townsend,ann27@hotmail.com,(448)516-1846x913,North,High,412,Bank 412,East,0.51,1115.69,USD,2024-05-20,East Cindy,False,True,-1.3468352912888033,2,4347.465,7579.24,1115.69,False
+711,675,Danielle Myers,rstevens@hotmail.com,518.134.4811x250,East,Medium,615,Bank 615,North,0.52,58.63,USD,2024-01-20,Susanton,True,True,-1.7193474665790203,1,58.63,58.63,58.63,False
+712,561,Stacy Smith,amandahorne@anderson-hall.com,+1-414-999-9255x5442,East,High,464,Bank 464,North,0.93,9228.75,USD,2024-04-10,Scottton,True,True,1.5122395283619714,3,5834.493333333333,9228.75,3337.21,True
+713,996,Chad Lambert,fhill@lopez.com,001-982-020-4418x12135,West,Medium,906,Bank 906,South,0.72,7318.22,USD,2024-04-27,Port David,True,True,0.8389611087290101,2,6755.145,7318.22,6192.07,True
+714,910,Gabriella Rivera,riggsdustin@hotmail.com,+1-696-744-2638x631,South,High,181,Bank 181,West,0.69,6176.08,USD,2024-08-14,Kathyborough,True,True,0.4364664008732889,2,4375.9,6176.08,2575.72,True
+715,249,Janet Anderson DDS,wgreene@madden-garcia.com,(146)306-2186,North,Low,98,Bank 98,West,0.51,6058.5,USD,2023-12-09,Austinview,False,True,0.39503073821400403,3,4506.906666666667,6058.5,2555.26,True
+716,529,Tiffany Fields,kristawaters@hotmail.com,624-434-5739x73417,East,Low,225,Bank 225,West,0.73,701.95,USD,2024-03-29,Petersonview,False,True,-1.4926389234426778,1,701.95,701.95,701.95,False
+717,34,Jessica Bowman,gtaylor@powell-acosta.com,961.331.8598x3861,South,High,630,Bank 630,East,0.74,7188.37,USD,2024-03-18,Yvonneville,False,True,0.7932014489543191,2,8131.325000000001,9074.28,7188.37,True
+718,301,Timothy Contreras,gonzalezemily@hotmail.com,172-926-1775x0414,North,Medium,77,Bank 77,West,0.86,4104.49,USD,2024-09-02,Andersonland,True,True,-0.29357020746442203,4,5271.78,9790.33,135.47,False
+719,669,Sheri Schwartz,riosdiana@yahoo.com,1003995422,South,Low,183,Bank 183,East,0.86,2827.94,USD,2024-11-05,Lake Terri,False,True,-0.7434315373479919,2,2989.0,3150.06,2827.94,False
+720,247,Rachel Sims,jacob82@yahoo.com,067-869-5159x45545,North,Low,895,Bank 895,North,0.91,1603.76,USD,2024-08-09,North Dustinstad,False,True,-1.1748374696004449,4,3236.3025,5667.24,1603.76,False
+721,923,Jennifer Watts,patricia89@hotmail.com,110-345-6775,East,High,863,Bank 863,South,0.72,882.71,USD,2024-09-28,Amybury,False,True,-1.4289383758810825,2,3659.52,6436.33,882.71,False
+722,835,Thomas Holland,ellisjames@wilson.com,694-274-8450x825,East,Low,973,Bank 973,East,0.8,6633.27,USD,2023-12-11,North Anna,False,True,0.5975819869525413,3,6951.759999999999,7263.75,6633.27,True
+723,470,Tonya Parsons,amandagregory@baker-harmon.com,2520235930,South,High,425,Bank 425,North,0.87,479.04,USD,2024-10-15,Melissaland,True,True,-1.5711932997258993,2,2196.52,3914.0,479.04,False
+724,911,Gary Whitaker,rsalinas@moreno.com,738-350-3886x370,East,High,996,Bank 996,East,0.77,6140.46,USD,2023-12-12,West Christopher,True,True,0.4239137702905051,3,4586.233333333334,6140.46,3654.79,True
+725,23,Stephanie Cummings,boydjackie@parker.com,(927)491-6588x5214,South,Low,759,Bank 759,North,0.58,5772.74,USD,2024-08-03,North Sergiohaven,False,True,0.2943277703494244,1,5772.74,5772.74,5772.74,False
+726,767,Brian Patrick MD,brennanerica@gmail.com,(225)974-4004x16513,North,High,702,Bank 702,North,0.63,3982.78,USD,2024-02-02,Lake Andrew,False,True,-0.3364612986556242,1,3982.78,3982.78,3982.78,False
+727,262,Amanda Mcmillan,wmoreno@peck.com,541-422-3653x656,North,Medium,397,Bank 397,West,0.91,2398.96,USD,2024-03-21,Baileyburgh,True,True,-0.8946058065058423,1,2398.96,2398.96,2398.96,False
+728,864,Patricia Hunter,ashley23@gmail.com,(462)876-1846x1828,South,Low,610,Bank 610,South,0.97,877.68,USD,2024-01-12,North Jeffrey,False,True,-1.4307109680155972,2,1787.735,2697.79,877.68,False
+729,876,April Reed,panderson@greer-ryan.biz,+1-422-046-0509x7120,East,High,1009,Bank 1009,West,0.71,3094.83,USD,2024-08-04,North Courtneyview,False,True,-0.6493784330178631,2,5214.775,7334.72,3094.83,False
+730,140,Kevin Larson,dhill@gmail.com,391.788.3887,West,Low,257,Bank 257,North,0.5,6809.58,USD,2024-06-12,East Matthew,False,True,0.6597143367012953,1,6809.58,6809.58,6809.58,True
+731,220,Edward Powers,joel77@hotmail.com,+1-033-769-0423x0783,West,High,138,Bank 138,West,0.6,2664.15,USD,2024-06-10,Port Aaronmouth,False,True,-0.8011517889806189,3,6318.276666666668,8740.75,2664.15,False
+732,605,Danielle Yang MD,dianasavage@hotmail.com,664.718.4306x04796,North,High,688,Bank 688,West,0.81,440.31,USD,2024-05-09,Tylerborough,True,True,-1.5848419067576571,1,440.31,440.31,440.31,False
+733,189,Donna Hicks,dbarrera@hotmail.com,002.479.2685x766,East,High,588,Bank 588,North,0.85,3272.73,USD,2024-05-05,Phillipsside,True,True,-0.5866857609045207,1,3272.73,3272.73,3272.73,False
+734,45,Nicholas Mccarthy,lanceschmidt@yahoo.com,266.834.4084,West,High,58,Bank 58,North,0.66,9662.49,USD,2024-03-08,Hickmanport,True,True,1.6650912405735572,1,9662.49,9662.49,9662.49,True
+735,108,Robert Bryant,lewisjeffrey@martin.org,931-999-7253,North,High,457,Bank 457,West,0.98,9337.53,USD,2024-09-22,Lake David,True,True,1.5505740357958637,2,8619.745,9337.53,7901.96,True
+736,230,Gabriela Clark,ytorres@norris.com,214.892.5644,North,Low,496,Bank 496,West,0.59,7635.07,USD,2024-05-12,Ariasmouth,False,True,0.9506203170433016,2,6592.695,7635.07,5550.32,True
+737,729,Marcia Bruce,vtaylor@lee-zimmerman.com,(499)031-0141x648,South,Medium,25,Bank 25,North,0.63,9501.07,USD,2024-04-10,Adamfurt,False,True,1.6082061864277688,1,9501.07,9501.07,9501.07,True
+738,771,Jennifer Jimenez,hallstacey@allen.com,708.121.2556x504,West,Medium,121,Bank 121,West,0.9,5734.31,USD,2024-10-03,East Jared,True,True,0.28078488451853234,4,5795.33,9648.45,2252.73,False
+739,460,Tina Taylor,randolphdavid@hotmail.com,220-093-0996,East,Low,101,Bank 101,West,1.0,6739.74,USD,2024-08-05,South Madisonside,True,True,0.6351024411397673,3,3872.9566666666665,6739.74,91.22,True
+740,15,Johnny Wilson,taylorrichards@miller-clay.com,+1-638-526-7576x5824,South,Low,465,Bank 465,South,0.64,4809.83,USD,2024-09-30,Port Joshuamouth,True,True,-0.045005568069116424,1,4809.83,4809.83,4809.83,False
+741,583,Victoria Lee,stanleyjames@yahoo.com,168-505-7909,West,Medium,325,Bank 325,East,0.86,6397.02,USD,2024-06-26,North Michaelmouth,False,True,0.5143265412708262,2,3304.3650000000002,6397.02,211.71,True
+742,481,Jenna Payne,annaavila@hotmail.com,+1-383-428-5067x832,North,Low,733,Bank 733,South,0.58,7374.96,USD,2023-12-02,New Natalie,False,True,0.858956511852737,3,8481.07,9104.14,7374.96,True
+743,153,Karen Yang,bryansaunders@gmail.com,889.530.1735x15466,West,Low,330,Bank 330,North,0.54,4897.25,USD,2024-09-08,Timothystad,True,True,-0.014198410136860165,3,7540.1466666666665,9016.89,4897.25,False
+744,30,Rebekah Rivers,johnsondean@yahoo.com,898.931.0412x186,East,Medium,571,Bank 571,East,0.83,980.92,USD,2024-03-10,West Donnaberg,True,True,-1.394328778757691,1,980.92,980.92,980.92,False
+745,910,Gabriella Rivera,riggsdustin@hotmail.com,+1-696-744-2638x631,South,High,930,Bank 930,West,0.74,2575.72,USD,2024-10-10,East Miguel,True,True,-0.8323148749557896,2,4375.9,6176.08,2575.72,False
+746,67,Jessica Moyer,williamsmichelle@hotmail.com,7920943978,South,Medium,598,Bank 598,South,0.57,157.37,USD,2024-06-28,East Alexandra,False,True,-1.6845510953340996,3,1396.78,2719.25,157.37,False
+747,64,Tina Farmer,stephanieryan@sanders.com,848.869.4028,West,Medium,42,Bank 42,North,0.51,4907.27,USD,2023-12-24,Lake Amy,True,True,-0.010667322027946635,1,4907.27,4907.27,4907.27,False
+748,493,Michelle Rivera,justin61@yahoo.com,(705)603-7481,South,Medium,678,Bank 678,North,0.89,2559.75,USD,2024-04-09,North Jamiehaven,False,True,-0.8379427668818721,3,4300.946666666667,7730.8,2559.75,False
+749,466,Angela Young,nicholeweber@cannon-mcdonald.com,423-339-9096x126,South,High,673,Bank 673,West,0.54,3927.74,USD,2024-07-04,Walkerside,True,True,-0.3558576149744459,2,3221.635,3927.74,2515.53,False
+750,595,Sherry Brown,katherineperry@hotmail.com,001-292-514-4039x640,West,Low,314,Bank 314,East,1.0,9443.32,USD,2024-06-27,Matthewton,True,True,1.5878548552611274,2,7704.51,9443.32,5965.7,True
+751,145,Dylan Simpson,lopeztimothy@gmail.com,001-606-475-5859,North,High,910,Bank 910,South,0.52,2280.84,USD,2023-12-16,East Jeffreyport,True,True,-0.9362317673266853,3,3647.1733333333336,8411.99,248.69,False
+752,838,Christine Ramirez,cle@hotmail.com,+1-028-786-7794,North,Medium,743,Bank 743,North,0.53,6738.57,USD,2024-04-24,Port Lauren,True,True,0.6346901284563912,2,6114.485,6738.57,5490.4,True
+753,500,Dawn Parrish,melissarhodes@hotmail.com,001-137-790-3035x060,North,High,675,Bank 675,North,0.97,9240.92,USD,2023-12-27,Crystalfurt,True,True,1.516528285077089,1,9240.92,9240.92,9240.92,True
+754,542,Linda Phillips,rhondacook@cole.com,781-683-0156x994,South,Low,882,Bank 882,East,0.65,1534.08,USD,2024-02-07,Karichester,True,True,-1.199392980521511,2,3224.15,4914.22,1534.08,False
+755,872,Bianca Cameron,murphyjeremy@yahoo.com,+1-117-343-7669x581,North,High,255,Bank 255,East,0.99,8596.02,USD,2024-10-30,Frankville,False,True,1.289262943616187,1,8596.02,8596.02,8596.02,True
+756,788,Michael Soto,ellislori@banks.com,712-713-6877,North,High,215,Bank 215,North,0.94,2240.69,USD,2023-12-14,Lake Dominique,True,True,-0.9503807880425409,2,4534.115,6827.54,2240.69,False
+757,567,Rita Myers,ajones@fields.info,334.699.1618x5284,North,Low,179,Bank 179,East,0.65,1789.34,USD,2024-07-21,West Tammychester,False,True,-1.1094383347449412,1,1789.34,1789.34,1789.34,False
+758,9,James Lopez,bethroberts@rojas.biz,011.287.5137x958,East,Medium,375,Bank 375,South,0.77,7909.91,USD,2024-07-21,West Travis,False,True,1.047475033196371,3,4593.856666666667,7909.91,40.42,True
+759,375,Juan Cruz DDS,hmartin@gmail.com,415.733.7413,North,Low,265,Bank 265,South,0.53,3321.99,USD,2024-10-19,Christianville,False,True,-0.5693263397223779,1,3321.99,3321.99,3321.99,False
+760,753,Thomas Haney,gilbert86@hotmail.com,001-250-968-4520,North,Medium,646,Bank 646,North,0.95,7646.19,USD,2024-09-20,Donaldhaven,True,True,0.9545390495553892,2,6968.584999999999,7646.19,6290.98,True
+761,995,Kimberly Sanders,curtis56@yahoo.com,001-950-625-4390x737,North,Low,821,Bank 821,North,0.89,3571.16,USD,2024-02-19,West Mark,True,True,-0.4815178343233812,1,3571.16,3571.16,3571.16,False
+762,368,Shannon King,jarviskaren@johnson.info,(426)117-7563x659,West,Low,685,Bank 685,North,0.96,7292.38,USD,2024-07-26,Kimberlyton,False,True,0.829854989294447,3,6657.083333333333,7292.38,5704.79,True
+763,50,Michelle Gallagher,stephanieleonard@hotmail.com,+1-258-517-5634x3192,South,Medium,937,Bank 937,South,0.54,2723.36,USD,2024-08-10,Meyersfurt,True,True,-0.7802859479697645,2,2718.1850000000004,2723.36,2713.01,False
+764,972,Mr. Joshua Morris,derek07@yahoo.com,632.254.7771,West,Low,611,Bank 611,South,0.7,2334.6,USD,2024-03-31,Smithmouth,False,True,-0.9172865281315574,1,2334.6,2334.6,2334.6,False
+765,696,Roberta Cuevas,brett88@li.biz,+1-204-599-2186x24345,North,Medium,697,Bank 697,North,0.61,2421.83,USD,2024-05-22,Yufort,False,True,-0.8865463269598495,1,2421.83,2421.83,2421.83,False
+766,3,Edwin Soto,thomas69@hotmail.com,908.612.6847,North,High,586,Bank 586,East,0.6,3151.21,USD,2023-12-25,Taylorbury,True,True,-0.6295098953351749,1,3151.21,3151.21,3151.21,False
+767,288,Emily Aguilar,clarkallison@williams.com,+1-112-133-1416x490,North,Low,527,Bank 527,West,0.59,1006.21,USD,2024-05-20,East Matthew,False,True,-1.3854164815247152,3,5436.09,8172.59,1006.21,False
+768,924,Shelby Howell,xporter@yahoo.com,+1-011-535-0504,North,Low,486,Bank 486,North,0.58,1861.01,USD,2024-02-15,East Nicholasmouth,False,True,-1.0841815398581327,2,4387.165,6913.32,1861.01,False
+769,849,Sarah Mccarty,christophergardner@gmail.com,001-177-353-2915x768,West,Low,198,Bank 198,South,0.86,6784.09,USD,2024-10-26,East Jessicaberg,False,True,0.6507315586677423,3,7342.876666666666,9442.85,5801.69,True
+770,377,Joseph Lowe,allenphillip@gmail.com,+1-026-613-1095x3700,North,Low,996,Bank 996,East,0.77,4709.74,USD,2024-11-04,Gilmoreburgh,True,True,-0.08027768471793283,1,4709.74,4709.74,4709.74,False
+771,145,Dylan Simpson,lopeztimothy@gmail.com,001-606-475-5859,North,High,313,Bank 313,South,0.75,248.69,USD,2024-06-26,Jordanville,False,True,-1.6523695617905898,3,3647.1733333333336,8411.99,248.69,False
+772,786,Deborah Reyes,fwood@gmail.com,863-850-9551x1306,East,High,199,Bank 199,North,0.63,8266.1,USD,2024-04-09,Lake Rodney,False,True,1.1729978149841809,5,4612.992,9716.82,1412.78,True
+773,387,Ashley Dean,ericsandoval@robbins.biz,(039)978-6066,West,Medium,698,Bank 698,East,0.88,2009.84,USD,2023-12-23,Tylerport,True,True,-1.031733252108674,3,5708.38,7653.14,2009.84,False
+774,621,David Williamson,kingwayne@summers-matthews.net,3164977132,North,High,776,Bank 776,West,0.54,2861.55,USD,2024-03-21,Lake Abigail,True,True,-0.731587238811008,2,3640.46,4419.37,2861.55,False
+775,372,Michael Arnold,ocampos@yahoo.com,514.600.0038x56093,North,Medium,715,Bank 715,West,0.79,9017.49,USD,2024-05-31,Juliestad,True,True,1.4377906587123666,1,9017.49,9017.49,9017.49,True
+776,754,Jessica Farmer,jmartin@stephens-kelley.com,001-500-404-1703x129,East,High,157,Bank 157,North,0.62,3514.13,USD,2023-12-05,Mosleytown,False,True,-0.501615434607945,2,5399.0599999999995,7283.99,3514.13,False
+777,935,Matthew Lopez,cainmichelle@smith-chapman.com,(426)527-9364,South,Low,401,Bank 401,West,0.78,1234.38,USD,2024-07-10,Thomasberg,False,True,-1.3050084601863154,1,1234.38,1234.38,1234.38,False
+778,896,Matthew Rosario,kruegerbeverly@gonzalez-williams.biz,818.088.8428,West,Low,629,Bank 629,West,0.64,2090.42,USD,2024-06-22,New Tami,True,True,-1.003336537556155,1,2090.42,2090.42,2090.42,False
+779,795,Crystal Schultz,andrew30@williams.com,001-471-796-5088,West,High,891,Bank 891,South,0.81,5145.84,USD,2024-09-21,Lake Sarah,False,True,0.07340570094046288,2,6491.71,7837.58,5145.84,False
+780,777,Anna Henson,molinastephen@baker.com,786.362.1700,West,Low,1001,Bank 1001,South,0.66,1075.73,USD,2024-09-03,Elizabethhaven,False,True,-1.3609173552441105,2,3071.7250000000004,5067.72,1075.73,False
+781,825,Dr. Michelle Warner,robertdeleon@yahoo.com,001-424-832-0988x99643,South,Low,573,Bank 573,East,0.71,1914.77,USD,2024-09-08,Lake Jamesside,True,True,-1.0652363006630048,1,1914.77,1914.77,1914.77,False
+782,833,Helen Williams,margaretwiley@gmail.com,441-840-1444,North,High,622,Bank 622,West,0.92,1767.03,USD,2024-05-30,New Kelly,False,True,-1.1173004680493186,2,4986.415,8205.8,1767.03,False
+783,943,Andrea Green,smithpatricia@lee.net,(791)560-6725,East,Low,631,Bank 631,East,0.86,8656.6,USD,2023-12-16,Rasmussenborough,False,True,1.3106115781109946,1,8656.6,8656.6,8656.6,True
+784,40,Amber Anderson,swansonsteven@stephens.com,001-637-376-3959x6216,East,Low,851,Bank 851,East,0.71,3597.19,USD,2023-12-25,Port Alexandraside,False,True,-0.4723447581282698,1,3597.19,3597.19,3597.19,False
+785,886,Katherine Hoover,franceskim@powers.com,+1-369-603-2989x98433,South,High,231,Bank 231,South,0.96,6704.43,USD,2024-02-09,North David,False,True,0.6226590557978782,3,3150.5,6704.43,300.61,True
+786,494,Steven Ochoa,evansdylan@contreras-alvarez.com,7491977086,South,Medium,580,Bank 580,West,0.52,5585.25,USD,2023-12-09,Moorefort,False,True,0.22825554384840965,1,5585.25,5585.25,5585.25,False
+787,483,Chad Green,rachel97@gmail.com,(705)064-4295x4912,West,High,594,Bank 594,East,0.7,8637.82,USD,2024-02-12,Port Melanieburgh,False,True,1.3039934309368035,2,8357.855,8637.82,8077.89,True
+788,621,David Williamson,kingwayne@summers-matthews.net,3164977132,North,High,15,Bank 15,West,0.59,4419.37,USD,2024-10-28,Cohenside,False,True,-0.18260523503581477,2,3640.46,4419.37,2861.55,False
+789,724,Rachel Callahan,markscrystal@cochran.com,+1-048-895-8655,North,Medium,218,Bank 218,East,0.81,6789.75,USD,2024-07-02,Lake Christinaside,True,True,0.6527261653240746,1,6789.75,6789.75,6789.75,True
+790,611,Sharon Crawford,brittney14@avila.com,(162)737-7482x4087,East,Low,670,Bank 670,North,0.72,567.52,USD,2023-11-25,Edwardchester,False,True,-1.5400125935505842,4,4004.4425,6738.35,567.52,False
+791,119,Joanna Johns,cheyennesmith@ortiz.info,901.185.2727x756,South,Medium,128,Bank 128,East,0.75,4576.08,USD,2024-09-30,Hernandezside,True,True,-0.1273800037436176,2,3845.29,4576.08,3114.5,False
+792,451,Cody Smith,johnsmolly@mcguire.com,+1-712-995-9387x9909,North,Low,452,Bank 452,East,0.6,4123.7,USD,2024-09-22,Griffinfort,True,True,-0.28680052656899024,1,4123.7,4123.7,4123.7,False
+793,250,Ashley Gardner,wyattmoore@mathews.com,036.579.4207,West,High,198,Bank 198,South,0.86,684.09,USD,2024-09-12,New Marioton,True,True,-1.498932858934214,1,684.09,684.09,684.09,False
+794,768,Susan Nelson,brookeaguirre@molina.biz,428-148-9096x15793,East,Low,881,Bank 881,North,1.0,3383.69,USD,2024-09-15,Peterstad,True,True,-0.5475830127443383,2,2847.9300000000003,3383.69,2312.17,False
+795,252,Sarah Odom,zandrews@hotmail.com,+1-209-288-6101x1602,West,Medium,681,Bank 681,South,0.86,2658.78,USD,2024-09-06,North Timothyshire,True,True,-0.8030441984761143,4,4382.2225,6815.88,2115.49,False
+796,57,Dr. Natalie Hernandez,wpatterson@adams-davis.com,739.545.9593x2502,East,Low,830,Bank 830,East,0.93,3548.93,USD,2024-04-20,Port Davidborough,True,True,-0.4893517753075274,1,3548.93,3548.93,3548.93,False
+797,2,Brenda Johnson,brian45@gmail.com,+1-039-539-9788x62818,South,Low,50,Bank 50,East,0.84,3078.17,USD,2024-07-15,Watsonmouth,True,True,-0.6552494837059366,2,6503.46,9928.75,3078.17,False
+798,286,Kevin Martin,rnelson@perry-cardenas.org,839.774.2610x78713,West,Low,278,Bank 278,North,0.57,4247.92,USD,2024-07-09,Zacharyport,True,True,-0.24302490133054508,1,4247.92,4247.92,4247.92,False
+799,561,Stacy Smith,amandahorne@anderson-hall.com,+1-414-999-9255x5442,East,High,507,Bank 507,East,0.82,4937.52,USD,2024-05-10,East Joanne,True,True,-7.100940658244678e-06,3,5834.493333333333,9228.75,3337.21,False
+800,120,Melinda Rodriguez,andrewraymond@kirby.org,965.347.9719x27607,East,Low,171,Bank 171,East,0.75,8034.61,USD,2024-03-30,Michaelfort,True,True,1.091419812356201,3,5988.1466666666665,8034.61,4025.26,True
+801,786,Deborah Reyes,fwood@gmail.com,863-850-9551x1306,East,High,459,Bank 459,North,1.0,1412.78,USD,2024-04-27,Ramirezborough,False,True,-1.2421395860715305,5,4612.992,9716.82,1412.78,False
+802,391,Jonathan Spencer,vanessa12@payne.com,+1-876-041-1912x38995,North,High,434,Bank 434,North,0.65,9763.79,USD,2024-09-10,North Robertfort,True,True,1.7007897660658653,3,9731.53,9763.79,9679.24,True
+803,524,Michelle Bennett MD,matthewrodriguez@yahoo.com,001-109-226-2179x75572,North,Low,622,Bank 622,West,0.92,4490.24,USD,2024-03-19,Kevintown,True,True,-0.1576303633513147,2,4787.735,5085.23,4490.24,False
+804,694,Jeffrey Harding,timothy08@gmail.com,560-586-6418x451,South,Low,330,Bank 330,North,0.54,7431.94,USD,2024-05-12,Lindsayland,True,True,0.8790364919371565,1,7431.94,7431.94,7431.94,True
+805,153,Karen Yang,bryansaunders@gmail.com,889.530.1735x15466,West,Low,379,Bank 379,South,0.84,8706.3,USD,2024-05-20,New James,True,True,1.328126057054407,3,7540.1466666666665,9016.89,4897.25,True
+806,763,Brandi Meadows,travis36@smith.info,779-844-9388,South,Low,520,Bank 520,West,0.82,723.1,USD,2024-11-09,Stevenborough,True,True,-1.4851855787816477,3,1540.4833333333333,3580.37,317.98,False
+807,649,Ashley Wise,paul14@yahoo.com,001-756-780-2247,South,Medium,317,Bank 317,South,0.82,2512.69,USD,2024-09-30,Gordonview,True,True,-0.8545268992576668,3,6354.9766666666665,9411.22,2512.69,False
+808,937,Melissa Smith,ashleygreen@hotmail.com,(628)568-6799,West,Low,616,Bank 616,East,0.66,4419.71,USD,2024-01-28,Jenniferport,False,True,-0.18248541767483362,2,2345.125,4419.71,270.54,False
+809,881,Alyssa Roberts,rebeccahernandez@sanders.com,(647)175-9272,South,Medium,638,Bank 638,North,0.87,4560.93,USD,2024-02-24,Lake Nicolemouth,True,True,-0.13271892438733382,2,6979.360000000001,9397.79,4560.93,False
+810,252,Sarah Odom,zandrews@hotmail.com,+1-209-288-6101x1602,West,Medium,752,Bank 752,East,0.75,2115.49,USD,2024-05-08,Kaylabury,False,True,-0.994501769203814,4,4382.2225,6815.88,2115.49,False
+811,817,Evan Campbell,tfuentes@yahoo.com,001-873-246-3514x4373,West,Low,485,Bank 485,East,0.61,2050.93,USD,2023-11-29,West Anthonymouth,False,True,-1.0172529716301062,3,3372.75,5989.25,2050.93,False
+812,505,Lori Olson,zdowns@gmail.com,046.693.7705,East,Medium,924,Bank 924,South,0.59,4331.55,USD,2024-04-30,New Vanessamouth,False,True,-0.2135533545692251,3,3664.773333333333,5835.83,826.94,False
+813,857,Jeffrey Anderson,rbrandt@gmail.com,717.082.7313,West,Medium,238,Bank 238,South,0.5,2708.88,USD,2024-06-19,Wesleystad,True,True,-0.7853887579315475,3,1722.0866666666668,2708.88,862.82,False
+814,718,Christopher Baxter,robertgibson@yahoo.com,+1-235-803-7906,North,Medium,608,Bank 608,West,0.76,9300.06,USD,2024-04-19,Scottview,False,True,1.537369457807741,2,5366.264999999999,9300.06,1432.47,True
+815,725,Peter James,ashley87@hotmail.com,001-018-324-1599x223,East,Medium,244,Bank 244,West,0.73,4214.53,USD,2024-02-23,Davidland,False,True,-0.25479167098689426,2,6455.639999999999,8696.75,4214.53,False
+816,738,Mariah Winters,haleheather@yahoo.com,(149)339-2221x5270,South,High,830,Bank 830,East,0.93,3334.99,USD,2024-06-19,New Jeffrey,False,True,-0.5647450876848655,1,3334.99,3334.99,3334.99,False
+817,408,Sherry Wells,markmiller@gmail.com,(709)847-7005x658,East,Low,952,Bank 952,South,0.63,4705.23,USD,2024-07-09,Port Christopherville,True,True,-0.08186702677094682,2,5862.094999999999,7018.96,4705.23,False
+818,310,Diane Owen,meyeralice@yahoo.com,457.914.5241,East,Medium,415,Bank 415,East,0.96,3349.29,USD,2023-12-01,South Larryview,True,True,-0.5597057104436018,1,3349.29,3349.29,3349.29,False
+819,300,Joseph Lee,leslieproctor@gmail.com,2698067397,South,Low,7,"Garcia, Smith and Woods",West,0.81,3057.17,USD,2024-02-17,North Cheyenneside,True,True,-0.6626499677665335,1,3057.17,3057.17,3057.17,False
+820,715,Melissa Murray,jenniferroberts@gmail.com,+1-086-269-9513x512,West,Low,804,Bank 804,South,0.67,8229.96,USD,2024-10-15,Brandiberg,False,True,1.160261934319896,3,4707.13,8229.96,1055.99,True
+821,95,Amy Bates,sherryvillanueva@yahoo.com,847.738.4007,East,Medium,930,Bank 930,West,0.74,9856.99,USD,2024-02-07,Manningchester,False,True,1.7336338191347997,3,4953.203333333334,9856.99,151.38,True
+822,597,Michael Dunn,knightgeorge@griffin-flores.net,6102996239,East,High,433,Bank 433,East,0.84,8986.3,USD,2024-04-26,Joshuabury,True,True,1.4267991778623657,2,6452.365,8986.3,3918.43,True
+823,787,Max Lloyd,cynthiacarter@gmail.com,+1-989-683-1109,East,Low,438,Bank 438,West,0.86,5000.76,USD,2024-05-22,Michaelburgh,True,True,0.02227892820182491,2,5336.235000000001,5671.71,5000.76,False
+824,709,Emily Martinez,gzuniga@yahoo.com,001-270-566-5258x9029,East,High,492,Bank 492,West,0.77,1782.42,USD,2023-12-02,New Arthurchester,False,True,-1.1118769704449094,1,1782.42,1782.42,1782.42,False
+825,784,Jessica Rubio,christopherreilly@yahoo.com,(156)433-3418,East,High,251,Bank 251,West,0.72,3601.2,USD,2024-11-22,Rogershaven,False,True,-0.4709316180766988,6,5130.055,7294.25,2383.42,False
+826,196,Cristina Goodwin,sethwalker@hotmail.com,765.212.0001,North,High,840,Bank 840,South,0.93,2377.28,USD,2024-04-03,New Nicholas,True,True,-0.9022459252884013,3,5620.5233333333335,9020.73,2377.28,False
+827,630,Logan Mendez,ibarker@yahoo.com,(685)154-4732x130,South,Low,380,Bank 380,South,0.52,3262.58,USD,2023-11-28,Sawyerberg,False,True,-0.5902626615338094,1,3262.58,3262.58,3262.58,False
+828,79,Linda Simpson,denisewiley@hotmail.com,+1-105-601-8227x5633,North,Medium,548,Bank 548,North,0.88,3956.41,USD,2024-02-18,Jesseshire,True,True,-0.34575419221171666,3,2648.34,3956.41,1885.15,False
+829,13,Sarah Harper,michaelsmith@gmail.com,999.595.0833x62937,East,Low,48,Bank 48,East,0.7,4844.53,USD,2023-12-18,North Kimberlyhaven,False,True,-0.03277714916898732,2,5864.76,6884.99,4844.53,False
+830,467,Stanley Rowe,joelmorris@fuentes-brown.org,001-954-432-3554x21219,South,Medium,822,Bank 822,West,0.53,2126.21,USD,2024-05-24,Reyesfort,True,True,-0.9907239982928806,1,2126.21,2126.21,2126.21,False
+831,171,Alice Whitney,chapmanmark@yahoo.com,001-621-000-7899x38640,North,Low,32,Bank 32,North,0.57,3579.57,USD,2024-07-22,Rosariostad,False,True,-0.47855411665911346,1,3579.57,3579.57,3579.57,False
+832,246,Stephen Vega,adkinslisa@cole.com,(114)648-7212x935,West,Medium,72,Bank 72,South,0.55,3371.53,USD,2024-11-05,Lake Caitlin,True,True,-0.5518682454194267,3,3808.6866666666665,4942.58,3111.95,False
+833,59,Rachel Avila,jenniferward@jackson-lewis.biz,939-519-7695,West,High,885,Bank 885,North,0.7,6010.86,USD,2024-01-01,Watsonside,True,True,0.37824221151653553,1,6010.86,6010.86,6010.86,True
+834,423,Joshua Ortiz,saraholmes@hernandez-moran.com,5400975139,South,Medium,433,Bank 433,East,0.84,4461.35,USD,2024-10-30,West Henryshire,True,True,-0.16781131499467852,3,4648.446666666667,7153.5,2330.49,False
+835,81,Cynthia Christensen,brownrita@figueroa-miles.com,898-003-3371,West,Low,425,Bank 425,North,0.87,9420.27,USD,2024-06-26,Port Robert,True,True,1.5797319429946153,2,8858.98,9420.27,8297.69,True
+836,661,Carlos Salas,denise32@yahoo.com,(915)991-6264,East,Medium,935,Bank 935,East,0.86,6536.11,USD,2024-08-28,South Dianehaven,True,True,0.5633424140321793,1,6536.11,6536.11,6536.11,True
+837,164,Scott Fernandez,jgonzalez@hotmail.com,+1-621-160-7073x79198,West,Low,903,Bank 903,South,0.76,9203.33,USD,2024-11-05,Danielton,False,True,1.5032814186086203,1,9203.33,9203.33,9203.33,True
+838,551,Carol Berg,mercedes39@cooper.com,001-841-724-4814x355,West,Medium,112,Bank 112,South,0.91,412.07,USD,2024-01-21,South Lisa,True,True,-1.5947937957991458,3,2076.4233333333336,4183.5,412.07,False
+839,558,Amy Patel,pavila@martin.org,698.434.6783x176,West,High,79,Bank 79,North,0.56,9730.33,USD,2024-03-25,East Stephaniebury,False,True,1.688998328129314,2,8146.755,9730.33,6563.18,True
+840,512,Erica Rogers,josephewing@yahoo.com,(233)574-1898x77939,West,High,1010,Bank 1010,North,0.8,6572.08,USD,2024-08-25,Griffithville,True,True,0.5760183860159733,1,6572.08,6572.08,6572.08,True
+841,707,Sarah Walker,adamscarol@hotmail.com,001-011-977-7346x987,West,Low,129,Bank 129,South,0.85,7936.13,USD,2024-03-29,Jasmineport,False,True,1.0567150661520304,3,6470.55,9652.95,1822.57,True
+842,725,Peter James,ashley87@hotmail.com,001-018-324-1599x223,East,Medium,610,Bank 610,South,0.97,8696.75,USD,2024-05-29,Arnoldborough,False,True,1.32476059882685,2,6455.639999999999,8696.75,4214.53,True
+843,209,Alejandra Butler,jmcdowell@hotmail.com,+1-417-232-2735,East,Low,182,Bank 182,North,0.55,9954.31,USD,2024-05-08,New Katietown,False,True,1.767929776695623,1,9954.31,9954.31,9954.31,True
+844,175,Anthony Gonzales,alvarezcheryl@bailey.com,897.398.0669x289,South,Low,502,Bank 502,East,0.66,4553.08,USD,2024-10-13,Lake Keithview,True,True,-0.13548529580998564,3,2710.7233333333334,4553.08,587.11,False
+845,448,Seth Reyes,hallricky@hotmail.com,265-963-0056x54282,North,Medium,442,Bank 442,North,0.66,4091.36,USD,2024-03-07,Orrville,True,True,-0.2981972720223094,1,4091.36,4091.36,4091.36,False
+846,784,Jessica Rubio,christopherreilly@yahoo.com,(156)433-3418,East,High,343,Bank 343,North,0.79,6969.96,USD,2024-09-06,South Adrian,True,True,0.7162328906840826,6,5130.055,7294.25,2383.42,True
+847,728,Andrew Bell,susan11@hotmail.com,327-498-3243x5034,West,Medium,147,Bank 147,West,0.59,7081.95,USD,2024-11-13,New Lisastad,False,True,0.7556986149672371,1,7081.95,7081.95,7081.95,True
+848,778,Mark Rogers,irodgers@yahoo.com,108-203-0596,East,Low,992,Bank 992,West,0.91,6195.11,USD,2024-03-25,Leetown,False,True,0.44317264904820114,2,5776.615,6195.11,5358.12,True
+849,67,Jessica Moyer,williamsmichelle@hotmail.com,7920943978,South,Medium,968,Bank 968,North,0.83,1313.72,USD,2024-05-11,Frazierfurt,True,True,-1.2770487265973745,3,1396.78,2719.25,157.37,False
+850,646,Clayton Newman DDS,castillosamuel@watts-ross.info,884-187-7832,West,High,321,Bank 321,West,0.73,2005.85,USD,2024-06-10,Juliestad,True,True,-1.0331393440801875,3,5183.626666666667,7133.35,2005.85,False
+851,532,Stephanie Hudson,zachary75@gmail.com,(922)885-9020x77006,South,Low,490,Bank 490,East,0.99,7157.74,USD,2024-05-31,Carlsonstad,False,True,0.7824073143459341,3,5911.986666666667,7157.74,4365.61,True
+852,212,Bryan Bennett PhD,alexa35@robinson-mullins.com,0510357140,South,Medium,687,Bank 687,South,0.81,3372.46,USD,2024-04-25,West Brianmouth,False,True,-0.5515405096967432,3,5984.650000000001,7575.61,3372.46,False
+853,127,Gina Rios,erictaylor@yahoo.com,+1-753-585-3701x467,North,Medium,313,Bank 313,South,0.75,4648.43,USD,2024-02-25,East Victoriafort,True,True,-0.10188357413484674,2,4818.65,4988.87,4648.43,False
+854,988,James Johnson,mariawilliams@holt.net,164.374.2083x4654,East,Medium,848,Bank 848,North,0.58,694.14,USD,2024-11-09,Port Mirandaside,True,True,-1.4953911987052138,1,694.14,694.14,694.14,False
+855,366,Michelle Martin,sarahhall@castro-lee.com,7009740680,South,Medium,638,Bank 638,North,0.87,130.14,USD,2024-04-23,Vangtown,False,True,-1.6941470563326733,1,130.14,130.14,130.14,False
+856,587,Ashley Williams,beckjeffrey@yahoo.com,(285)796-6083x998,West,Low,286,Bank 286,North,0.76,529.14,USD,2024-03-30,Brianmouth,True,True,-1.5535378591813322,1,529.14,529.14,529.14,False
+857,493,Michelle Rivera,justin61@yahoo.com,(705)603-7481,South,Medium,926,Bank 926,South,0.77,2612.29,USD,2024-06-03,Port Emily,True,True,-0.8194274605702644,3,4300.946666666667,7730.8,2559.75,False
+858,450,Kaitlyn Bruce,adrian47@wright-ritter.info,+1-652-974-5067x97628,East,Low,958,Bank 958,North,0.84,4766.97,USD,2024-02-01,Tracyfort,False,True,-0.06010960363279169,1,4766.97,4766.97,4766.97,False
+859,33,Tammy Lopez,donnapotter@gmail.com,(974)811-5648,North,Medium,130,Bank 130,North,0.6,6234.57,USD,2024-07-04,North William,True,True,0.45707851100206565,1,6234.57,6234.57,6234.57,True
+860,608,Kristy Stephens,shellyowens@gmail.com,959-549-2628x70404,North,High,449,Bank 449,West,0.55,1521.92,USD,2024-01-25,Reyestown,False,True,-1.2036782131965995,2,1176.52,1521.92,831.12,False
+861,48,Nicole Bowers,bpratt@williams.com,+1-809-620-6411x3966,East,High,502,Bank 502,East,0.66,4148.39,USD,2024-04-21,Garciamouth,True,True,-0.27809967173774547,1,4148.39,4148.39,4148.39,False
+862,909,Christie Johnson,michellebaker@gmail.com,435-343-6533,West,Medium,799,Bank 799,West,0.97,7158.82,USD,2024-05-25,North Markshire,False,True,0.7827879106690505,3,6522.783333333333,7158.82,6013.79,True
+863,561,Stacy Smith,amandahorne@anderson-hall.com,+1-414-999-9255x5442,East,High,614,Bank 614,West,0.53,3337.21,USD,2024-06-17,Tamaramouth,True,True,-0.5639627507984595,3,5834.493333333333,9228.75,3337.21,False
+864,609,Rachel Townsend,ann27@hotmail.com,(448)516-1846x913,North,High,493,Bank 493,South,0.97,7579.24,USD,2023-12-28,Terristad,True,True,0.9309456015622005,2,4347.465,7579.24,1115.69,True
+865,871,Chelsey Green,johnsonsherry@gmail.com,941-439-9243x018,South,High,416,Bank 416,North,0.73,922.06,USD,2024-05-27,Patrickland,False,True,-1.4150712783675357,1,922.06,922.06,922.06,False
+866,859,Darren Bernard,jtran@gmail.com,320-951-3441,West,High,82,Bank 82,North,0.63,5390.74,USD,2023-12-09,West Matthew,True,True,0.159709441247138,2,6346.875,7303.01,5390.74,False
+867,461,Tyler Martin,amberfloyd@hotmail.com,+1-143-008-5080x1419,East,Low,30,Bank 30,East,0.92,6353.24,USD,2024-08-17,New Mark,False,True,0.49889829402449587,1,6353.24,6353.24,6353.24,True
+868,234,Daniel Ortega,tmartin@yahoo.com,+1-093-304-0342x30293,East,High,629,Bank 629,West,0.64,6216.57,USD,2024-09-14,South Nancy,False,True,0.45073523895012546,1,6216.57,6216.57,6216.57,True
+869,831,Samantha Thompson,suelong@yahoo.com,198-543-9211x50268,North,Low,290,Bank 290,East,0.87,4776.3,USD,2024-01-04,Suefurt,True,True,-0.05682167428586938,3,1819.51,4776.3,89.41,False
+870,170,Michelle Alvarado,smithbarbara@hotmail.com,822.940.5894,North,Low,720,Bank 720,North,0.89,2084.02,USD,2024-03-19,West Christopher,False,True,-1.0055919231746226,1,2084.02,2084.02,2084.02,False
+871,955,Rachel Bell,samuelhurley@york-serrano.com,(225)425-4053,South,Low,406,Bank 406,West,0.97,1191.51,USD,2023-12-30,Cookshire,False,True,-1.3201160197900197,4,2840.8175,5367.5,1191.51,False
+872,595,Sherry Brown,katherineperry@hotmail.com,001-292-514-4039x640,West,Low,660,Bank 660,East,0.71,5965.7,USD,2024-01-07,North Cynthia,False,True,0.36232764674622336,2,7704.51,9443.32,5965.7,False
+873,960,Matthew Taylor,usingleton@yahoo.com,924-907-2397x218,East,High,646,Bank 646,North,0.95,6711.31,USD,2024-11-07,North Laurenmouth,True,True,0.625083595337731,1,6711.31,6711.31,6711.31,True
+874,714,Alexis Wilson,josewhite@gmail.com,(007)064-2235,West,Medium,27,Bank 27,East,0.97,2764.94,USD,2024-03-06,Port Bradleyview,False,True,-0.7656329895297826,4,5505.3625,7879.18,2764.94,False
+875,130,Jesse Mckinney,lindseydiana@hotmail.com,001-214-297-4716x9864,East,High,685,Bank 685,North,0.96,2965.15,USD,2024-05-03,West Kellyfurt,True,True,-0.6950781841120633,2,1764.97,2965.15,564.79,False
+876,136,Raven Rogers,megan99@golden.net,+1-356-141-8725x3102,East,Medium,548,Bank 548,North,0.88,360.92,USD,2023-12-12,Michelleshire,True,True,-1.6128192605467424,2,2750.07,5139.22,360.92,False
+877,408,Sherry Wells,markmiller@gmail.com,(709)847-7005x658,East,Low,984,Bank 984,East,0.96,7018.96,USD,2023-12-14,Bassville,True,True,0.7335006868254753,2,5862.094999999999,7018.96,4705.23,True
+878,178,Tamara Castro,martinezmargaret@hotmail.com,001-946-118-0367x3154,North,High,964,Bank 964,South,0.63,3463.89,USD,2023-12-06,Port Tracy,False,True,-0.519320211712916,3,1987.2366666666667,3463.89,602.48,False
+879,740,Ronnie Aguirre,christopherdillon@gmail.com,(391)931-1798,West,Medium,831,Bank 831,South,0.77,8806.2,USD,2024-03-22,Pattersonview,False,True,1.3633312169426757,1,8806.2,8806.2,8806.2,True
+880,717,Albert Freeman,jgarrett@hotmail.com,+1-043-668-0864x3696,North,Medium,157,Bank 157,North,0.62,8022.0,USD,2024-03-30,Port Jeanette,True,True,1.086975997879814,2,7480.545,8022.0,6939.09,True
+881,658,Jordan Carr,zvargas@hotmail.com,015.605.5460x56031,South,High,308,Bank 308,West,0.99,9912.62,USD,2024-08-20,Darrenborough,False,True,1.7532380538153243,1,9912.62,9912.62,9912.62,True
+882,533,Sonya Phillips,cynthia02@gmail.com,788.114.7931x237,West,Medium,855,Bank 855,West,0.98,2316.97,USD,2024-03-16,Haleyport,False,True,-0.92349941070243,1,2316.97,2316.97,2316.97,False
+883,371,Tonya Lane,jasonsnyder@smith.biz,361.700.8894x89523,East,Low,867,Bank 867,East,0.57,5123.12,USD,2024-03-17,Port Brittany,False,True,0.06539908199490273,2,5231.96,5340.8,5123.12,False
+884,652,Amy Holden,jill00@hotmail.com,+1-910-886-6978x488,South,Low,206,Bank 206,East,0.84,5504.76,USD,2024-10-04,Traceyville,False,True,0.19989054565615047,1,5504.76,5504.76,5504.76,False
+885,569,Trevor Trevino,ssmith@yahoo.com,(276)606-5300,North,Low,782,Bank 782,East,0.65,132.06,USD,2024-02-26,West Susan,False,True,-1.693470440647133,1,132.06,132.06,132.06,False
+886,889,Brenda Richardson,allensheryl@avery.com,(600)936-7593,West,Low,676,Bank 676,West,1.0,3445.8,USD,2024-09-20,Joseview,False,True,-0.5256952001251157,1,3445.8,3445.8,3445.8,False
+887,695,Tammie Kennedy,timothy47@spencer.com,475.487.8718x410,North,High,941,Bank 941,West,0.78,5270.88,USD,2024-07-09,Benjaminstad,False,True,0.11747029746127412,1,5270.88,5270.88,5270.88,False
+888,923,Jennifer Watts,patricia89@hotmail.com,110-345-6775,East,High,631,Bank 631,East,0.86,6436.33,USD,2024-06-25,Port Kristy,False,True,0.5281795426242576,2,3659.52,6436.33,882.71,True
+889,505,Lori Olson,zdowns@gmail.com,046.693.7705,East,Medium,852,Bank 852,North,0.53,826.94,USD,2024-03-20,North Gregoryport,False,True,-1.4485919471220106,3,3664.773333333333,5835.83,826.94,False
+890,143,Mark Taylor,kelly85@weber.net,7073159635,East,Medium,602,Bank 602,East,0.9,6615.78,USD,2023-11-23,Bridgetmouth,False,True,0.5914184409420725,3,8439.966666666667,9480.34,6615.78,True
+891,385,Patricia Schwartz,chris13@yahoo.com,296-384-5967x398,East,High,1008,Bank 1008,West,0.71,5133.66,USD,2023-12-13,Marybury,False,True,0.06911342018531658,2,6864.1849999999995,8594.71,5133.66,False
+892,519,James Osborne,carrillodawn@yahoo.com,(403)134-3212,North,Low,606,Bank 606,East,0.62,1632.37,USD,2024-09-09,Johnsonshire,False,True,-1.1647551910778888,3,3564.7033333333334,5045.59,1632.37,False
+893,315,James Garrett,perezkevin@brown-nelson.com,(403)793-9962x42141,East,Low,636,Bank 636,South,0.65,6686.31,USD,2024-02-01,New Jorgeborough,False,True,0.6162734952655917,3,8090.543333333334,8851.2,6686.31,True
+894,251,Christopher Moore,carlosgarcia@gmail.com,585.786.7694x70532,West,High,1001,Bank 1001,South,0.66,7046.31,USD,2024-07-06,West Susanburgh,True,True,0.7431389363043956,1,7046.31,7046.31,7046.31,True
+895,755,Debbie Parrish DDS,michael27@gmail.com,+1-595-620-9873x5686,South,Medium,546,Bank 546,West,0.54,1825.81,USD,2024-05-19,Armstrongfurt,True,True,-1.0965861607597047,2,2684.3450000000003,3542.88,1825.81,False
+896,766,Robert Davidson,samanthagutierrez@gomez.info,(830)378-8564,East,Low,835,Bank 835,North,0.83,6338.1,USD,2024-04-25,West Jeffreyhaven,True,True,0.49356289742080856,1,6338.1,6338.1,6338.1,True
+897,631,Robert Nunez,gentrywillie@hotmail.com,(468)255-3045,North,Medium,766,Bank 766,East,0.67,3153.81,USD,2024-05-09,Hernandezberg,True,True,-0.6285936449276723,1,3153.81,3153.81,3153.81,False
+898,475,Isaac Hutchinson,nicholas33@hendricks-moran.org,947.254.5787x126,North,Low,836,Bank 836,East,0.98,2886.41,USD,2024-08-16,Taylorport,True,True,-0.7228264752992729,3,4950.096666666667,7181.1,2886.41,False
+899,326,Maria Martin,rmartinez@jacobs-davis.info,618-921-8998,South,Low,725,Bank 725,North,0.83,9293.79,USD,2024-05-16,New John,False,True,1.535159884709649,1,9293.79,9293.79,9293.79,True
+900,2,Brenda Johnson,brian45@gmail.com,+1-039-539-9788x62818,South,Low,122,Bank 122,West,0.55,9928.75,USD,2024-10-30,North Robert,False,True,1.7589223303818682,2,6503.46,9928.75,3078.17,True
+901,665,Michael Cummings,djimenez@gmail.com,0816088981,North,Medium,672,Bank 672,West,0.93,8014.13,USD,2024-03-24,Bakerberg,False,True,1.0842025783771045,2,5668.225,8014.13,3322.32,True
+902,29,Becky Hughes DVM,stephaniewells@moon.com,(921)109-3784,South,High,43,Bank 43,North,0.85,6418.22,USD,2024-06-07,New Spencer,True,True,0.5217975061320002,1,6418.22,6418.22,6418.22,True
+903,14,April Brown,miguel56@hotmail.com,+1-264-420-9754x046,South,Low,852,Bank 852,North,0.53,8724.29,USD,2023-11-23,Shelbyshire,True,True,1.334465805066319,1,8724.29,8724.29,8724.29,True
+904,765,Allen Delgado,garnerjoy@hotmail.com,+1-330-077-7343,East,Medium,779,Bank 779,South,0.75,3064.15,USD,2024-04-27,Holmesfurt,False,True,-0.6601901878263923,1,3064.15,3064.15,3064.15,False
+905,878,John Fisher,christina28@walker.com,320-294-2230,North,Medium,54,Bank 54,West,0.81,5750.59,USD,2024-06-04,Lake Joseph,True,True,0.2865220216855093,2,5062.615,5750.59,4374.64,False
+906,254,Abigail Herrera,johnlane@phillips.info,(393)342-9833x7119,West,High,967,Bank 967,West,0.98,4748.88,USD,2024-08-08,Robinsonhaven,False,True,-0.06648459204499164,1,4748.88,4748.88,4748.88,False
+907,231,Lauren Miller,jeremiah55@rodriguez-rodriguez.com,8165715272,West,High,97,Bank 97,South,0.59,3729.47,USD,2024-09-14,Jacksonport,True,True,-0.4257287566265672,1,3729.47,3729.47,3729.47,False
+908,966,Christopher Palmer,beltranjacqueline@gregory.com,616-296-2994,North,Low,286,Bank 286,North,0.76,4274.36,USD,2024-10-25,Jacobchester,True,True,-0.23370733949425085,3,7374.84,9529.77,4274.36,False
+909,771,Jennifer Jimenez,hallstacey@allen.com,708.121.2556x504,West,Medium,132,Bank 132,East,0.85,9648.45,USD,2024-03-22,New Dawn,True,True,1.6601434883730442,4,5795.33,9648.45,2252.73,True
+910,557,Lisa Murray,thomasgardner@gmail.com,001-385-039-9540x5151,South,Low,914,Bank 914,South,0.82,2752.02,USD,2024-07-07,Robertborough,False,True,-0.7701860492470641,2,4330.98,5909.94,2752.02,False
+911,379,Brian Gonzalez,vcross@yahoo.com,001-696-800-3314,South,Low,34,Bank 34,North,0.64,2697.21,USD,2024-08-19,Campbellland,True,True,-0.789501312645222,1,2697.21,2697.21,2697.21,False
+912,151,Cory Collins,laurapreston@hotmail.com,(378)285-3242x934,East,High,843,Bank 843,South,0.95,302.19,USD,2024-09-15,Port Matthewbury,True,True,-1.633515947636212,2,4905.835,9509.48,302.19,False
+913,801,Sara Hines,karenmoore@cruz-cobb.info,4656510311,West,High,1009,Bank 1009,West,0.71,9880.61,USD,2024-09-08,Smithfort,False,True,1.7419576016829572,1,9880.61,9880.61,9880.61,True
+914,749,Laura Wright,tuckercolin@kramer-jenkins.com,2308004942,South,High,225,Bank 225,West,0.73,6155.52,USD,2024-09-30,New Ethan,True,True,0.42922097457396186,1,6155.52,6155.52,6155.52,True
+915,670,Jennifer Johnson,chambersjoseph@gibson.com,781.920.5200,North,High,482,Bank 482,South,0.71,6929.89,USD,2024-07-05,Douglasfurt,True,True,0.702112062288458,3,4918.91,6929.89,2428.46,True
+916,187,Linda Robinson,whitakerlisa@flores.com,800.813.2808x1058,West,High,18,Bank 18,North,0.57,6137.93,USD,2024-01-19,Lake Johnmouth,True,True,0.4230221881632047,2,5788.545,6137.93,5439.16,True
+917,102,Emily Whitney,robinroberson@black.com,071.733.8655x0553,West,Low,394,Bank 394,East,0.64,6382.45,USD,2024-09-03,Stacychester,True,True,0.5091920149487833,2,3332.0099999999998,6382.45,281.57,True
+918,778,Mark Rogers,irodgers@yahoo.com,108-203-0596,East,Low,184,Bank 184,East,1.0,5358.12,USD,2024-11-04,East Kristin,True,True,0.14821402267301087,2,5776.615,6195.11,5358.12,False
+919,966,Christopher Palmer,beltranjacqueline@gregory.com,616-296-2994,North,Low,704,Bank 704,North,0.92,9529.77,USD,2024-05-18,East Johnfurt,True,True,1.618320181310585,3,7374.84,9529.77,4274.36,True
+920,579,Tony Stokes,markjones@hart-riddle.biz,+1-737-365-9711,South,High,733,Bank 733,South,0.58,5929.0,USD,2024-08-22,North Felicia,True,True,0.34939441984032316,2,5910.3099999999995,5929.0,5891.62,False
+921,568,Annette Adams,veronicaallen@gmail.com,915-948-8105,South,Medium,876,Bank 876,South,0.55,5059.83,USD,2024-06-03,Lake Taylorside,False,True,0.04309543265227522,1,5059.83,5059.83,5059.83,False
+922,860,Rodney Campbell,kennethestrada@hotmail.com,+1-650-456-2874,South,High,71,Bank 71,South,0.78,977.82,USD,2024-01-15,Lake Lindseyland,True,True,-1.3954212311666363,1,977.82,977.82,977.82,False
+923,369,Lauren Johnson,jonathan82@anderson.com,001-394-298-2562x474,West,Low,689,Bank 689,South,0.91,4457.57,USD,2024-09-27,Brianburgh,False,True,-0.16914340212558618,3,4875.16,9988.13,179.78,False
+924,213,Cameron Stafford,matthew64@thomas-drake.com,(157)684-8272x2339,West,Medium,698,Bank 698,East,0.88,5013.57,USD,2024-01-07,New Brian,True,True,0.026793223478788836,1,5013.57,5013.57,5013.57,False
+925,197,Andrew Livingston,norrisdiane@yahoo.com,+1-291-620-2966x3095,South,Medium,744,Bank 744,North,0.75,3457.62,USD,2024-03-31,South Jessica,False,True,-0.5215297848110084,1,3457.62,3457.62,3457.62,False
+926,296,Stacy Mccoy,scottgloria@novak.biz,1496557199,North,Medium,753,Bank 753,North,0.81,8881.09,USD,2024-06-29,Danielhaven,True,True,1.3897227527187754,2,6997.32,8881.09,5113.55,True
+927,468,Dawn Hanson,leonardjordan@dixon.biz,506.064.9597x55646,West,High,880,Bank 880,West,0.96,189.31,USD,2024-10-25,New Christy,True,True,-1.6732953114819344,2,2401.405,4613.5,189.31,False
+928,191,Mr. Justin Taylor,jstevens@edwards-neal.org,(490)760-1599,South,High,530,Bank 530,East,0.5,5402.23,USD,2024-04-26,South Debra,False,True,0.1637585632402931,1,5402.23,5402.23,5402.23,False
+929,558,Amy Patel,pavila@martin.org,698.434.6783x176,West,High,774,Bank 774,North,0.61,6563.18,USD,2024-01-29,South Stephanie,False,True,0.5728819903902919,2,8146.755,9730.33,6563.18,True
+930,498,Brian Thompson,katelyn97@mills-walker.org,(236)234-2277,South,Low,804,Bank 804,South,0.67,7340.07,USD,2023-12-27,Lynchland,True,True,0.8466611361920595,3,7129.033333333333,9534.8,4512.23,True
+931,243,Seth Anderson,martinharry@gmail.com,+1-040-552-9452x7738,East,Low,423,Bank 423,South,0.79,5006.46,USD,2024-07-28,Mariaview,False,True,0.024287631018272575,1,5006.46,5006.46,5006.46,False
+932,225,Robert Ware,hudsonjason@johnson.org,(481)634-6156,West,Medium,723,Bank 723,South,0.75,2861.53,USD,2024-04-09,Port Derrick,True,True,-0.7315942868910656,1,2861.53,2861.53,2861.53,False
+933,953,John Mcdaniel,quinnedward@gmail.com,491-713-8358x626,West,Medium,760,Bank 760,East,0.71,9532.44,USD,2024-09-29,Allenmouth,False,True,1.6192610999982895,1,9532.44,9532.44,9532.44,True
+934,244,Jack Barnes,gary66@morse.com,1977209803,South,High,121,Bank 121,West,0.9,5153.8,USD,2024-04-27,North Jaredhaven,True,True,0.076210836803432,1,5153.8,5153.8,5153.8,False
+935,989,Ashley Herrera,howardmartha@gmail.com,+1-600-651-4781x189,West,Low,619,Bank 619,South,0.89,7418.45,USD,2024-08-05,Juliehaven,False,True,0.8742825619382303,2,6914.0,7418.45,6409.55,True
+936,289,Brian Shelton,ebrown@hotmail.com,4968166370,South,High,662,Bank 662,East,0.85,1075.12,USD,2024-08-31,West Michaelburgh,False,True,-1.3611323216858708,1,1075.12,1075.12,1075.12,False
+937,541,Scott Watson,oprice@lewis.com,927.527.5984x2107,North,High,565,Bank 565,East,0.72,2194.98,USD,2024-06-09,Doylechester,False,True,-0.9664891750144402,3,3487.1633333333334,6935.92,1330.59,False
+938,9,James Lopez,bethroberts@rojas.biz,011.287.5137x958,East,Medium,508,Bank 508,West,0.54,40.42,USD,2024-11-18,Livingstonburgh,True,True,-1.7257647434715664,3,4593.856666666667,7909.91,40.42,False
+939,846,Travis Reyes,simmonsrobert@hotmail.com,(816)091-7303,North,Low,103,Bank 103,North,0.97,5547.11,USD,2024-04-17,Williamsfort,True,True,0.21481485517835402,3,4281.323333333334,5547.11,3144.19,False
+940,318,Andrea Tanner,rosecharles@lopez-gonzalez.net,(705)228-7225,West,High,20,Bank 20,West,0.71,4020.19,USD,2024-05-04,Lake Nicholas,True,True,-0.3232778649076752,1,4020.19,4020.19,4020.19,False
+941,436,Connie Burton,williamschristina@golden.com,001-852-594-9733,West,High,897,Bank 897,North,0.8,5555.16,USD,2024-08-28,South Joseberg,True,True,0.2176517074015829,2,4253.19,5555.16,2951.22,False
+942,532,Stephanie Hudson,zachary75@gmail.com,(922)885-9020x77006,South,Low,875,Bank 875,South,0.58,4365.61,USD,2024-10-14,Port Kimberly,False,True,-0.2015504742309429,3,5911.986666666667,7157.74,4365.61,False
+943,498,Brian Thompson,katelyn97@mills-walker.org,(236)234-2277,South,Low,497,Bank 497,North,0.65,4512.23,USD,2024-10-17,Kingtown,True,True,-0.14988099932786117,3,7129.033333333333,9534.8,4512.23,False
+944,311,James King,simmonsjoshua@burns.com,825.954.9102,West,Medium,973,Bank 973,East,0.8,9571.68,USD,2024-09-04,East Ryan,False,True,1.6330894330715189,1,9571.68,9571.68,9571.68,True
+945,987,Denise Maldonado,debramahoney@hotmail.com,990.690.9357,West,Medium,440,Bank 440,North,0.88,5040.11,USD,2024-03-21,New Cynthiafort,True,True,0.03614602571537176,3,2684.98,5040.11,972.24,False
+946,273,Adam Caldwell,stephenkelley@robinson.biz,218.355.9831x529,South,Low,177,Bank 177,West,0.72,5524.76,USD,2023-11-28,Edwardshire,False,True,0.2069386257138618,2,3774.58,5524.76,2024.4,False
+947,804,Wesley Butler,acannon@poole.org,644.511.0759,East,Low,71,Bank 71,South,0.78,7698.37,USD,2024-04-17,Port Amanda,False,True,0.972927490425958,3,5630.513333333333,7698.37,3058.48,True
+948,948,Darrell Farmer,timothy35@klein.info,001-113-273-6155x87747,South,Low,696,Bank 696,West,0.95,688.99,USD,2023-12-25,West Bobby,False,True,-1.4972060793200748,1,688.99,688.99,688.99,False
+949,832,Susan Watkins,omoore@watson-whitney.com,(142)657-7552x17942,East,Medium,71,Bank 71,South,0.78,7498.01,USD,2024-03-15,Johnsonville,False,True,0.9023198244078061,2,5800.295,7498.01,4102.58,True
+950,89,Christina Cross,tmarks@dalton.com,(065)368-4609x7005,South,Low,567,Bank 567,East,0.98,4909.12,USD,2024-05-07,North Natasha,True,True,-0.010015374622608528,3,2650.5866666666666,4909.12,908.82,False
+951,316,Paul Harmon,chelsea22@henderson.com,219.457.8401,East,High,46,Bank 46,West,0.97,604.57,USD,2023-12-20,East Mariahbury,True,True,-1.5269560252436742,2,2362.395,4120.22,604.57,False
+952,831,Samantha Thompson,suelong@yahoo.com,198-543-9211x50268,North,Low,862,Bank 862,West,0.77,89.41,USD,2024-09-25,Careymouth,True,True,-1.7085004713702026,3,1819.51,4776.3,89.41,False
+953,154,Nancy Flowers,davidharris@roberts.com,(928)152-0513,North,Medium,754,Bank 754,South,0.78,9308.24,USD,2024-04-21,West Spencer,True,True,1.540252122551345,1,9308.24,9308.24,9308.24,True
+954,314,Lisa Colon,lvaldez@hotmail.com,0798857202,West,Low,557,Bank 557,West,0.58,9683.82,USD,2024-04-07,Stephanieberg,True,True,1.6726080179551062,2,7113.415,9683.82,4543.01,True
+955,21,Michelle Hart,meredithjackson@clark.biz,837.992.4785,West,Medium,318,Bank 318,South,0.93,5855.25,USD,2024-09-22,South Brianna,False,True,0.3234046246275126,2,6150.3,6445.35,5855.25,False
+956,352,John Benton,madeline24@horn-smith.com,001-629-084-8308x26230,South,Low,167,Bank 167,West,0.87,5055.1,USD,2024-08-24,New Bryanhaven,False,True,0.04142856171862665,1,5055.1,5055.1,5055.1,False
+957,400,Mary Brewer,vchristian@yahoo.com,001-613-794-6849x582,South,Low,279,Bank 279,West,0.93,9209.03,USD,2024-09-20,Greenside,True,True,1.5052901214250685,4,5409.4975,9209.03,1070.63,True
+958,507,Craig Wilkins,wilkinsdavid@yahoo.com,729-098-9961x141,East,High,622,Bank 622,West,0.92,9798.69,USD,2024-05-31,West Rayport,False,True,1.7130886657665716,2,9137.205,9798.69,8475.72,True
+959,13,Sarah Harper,michaelsmith@gmail.com,999.595.0833x62937,East,Low,925,Bank 925,North,0.87,6884.99,USD,2024-05-15,West Jessicaton,True,True,0.6862891225588958,2,5864.76,6884.99,4844.53,True
+960,732,Frank Harris,baileysara@gmail.com,083-837-8253,West,Low,511,Bank 511,East,0.53,6209.58,USD,2024-01-05,Stonehaven,False,True,0.44827193496995543,2,5964.51,6209.58,5719.44,True
+961,41,Tyler Gray,hroy@hotmail.com,603-317-9617x5047,West,High,286,Bank 286,North,0.76,6712.87,USD,2024-07-12,Jamesstad,False,True,0.6256333455822322,1,6712.87,6712.87,6712.87,True
+962,785,Curtis Davis,brittany82@thomas.com,8777251507,North,Low,501,Bank 501,North,0.95,9921.79,USD,2024-09-09,East Brendashire,False,True,1.7564695985217849,3,5375.96,9921.79,1877.07,True
+963,502,Tiffany Kelly,rachelprice@graham.net,325-310-0967x09814,East,Low,542,Bank 542,West,0.96,463.15,USD,2024-04-12,Mosleyside,False,True,-1.576792999331751,1,463.15,463.15,463.15,False
+964,481,Jenna Payne,annaavila@hotmail.com,+1-383-428-5067x832,North,Low,857,Bank 857,West,0.61,8964.11,USD,2023-12-01,Jonesberg,False,True,1.4189793330383353,3,8481.07,9104.14,7374.96,True
+965,649,Ashley Wise,paul14@yahoo.com,001-756-780-2247,South,Medium,590,Bank 590,North,0.78,9411.22,USD,2024-02-04,New Kyleberg,False,True,1.5765426867685006,3,6354.9766666666665,9411.22,2512.69,True
+966,174,Anthony Taylor,mckenziepayne@gmail.com,709-550-2288,South,Medium,682,Bank 682,West,0.82,8957.62,USD,2024-08-19,Pamelafort,True,True,1.4166922310596082,2,5421.22,8957.62,1884.82,True
+967,404,Richard Cordova,tuckermeredith@yahoo.com,817.408.3814,East,High,746,Bank 746,North,0.53,2618.9,USD,2024-02-18,North John,True,True,-0.8170980701111907,1,2618.9,2618.9,2618.9,False
+968,149,Timothy Fox,lrobinson@singleton.com,(140)408-0025x478,South,Low,312,Bank 312,West,0.8,1300.78,USD,2024-07-08,West Danielhaven,True,True,-1.2816088343947138,2,5297.610000000001,9294.44,1300.78,False
+969,376,Scott Adams,olivia95@parrish-smith.net,025-302-8678,South,Low,655,Bank 655,East,0.84,2757.18,USD,2024-06-30,West Juan,False,True,-0.7683676445921747,2,5034.735,7312.29,2757.18,False
+970,52,Briana Johnson,gainesdiane@yahoo.com,201.730.4381x00326,East,Low,696,Bank 696,West,0.95,7025.51,USD,2024-01-30,Nancybury,True,True,0.7358089330443759,1,7025.51,7025.51,7025.51,True
+971,623,Michael Maldonado,williamstyler@phillips.com,001-127-759-6847x47569,South,High,470,Bank 470,South,0.56,7631.71,USD,2024-10-10,Mcleanville,False,True,0.9494362395936062,1,7631.71,7631.71,7631.71,True
+972,813,Aimee Wright,petersonsuzanne@yahoo.com,(014)612-5133,West,Medium,859,Bank 859,North,0.9,2592.12,USD,2024-03-28,Kristenborough,True,True,-0.8265354493084663,1,2592.12,2592.12,2592.12,False
+973,387,Ashley Dean,ericsandoval@robbins.biz,(039)978-6066,West,Medium,793,Bank 793,South,0.82,7653.14,USD,2024-02-16,New Angelicafurt,True,True,0.956988257375444,3,5708.38,7653.14,2009.84,True
+974,349,Lindsey Tran,carl32@allison.com,408-522-9445,East,Medium,17,Bank 17,South,0.93,3433.03,USD,2024-10-02,Salazarmouth,True,True,-0.5301953992419643,1,3433.03,3433.03,3433.03,False
+975,496,Christopher Calhoun,danielbullock@brown-jacobson.com,(138)245-7799,North,Low,392,Bank 392,South,0.92,5297.67,USD,2024-04-18,Mayobury,False,True,0.12691120069857842,2,3742.875,5297.67,2188.08,False
+976,723,Jeffrey Garrett,sleach@woods.com,001-092-544-8754x309,South,Low,455,Bank 455,South,0.86,5130.16,USD,2023-12-13,East Jeffreystad,True,True,0.0678800061752171,1,5130.16,5130.16,5130.16,False
+977,649,Ashley Wise,paul14@yahoo.com,001-756-780-2247,South,Medium,995,Bank 995,North,0.94,7141.02,USD,2024-10-20,Heathermouth,False,True,0.7765151194176877,3,6354.9766666666665,9411.22,2512.69,True
+978,898,Caroline Alvarez,owilliams@yahoo.com,901-878-2360x6637,North,Medium,376,Bank 376,North,0.97,7676.75,USD,2023-12-19,Ruizton,False,True,0.9653085158835721,1,7676.75,7676.75,7676.75,True
+979,907,Jeremiah Russell,pachecomarvin@yahoo.com,286.216.1203x382,West,Medium,874,Bank 874,West,0.77,8529.58,USD,2024-03-08,West Justinchester,True,True,1.26584922166447,2,8636.435000000001,8743.29,8529.58,True
+980,130,Jesse Mckinney,lindseydiana@hotmail.com,001-214-297-4716x9864,East,High,783,Bank 783,South,0.88,564.79,USD,2024-04-16,Monicaburgh,True,True,-1.5409746564784619,2,1764.97,2965.15,564.79,False
+981,240,Jill Harding,deannamason@zuniga.org,+1-002-090-3419,East,Medium,539,Bank 539,South,0.99,3740.71,USD,2024-03-26,Mirandaville,True,True,-0.42176773563413333,1,3740.71,3740.71,3740.71,False
+982,182,Vickie Scott,kyledudley@gmail.com,022-735-4785x638,North,Low,667,Bank 667,West,0.99,3084.57,USD,2024-07-24,Derekbury,True,True,-0.6529940980874689,1,3084.57,3084.57,3084.57,False
+983,133,Anna Sanders MD,padillajesse@reed.com,+1-284-720-3398,North,Medium,645,Bank 645,South,0.69,1808.53,USD,2023-11-24,Bryanhaven,False,True,-1.1026757019295674,1,1808.53,1808.53,1808.53,False
+984,824,Melissa White,freemanjerry@yahoo.com,001-208-376-0056,East,Low,263,Bank 263,West,0.91,3953.74,USD,2024-03-03,Hamptonfort,True,True,-0.3466951108994212,2,3795.84,3953.74,3637.94,False
+985,719,Lawrence Warner,michaelelliott@jenkins.com,001-756-921-6262,West,Low,356,Bank 356,North,0.9,2649.06,USD,2024-09-25,West Jesushaven,False,True,-0.8064695653841621,2,2498.005,2649.06,2346.95,False
+986,656,Scott Young,vlynch@yahoo.com,3335039566,North,High,318,Bank 318,South,0.93,3289.64,USD,2024-01-26,South Charlesberg,True,True,-0.5807266092157259,1,3289.64,3289.64,3289.64,False
+987,638,Patricia Bird,rachaelweaver@hotmail.com,(333)427-2728x84806,North,Low,210,Bank 210,North,0.56,2198.71,USD,2024-03-10,Sethton,False,True,-0.965174708083677,2,4754.475,7310.24,2198.71,False
+988,211,Maria Fowler,fmiller@williams.com,692-987-1099x22547,East,High,584,Bank 584,North,0.5,1816.67,USD,2024-08-05,Lake Kevin,True,True,-1.0998071333460788,1,1816.67,1816.67,1816.67,False
+989,731,Tyler Pham,leonard39@hotmail.com,+1-274-483-4207x545,South,Low,381,Bank 381,North,0.66,854.38,USD,2024-02-29,Lake Jeffreytown,False,True,-1.4389219812828307,1,854.38,854.38,854.38,False
+990,909,Christie Johnson,michellebaker@gmail.com,435-343-6533,West,Medium,311,Bank 311,North,0.92,6013.79,USD,2024-06-19,Tinaside,True,True,0.3792747552449903,3,6522.783333333333,7158.82,6013.79,True
+991,781,Jessica Schmitt,rachaelhowell@gmail.com,189-636-5607x09948,South,High,978,Bank 978,South,0.97,5839.21,USD,2023-12-11,Greenchester,True,True,0.31775206442122816,1,5839.21,5839.21,5839.21,False
+992,474,Alyssa Black,dthompson@yahoo.com,776-187-6466x1026,East,High,536,Bank 536,South,0.99,8795.33,USD,2023-12-20,Quinnshire,True,True,1.3595005854313091,1,8795.33,8795.33,8795.33,True
+993,323,John Crane,christina89@davenport-trevino.org,+1-612-619-6463x53764,South,Medium,576,Bank 576,West,0.97,6208.19,USD,2024-02-17,West Thomas,False,True,0.4477820934059443,2,5541.02,6208.19,4873.85,True
+994,472,Brett Morrison,jwilliams@hotmail.com,(226)943-1534x982,East,High,519,Bank 519,East,0.82,6168.77,USD,2024-09-24,Jordanland,True,True,0.4338903276121956,1,6168.77,6168.77,6168.77,True
+995,247,Rachel Sims,jacob82@yahoo.com,067-869-5159x45545,North,Low,438,Bank 438,West,0.86,2185.82,USD,2024-07-05,Charlesmouth,True,True,-0.9697171956808719,4,3236.3025,5667.24,1603.76,False
+996,580,Jeff Munoz,timothybeck@cruz-jackson.com,9592219322,West,Low,270,Bank 270,North,0.64,9657.76,USD,2023-12-25,Port Nicoleville,False,True,1.6634243696399085,3,6623.893333333333,9753.09,460.83,True
+997,906,Juan Cherry,qcoleman@miller.net,567-043-2889x063,North,Medium,532,Bank 532,North,0.6,3062.71,USD,2024-04-12,Brownfurt,True,True,-0.6606976495905474,1,3062.71,3062.71,3062.71,False
+998,640,Brittany Huber,lance33@yahoo.com,634.273.9685x064,South,High,422,Bank 422,East,0.61,280.01,USD,2024-03-17,South Kimberlybury,True,True,-1.6413322684202136,1,280.01,280.01,280.01,False
+999,368,Shannon King,jarviskaren@johnson.info,(426)117-7563x659,West,Low,670,Bank 670,North,0.72,6974.08,USD,2024-06-28,Johnside,False,True,0.7176847951759711,3,6657.083333333333,7292.38,5704.79,True
+1000,247,Rachel Sims,jacob82@yahoo.com,067-869-5159x45545,North,Low,313,Bank 313,South,0.75,3488.39,USD,2024-01-18,East Robertburgh,True,True,-0.5106863136422195,4,3236.3025,5667.24,1603.76,False

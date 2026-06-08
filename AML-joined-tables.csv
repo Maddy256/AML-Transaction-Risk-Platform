@@ -1,0 +1,1001 @@
+transaction_id,customer_id,customer_name,customer_email,customer_phone,customer_region,customer_risk_level,bank_id,bank_name,bank_region,bank_compliance_score,amount,currency,transaction_date,transaction_location,is_high_risk,is_valid_bank_id
+1,734,"Marcia Cox",vegascott@gmail.com,859.806.6345x563,West,Low,20,"Bank 20",West,0.71,2059.49,USD,2024-07-01,Helentown,1,1
+2,962,"Vanessa Mckenzie",preynolds@carlson.com,764.455.7458x7794,South,Medium,234,"Bank 234",North,0.75,4228.66,USD,2024-07-22,"West Jasonberg",1,1
+3,143,"Mark Taylor",kelly85@weber.net,7073159635,East,Medium,598,"Bank 598",South,0.57,9223.78,USD,2024-04-27,Brendanberg,1,1
+4,760,"Kevin Poole",joshuaevans@pitts.com,706-152-3334x773,West,Low,34,"Bank 34",North,0.64,3063.09,USD,2024-05-31,"Lake Davidville",0,1
+5,175,"Anthony Gonzales",alvarezcheryl@bailey.com,897.398.0669x289,South,Low,562,"Bank 562",East,0.81,587.11,USD,2024-09-01,"East Katherine",0,1
+6,252,"Sarah Odom",zandrews@hotmail.com,+1-209-288-6101x1602,West,Medium,740,"Bank 740",North,0.82,6815.88,USD,2024-04-15,Valerieton,1,1
+7,743,"Rachel Johnson",alyssaking@austin-long.biz,001-513-459-0135x9778,South,Medium,95,"Bank 95",East,0.62,5402.65,USD,2024-03-12,"North Taylorton",0,1
+8,884,"Jason Moore",alyssa09@gomez.com,985-015-6256x237,West,Low,779,"Bank 779",South,0.75,878.54,USD,2024-10-12,Williamsview,0,1
+9,54,"Roger Allison",ashleyjohnson@dawson.org,001-367-569-8243x395,South,High,268,"Bank 268",South,0.65,6794.40,USD,2024-08-04,Smithbury,0,1
+10,715,"Melissa Murray",jenniferroberts@gmail.com,+1-086-269-9513x512,West,Low,1002,"Bank 1002",West,0.79,1055.99,USD,2024-03-28,Paulchester,1,1
+11,339,"James Hunter",jacksoneric@hotmail.com,001-511-729-3448x1029,North,Medium,902,"Bank 902",West,0.76,6276.00,USD,2024-08-29,Freemanview,0,1
+12,710,"Dr. Jason Ortega",melendezjanet@yahoo.com,341.362.5690x9464,South,High,567,"Bank 567",East,0.98,610.86,USD,2024-03-21,Hannatown,0,1
+13,346,"John Stephens",markfreeman@hotmail.com,695.796.9525x8364,West,High,898,"Bank 898",North,0.72,3929.07,USD,2024-02-06,Joshuamouth,0,1
+14,315,"James Garrett",perezkevin@brown-nelson.com,(403)793-9962x42141,East,Low,510,"Bank 510",West,0.67,8734.12,USD,2024-04-17,"East Dianatown",1,1
+15,835,"Thomas Holland",ellisjames@wilson.com,694-274-8450x825,East,Low,482,"Bank 482",South,0.71,7263.75,USD,2024-02-04,Amychester,1,1
+16,659,"James Juarez",hendersonstephen@herrera.info,(593)371-9942,South,Low,673,"Bank 673",West,0.54,6688.20,USD,2024-08-24,Jenniferton,0,1
+17,687,"Anna Patterson",sarah51@yahoo.com,001-847-198-6323x0929,East,High,759,"Bank 759",North,0.58,9417.45,USD,2024-04-28,"South Angelastad",1,1
+18,47,"Sarah Lewis",tiffanycook@hotmail.com,+1-482-369-7721x52330,East,High,934,"Bank 934",East,0.58,3910.84,USD,2023-12-26,"South Ashley",0,1
+19,775,"Melissa Obrien",wilcoxrichard@yahoo.com,750.802.7003,South,Low,573,"Bank 573",East,0.71,2411.67,USD,2024-06-21,"West Sheila",1,1
+20,638,"Patricia Bird",rachaelweaver@hotmail.com,(333)427-2728x84806,North,Low,167,"Bank 167",West,0.87,7310.24,USD,2024-02-12,Brownchester,0,1
+21,25,"Laura Smith",bmills@king-bruce.info,330.141.2897x775,South,Low,434,"Bank 434",North,0.65,7610.93,USD,2024-04-19,"Port Robertstad",1,1
+22,256,"Ariana Prince",arobinson@yahoo.com,750.335.6613x02719,East,Medium,360,"Bank 360",North,0.81,3059.82,USD,2024-05-27,"West Christopher",1,1
+23,579,"Tony Stokes",markjones@hart-riddle.biz,+1-737-365-9711,South,High,485,"Bank 485",East,0.61,5891.62,USD,2024-02-23,Brianburgh,1,1
+24,355,"Katie Campbell",erichurley@yahoo.com,763.409.7236x333,North,Low,18,"Bank 18",North,0.57,1707.44,USD,2024-01-28,"Port Julie",0,1
+25,220,"Edward Powers",joel77@hotmail.com,+1-033-769-0423x0783,West,High,715,"Bank 715",West,0.79,7549.93,USD,2024-09-21,"South Teresamouth",0,1
+26,308,"Cynthia Phillips",tayloringram@moore.org,001-857-456-6411x137,East,Low,243,"Bank 243",West,0.55,7711.75,USD,2024-11-18,"West Philipstad",0,1
+27,958,"Marcus Little",bennettkatie@wilson-wise.net,640.981.2151x94948,North,Low,465,"Bank 465",South,0.64,875.61,USD,2024-02-18,"East Ashley",1,1
+28,742,"Thomas Wright",karinaduffy@yahoo.com,973-196-5840,West,High,686,"Bank 686",East,0.67,4510.92,USD,2024-02-26,Shawland,1,1
+29,763,"Brandi Meadows",travis36@smith.info,779-844-9388,South,Low,412,"Bank 412",East,0.51,317.98,USD,2024-09-01,"New Teresaburgh",0,1
+30,87,"Ann Mccann",nathan53@beard.com,174.642.3886,South,High,50,"Bank 50",East,0.84,1529.63,USD,2024-06-21,"Port Anthony",1,1
+31,142,"Billy Lee",gwagner@austin-larson.com,990-370-1257x4142,North,Medium,330,"Bank 330",North,0.54,3992.58,USD,2024-04-02,"Lake Rebecca",0,1
+32,982,"April Gates",joshua11@martin.net,700-718-6187x4045,West,Low,561,"Bank 561",North,0.76,6043.12,USD,2024-01-18,"North Kathyborough",0,1
+33,460,"Tina Taylor",randolphdavid@hotmail.com,220-093-0996,East,Low,471,"Bank 471",South,0.97,4787.91,USD,2024-06-21,"North Lisabury",1,1
+34,599,"Stephanie Miller",nwarren@hotmail.com,241-662-2827x843,South,Low,166,"Bank 166",South,0.54,8244.88,USD,2024-05-15,"Lake Kim",1,1
+35,786,"Deborah Reyes",fwood@gmail.com,863-850-9551x1306,East,High,958,"Bank 958",North,0.84,9716.82,USD,2024-04-24,"West Christine",1,1
+36,556,"Theresa Curry",meganbush@thompson-braun.com,775.108.2782,North,Medium,974,"Bank 974",West,0.72,1536.46,USD,2024-10-06,Jamesshire,1,1
+37,321,"Kelli Gutierrez",wklein@gmail.com,243.965.6287x4486,East,Medium,704,"Bank 704",North,0.92,6578.16,USD,2024-01-16,"West Jose",0,1
+38,792,"Mary Johnson",jeffreylopez@hotmail.com,1026591136,East,Low,534,"Bank 534",West,0.6,8929.57,USD,2023-12-10,Dawnberg,0,1
+39,987,"Denise Maldonado",debramahoney@hotmail.com,990.690.9357,West,Medium,98,"Bank 98",West,0.51,972.24,USD,2024-02-29,Rodgersport,1,1
+40,68,"Anthony Nunez",marshalllinda@watson.com,158.837.5340x7988,West,Medium,270,"Bank 270",North,0.64,3178.73,USD,2023-12-11,"East Johnview",0,1
+41,255,"Cody Baker",cle@hotmail.com,001-433-145-4320x449,West,Low,153,"Bank 153",West,0.65,6382.82,USD,2024-03-01,"Lake Dianaton",1,1
+42,876,"April Reed",panderson@greer-ryan.biz,+1-422-046-0509x7120,East,High,744,"Bank 744",North,0.75,7334.72,USD,2023-12-16,"Lake Kennethland",1,1
+43,706,"Diana Torres",kaylamorgan@hotmail.com,+1-532-140-3266x815,South,Low,51,"Bank 51",West,0.76,4871.09,USD,2024-06-30,Littleview,1,1
+44,358,"Eric Ramos",oporter@glass.org,(867)651-9355,North,Low,465,"Bank 465",South,0.64,103.07,USD,2023-11-24,"West Christina",0,1
+45,719,"Lawrence Warner",michaelelliott@jenkins.com,001-756-921-6262,West,Low,308,"Bank 308",West,0.99,2346.95,USD,2023-11-24,Sawyerhaven,1,1
+46,886,"Katherine Hoover",franceskim@powers.com,+1-369-603-2989x98433,South,High,803,"Bank 803",South,0.82,2446.46,USD,2024-09-09,Tracyburgh,0,1
+47,998,"Ashley Martin",mshepard@meyer.com,(012)837-0964,North,Low,626,"Bank 626",North,0.93,6332.92,USD,2024-11-01,Jacobside,0,1
+48,453,"Patrick Hendricks",fbryant@yahoo.com,533-537-0628x4353,South,Medium,10,Hill-Thomas,West,0.69,5942.18,USD,2024-05-03,Masonville,0,1
+49,817,"Evan Campbell",tfuentes@yahoo.com,001-873-246-3514x4373,West,Low,869,"Bank 869",East,0.82,5989.25,USD,2024-08-05,"Port Dawnmouth",1,1
+50,830,"Christopher Brown",melanie82@gmail.com,001-883-866-4462x35786,South,Medium,232,"Bank 232",East,0.53,4156.85,USD,2024-10-03,"West Hectorside",1,1
+51,185,"Ashley Bauer",thompsonjavier@hotmail.com,(758)332-2033x3651,North,High,501,"Bank 501",North,0.95,5131.22,USD,2024-01-31,"North Brittneychester",0,1
+52,513,"Dawn Stevens",jenniferknight@boyd.com,194.917.5754,North,Medium,363,"Bank 363",East,0.63,2767.09,USD,2024-03-17,"Port Lisa",1,1
+53,147,"Amanda Gill",duanesims@hotmail.com,(232)546-8603x5483,South,Low,988,"Bank 988",North,0.97,9322.58,USD,2023-12-12,"Lake Ronaldbury",1,1
+54,28,"Steven Pineda",fisherelizabeth@johnson.com,205.038.3471,West,Low,707,"Bank 707",North,0.81,375.34,USD,2024-03-11,Crossside,1,1
+55,786,"Deborah Reyes",fwood@gmail.com,863-850-9551x1306,East,High,885,"Bank 885",North,0.7,2108.26,USD,2024-10-25,Hillland,1,1
+56,878,"John Fisher",christina28@walker.com,320-294-2230,North,Medium,530,"Bank 530",East,0.5,4374.64,USD,2024-10-08,"South Troyview",0,1
+57,169,"Nathan Velasquez",johnhernandez@yahoo.com,(365)392-7782,East,Medium,629,"Bank 629",West,0.64,7767.43,USD,2024-11-19,"West John",1,1
+58,853,"Stephanie Coleman",fritzchristopher@olson-thompson.com,925-578-7080x9487,South,Low,487,"Bank 487",North,0.8,297.33,USD,2024-03-19,"North Brian",1,1
+59,323,"John Crane",christina89@davenport-trevino.org,+1-612-619-6463x53764,South,Medium,147,"Bank 147",West,0.59,4873.85,USD,2024-10-08,"South Charles",1,1
+60,381,"Amanda Newman",gloriakelly@jenkins.biz,595-156-5789,East,Low,1002,"Bank 1002",West,0.79,1108.76,USD,2024-02-24,Sherrymouth,0,1
+61,806,"Brandon Schultz",ljohnson@mcdaniel-jones.biz,+1-119-152-4635x324,North,High,866,"Bank 866",North,0.64,1686.19,USD,2024-10-08,Karenshire,1,1
+62,79,"Linda Simpson",denisewiley@hotmail.com,+1-105-601-8227x5633,North,Medium,537,"Bank 537",North,0.55,1885.15,USD,2024-08-16,"New Jack",1,1
+63,996,"Chad Lambert",fhill@lopez.com,001-982-020-4418x12135,West,Medium,749,"Bank 749",North,0.85,6192.07,USD,2024-11-19,"New Jesse",0,1
+64,937,"Melissa Smith",ashleygreen@hotmail.com,(628)568-6799,West,Low,912,"Bank 912",South,0.81,270.54,USD,2024-06-11,"Port Ian",0,1
+65,833,"Helen Williams",margaretwiley@gmail.com,441-840-1444,North,High,261,"Bank 261",North,0.99,8205.80,USD,2024-10-05,"West Eric",0,1
+66,750,"Melinda Pope",deborah66@hotmail.com,+1-603-989-2631x59960,East,Medium,880,"Bank 880",West,0.96,9815.99,USD,2023-12-20,"East Diana",1,1
+67,369,"Lauren Johnson",jonathan82@anderson.com,001-394-298-2562x474,West,Low,868,"Bank 868",West,0.72,179.78,USD,2024-07-10,"South Richard",0,1
+68,292,"Richard Lewis",fmorris@williams.com,+1-877-776-2712,West,High,240,"Bank 240",East,0.73,6766.39,USD,2024-08-11,"Port Stephenland",1,1
+69,423,"Joshua Ortiz",saraholmes@hernandez-moran.com,5400975139,South,Medium,582,"Bank 582",South,0.68,2330.49,USD,2024-08-08,Coxshire,1,1
+70,387,"Ashley Dean",ericsandoval@robbins.biz,(039)978-6066,West,Medium,243,"Bank 243",West,0.55,7462.16,USD,2024-09-09,Leborough,0,1
+71,290,"Cory Thomas",aprilgonzalez@farmer.org,(332)866-8089x1070,North,Low,703,"Bank 703",West,0.78,6512.11,USD,2024-06-23,Johnfort,0,1
+72,107,"Anna Sutton",nharper@blake-butler.com,905-640-2514x8109,East,Low,794,"Bank 794",South,0.79,3894.03,USD,2024-01-07,Silvaside,1,1
+73,350,"Linda Taylor",janetzimmerman@tran-crawford.com,238.818.2957,North,Low,431,"Bank 431",North,0.68,3514.60,USD,2024-02-21,Alanstad,0,1
+74,613,"Katelyn Farrell",glenn65@robertson.net,288.611.4309x06124,East,Low,953,"Bank 953",East,0.91,9265.02,USD,2023-12-19,"New Courtney",1,1
+75,268,"Ryan Fox",brandy59@scott-west.com,(881)095-3994x808,South,High,316,"Bank 316",South,0.57,6210.56,USD,2023-12-14,"Port Shane",0,1
+76,319,"Shelia Carroll",thomasnathan@smith-olson.biz,(393)619-9850x4376,North,High,330,"Bank 330",North,0.54,7633.46,USD,2024-02-10,"New Nicholas",1,1
+77,642,"Kristen Rollins",thomaschristensen@hotmail.com,+1-198-675-8726x17547,North,Low,606,"Bank 606",East,0.62,357.36,USD,2024-05-10,Christinaton,1,1
+78,678,"Karen Roberson",isaiah71@mccall.biz,688-884-9784x656,East,Low,301,"Bank 301",South,0.93,204.06,USD,2024-08-10,Carpenterland,1,1
+79,800,"Benjamin Reyes",lopezshawn@gmail.com,1378525992,East,Medium,92,"Bank 92",North,0.75,7900.33,USD,2024-01-12,Tracybury,0,1
+80,857,"Jeffrey Anderson",rbrandt@gmail.com,717.082.7313,West,Medium,578,"Bank 578",South,0.53,862.82,USD,2024-06-07,Jeffreyburgh,0,1
+81,819,"Ronald Cortez",natalie07@gmail.com,321-060-7698x36094,East,Low,947,"Bank 947",South,0.66,8982.05,USD,2024-04-29,"Lake Shawnfort",0,1
+82,643,"Shannon Ramirez",makaylapoole@rose-weber.com,430-877-2584,South,Medium,781,"Bank 781",North,0.79,4822.18,USD,2024-09-18,"Port Nancy",1,1
+83,9,"James Lopez",bethroberts@rojas.biz,011.287.5137x958,East,Medium,537,"Bank 537",North,0.55,5831.24,USD,2024-08-02,Baileyport,1,1
+84,712,"Jaime Shepard",kimmichael@yahoo.com,123-516-4935x333,North,Medium,383,"Bank 383",West,0.77,5724.24,USD,2024-03-08,Ianstad,0,1
+85,685,"Mark Schultz",sheila23@brown.com,(246)971-1990,West,High,90,"Bank 90",South,0.66,6794.99,USD,2024-02-16,"West Anthony",0,1
+86,431,"Sandra Mathis",christopher01@goodwin.com,840-677-4947x633,South,Medium,101,"Bank 101",West,1,5795.60,USD,2024-02-19,Colleenburgh,0,1
+87,715,"Melissa Murray",jenniferroberts@gmail.com,+1-086-269-9513x512,West,Low,766,"Bank 766",East,0.67,4835.44,USD,2024-05-12,Davidhaven,1,1
+88,966,"Christopher Palmer",beltranjacqueline@gregory.com,616-296-2994,North,Low,52,"Bank 52",North,0.79,8320.39,USD,2024-01-15,"North Sheila",1,1
+89,161,"Timothy Moore",brownlori@hotmail.com,612.990.5106x5110,South,Medium,381,"Bank 381",North,0.66,7020.76,USD,2024-08-02,"Port Brent",1,1
+90,193,"Manuel Chang",heatherjohnson@hotmail.com,526-184-6970,North,Low,803,"Bank 803",South,0.82,625.95,USD,2024-07-21,Wrightmouth,0,1
+91,152,"Robert Jackson",hensonmaureen@hotmail.com,283.275.7029,North,High,739,"Bank 739",East,0.77,582.94,USD,2024-08-19,Youngville,0,1
+92,438,"Robert Lowe",brookefritz@hotmail.com,(973)178-0261x2063,South,High,985,"Bank 985",South,0.91,2511.98,USD,2024-07-31,"West Jamesside",0,1
+93,955,"Rachel Bell",samuelhurley@york-serrano.com,(225)425-4053,South,Low,201,"Bank 201",South,0.95,3331.77,USD,2024-11-19,Garzafurt,1,1
+94,493,"Michelle Rivera",justin61@yahoo.com,(705)603-7481,South,Medium,872,"Bank 872",West,0.93,7730.80,USD,2024-09-17,Foxmouth,0,1
+95,252,"Sarah Odom",zandrews@hotmail.com,+1-209-288-6101x1602,West,Medium,519,"Bank 519",East,0.82,5938.74,USD,2024-01-23,"North Kristen",1,1
+96,611,"Sharon Crawford",brittney14@avila.com,(162)737-7482x4087,East,Low,812,"Bank 812",South,0.94,6738.35,USD,2024-10-28,Julianbury,1,1
+97,67,"Jessica Moyer",williamsmichelle@hotmail.com,7920943978,South,Medium,560,"Bank 560",South,0.81,2719.25,USD,2024-01-23,Waltersshire,0,1
+98,239,"Karen Rice",katrina77@hotmail.com,(229)152-0653,West,Medium,760,"Bank 760",East,0.71,2630.61,USD,2024-05-26,Lawrencemouth,1,1
+99,34,"Jessica Bowman",gtaylor@powell-acosta.com,961.331.8598x3861,South,High,355,"Bank 355",East,0.99,9074.28,USD,2024-04-14,Samuelton,0,1
+100,552,"Jerry Martinez",rosedaniel@yahoo.com,+1-359-276-8890x678,East,High,697,"Bank 697",North,0.61,9805.83,USD,2023-12-04,Harrisontown,0,1
+101,150,"Benjamin Robinson DVM",howardmichael@gmail.com,001-163-971-2739,East,Medium,793,"Bank 793",South,0.82,9183.25,USD,2024-02-25,"South Alexa",1,1
+102,85,"Randy Campbell",icoleman@salazar.com,838.055.2228x670,East,Low,950,"Bank 950",East,0.52,3786.84,USD,2024-05-01,"Port Clinton",1,1
+103,437,"Scott Johnson",fjohnson@allen-dillon.com,511.765.2123x0420,South,Low,520,"Bank 520",West,0.82,4144.91,USD,2024-08-30,"East James",0,1
+104,793,"Nathan Hernandez",armstrongadam@fitzgerald.biz,+1-780-433-2899,East,Low,804,"Bank 804",South,0.67,8028.85,USD,2023-12-01,Sarahport,0,1
+105,115,"Amanda Webb",robertrowland@hotmail.com,+1-056-816-2694,West,High,356,"Bank 356",North,0.9,2313.52,USD,2024-04-05,"East Marcborough",1,1
+106,173,"Debbie Clay",kimberly14@hotmail.com,+1-923-877-2404x8801,North,High,750,"Bank 750",South,0.63,9735.81,USD,2023-11-23,Solischester,0,1
+107,939,"Kevin Hudson",malonepatricia@duke-austin.info,760.114.1785x14731,East,Low,622,"Bank 622",West,0.92,520.42,USD,2024-11-19,Morganville,1,1
+108,669,"Sheri Schwartz",riosdiana@yahoo.com,1003995422,South,Low,113,"Bank 113",North,0.73,3150.06,USD,2024-11-14,"New Timothy",1,1
+109,545,"Kimberly Moore",robertlynch@rodriguez.net,(375)939-4250,East,Low,388,"Bank 388",East,0.95,2273.83,USD,2024-07-09,Christopherhaven,1,1
+110,622,"Melissa May",zachary10@yahoo.com,(194)791-9272x5161,East,High,497,"Bank 497",North,0.65,3261.11,USD,2024-09-21,"Port Jessicaville",0,1
+111,636,"Brian Jones",mortonsarah@oliver.net,072-052-5293x20496,South,High,93,"Bank 93",North,0.79,8907.32,USD,2024-03-04,"New Mary",0,1
+112,175,"Anthony Gonzales",alvarezcheryl@bailey.com,897.398.0669x289,South,Low,715,"Bank 715",West,0.79,2991.98,USD,2024-01-31,Jimenezchester,0,1
+113,503,"Charles Willis",whitneylewis@allen.com,(362)423-2679x0834,South,High,849,"Bank 849",West,0.8,6850.81,USD,2024-06-16,Danielmouth,1,1
+114,645,"Kristen Sanchez",gregorymiller@gmail.com,001-464-102-9163x775,West,Low,924,"Bank 924",South,0.59,7054.76,USD,2023-11-26,Salazarfort,0,1
+115,547,"Joshua Alvarado",sara18@faulkner-williams.com,558.072.5045,South,High,802,"Bank 802",East,0.72,1138.43,USD,2024-04-09,Morrisstad,0,1
+116,916,"Melissa Wagner",susan58@yahoo.com,028-846-2338x80491,West,Low,749,"Bank 749",North,0.85,4305.09,USD,2024-09-04,Ryanberg,1,1
+117,271,"Valerie Robinson",christopher68@garcia-hoffman.com,342.734.6522x461,East,Low,919,"Bank 919",West,0.84,6545.82,USD,2024-01-15,"South Vanessa",0,1
+118,665,"Michael Cummings",djimenez@gmail.com,0816088981,North,Medium,255,"Bank 255",East,0.99,3322.32,USD,2023-12-23,"West William",0,1
+119,978,"Jeremy Hays",travis87@taylor-white.com,223.942.1745,North,Medium,675,"Bank 675",North,0.97,5689.50,USD,2024-05-06,"West Christine",1,1
+120,11,"Christopher Palmer",kendra27@walker-knight.org,001-730-710-7452x072,East,Low,502,"Bank 502",East,0.66,5631.90,USD,2024-10-11,"South Derek",0,1
+121,343,"Christopher Anderson",adamwarren@jones.com,+1-574-674-3982,North,Medium,1003,"Bank 1003",West,0.59,903.03,USD,2024-11-07,Mariamouth,0,1
+122,196,"Cristina Goodwin",sethwalker@hotmail.com,765.212.0001,North,High,684,"Bank 684",West,0.62,9020.73,USD,2024-11-04,Pamelamouth,1,1
+123,54,"Roger Allison",ashleyjohnson@dawson.org,001-367-569-8243x395,South,High,990,"Bank 990",North,1,6669.07,USD,2024-06-12,"North Robert",0,1
+124,268,"Ryan Fox",brandy59@scott-west.com,(881)095-3994x808,South,High,254,"Bank 254",South,0.75,8579.15,USD,2024-08-25,"West Amandaborough",0,1
+125,952,"Michael Velez",zross@smith.com,(261)284-3089x8419,North,Low,605,"Bank 605",East,0.74,663.35,USD,2024-03-15,"West Benjaminside",1,1
+126,314,"Lisa Colon",lvaldez@hotmail.com,0798857202,West,Low,775,"Bank 775",South,0.93,4543.01,USD,2023-12-03,"New Cristinafurt",0,1
+127,851,"Stephen Richards",charlesdustin@moore-curtis.biz,(693)086-0091,West,Medium,397,"Bank 397",West,0.91,6121.95,USD,2024-10-29,"New Tylerstad",0,1
+128,143,"Mark Taylor",kelly85@weber.net,7073159635,East,Medium,441,"Bank 441",South,0.57,9480.34,USD,2024-10-06,"Lake Ashley",0,1
+129,849,"Sarah Mccarty",christophergardner@gmail.com,001-177-353-2915x768,West,Low,788,"Bank 788",West,0.91,5801.69,USD,2024-10-30,"New Christy",1,1
+130,536,"Matthew Cook",robin08@hotmail.com,001-405-138-5314x059,East,Low,244,"Bank 244",West,0.73,1289.07,USD,2024-11-04,"New Mollyland",1,1
+131,616,"Charles Martinez",robert66@yahoo.com,+1-005-281-2220x3149,East,High,843,"Bank 843",South,0.95,9411.50,USD,2024-01-30,Walkerstad,0,1
+132,562,"Kimberly Davidson DDS",richard88@baker-ross.com,001-871-686-3073x7605,South,Low,922,"Bank 922",East,0.95,3690.23,USD,2024-09-23,"New Johnborough",0,1
+133,75,"David Lopez",payers@smith.com,459.282.6939x66995,East,Low,87,"Bank 87",West,0.72,6931.67,USD,2024-03-06,Owenburgh,0,1
+134,802,"Sarah Roberts",eclark@barnes.biz,528-482-3816,North,Low,812,"Bank 812",South,0.94,6790.96,USD,2024-07-13,Robertview,0,1
+135,839,"Andre Wilson",bryan95@sharp.info,783.210.6687,West,Medium,299,"Bank 299",South,0.97,700.83,USD,2023-12-07,"East Priscillaville",0,1
+136,549,"Stacy Parker",kimberlymeadows@watson.com,587.146.2439,North,Medium,74,"Bank 74",West,0.55,5899.61,USD,2024-04-09,"New Yeseniaville",1,1
+137,60,"Heather Parrish",thomas84@schroeder.biz,+1-342-386-3304x1535,West,Low,614,"Bank 614",West,0.53,2136.09,USD,2024-05-12,"East Douglasshire",0,1
+138,7,"Chris Wong",fwalters@obrien.org,(353)014-2784x894,East,Low,968,"Bank 968",North,0.83,4133.14,USD,2024-06-10,"East Nicoleland",1,1
+139,671,"Alyssa Quinn",wsmall@gmail.com,038.763.2050,East,High,309,"Bank 309",West,0.51,2862.95,USD,2024-09-02,"New Michael",1,1
+140,899,"Robin Cox",hillcraig@dunn.com,001-783-581-9274x9166,East,High,1007,"Bank 1007",North,0.92,4093.14,USD,2024-04-21,"South Colton",1,1
+141,199,"Michelle Stafford",sanchezerik@hotmail.com,(926)029-5005x328,South,Low,547,"Bank 547",North,0.92,7797.02,USD,2024-05-08,Smithshire,1,1
+142,298,"Seth Shaw",michaelbauer@price.com,+1-928-535-1971x1112,West,High,991,"Bank 991",North,0.88,7764.82,USD,2024-09-22,Walshton,0,1
+143,356,"Dakota Burton",sarahlane@scott.info,503.356.2809x28374,South,High,58,"Bank 58",North,0.66,9319.83,USD,2024-10-25,Fosterville,0,1
+144,248,"Thomas Rodriguez",harrisoncaleb@yahoo.com,802.329.9125x212,East,Medium,765,"Bank 765",South,0.79,6183.03,USD,2024-02-29,Johnsonhaven,1,1
+145,867,"Eric White",cindy47@morgan.com,953.620.4905x8376,West,Medium,483,"Bank 483",South,0.6,1524.59,USD,2023-12-01,"Port Charles",0,1
+146,965,"Margaret Gomez",patricia24@blair-jennings.org,445.652.0719x618,West,High,961,"Bank 961",South,0.87,26.65,USD,2024-04-01,"Lake Hannah",0,1
+147,930,"Haley Harris",michaelstevens@simmons.com,970.198.2648,East,High,986,"Bank 986",West,0.92,1591.87,USD,2024-06-06,Mcdanielland,1,1
+148,431,"Sandra Mathis",christopher01@goodwin.com,840-677-4947x633,South,Medium,525,"Bank 525",South,0.67,6655.74,USD,2024-05-28,"Lake Amandaside",1,1
+149,93,"Jeff Thomas",vmorgan@gutierrez.com,698-761-5978x3303,West,Low,680,"Bank 680",West,0.95,9593.95,USD,2024-11-05,Jamesshire,0,1
+150,841,"Hailey Miller",jasonschwartz@rodriguez-phillips.biz,(306)843-1747x77831,North,High,328,"Bank 328",West,0.74,7183.23,USD,2024-01-13,"New Elijahfurt",0,1
+151,585,"Wesley Wallace",brendamoran@gmail.com,5585952792,North,High,871,"Bank 871",West,0.7,8389.31,USD,2024-04-19,Michaelhaven,1,1
+152,174,"Anthony Taylor",mckenziepayne@gmail.com,709-550-2288,South,Medium,134,"Bank 134",North,0.59,1884.82,USD,2024-11-18,Kimton,1,1
+153,424,"Bobby Franklin",bstanton@gmail.com,(075)466-0319x67846,West,High,485,"Bank 485",East,0.61,9019.90,USD,2024-01-16,"North Shawnmouth",0,1
+154,809,"Melissa Carroll",linda70@williams.com,632-833-6420,South,High,751,"Bank 751",West,0.5,8457.56,USD,2024-10-31,Holtberg,1,1
+155,785,"Curtis Davis",brittany82@thomas.com,8777251507,North,Low,167,"Bank 167",West,0.87,4329.02,USD,2024-07-17,Josephfurt,1,1
+156,559,"Kathryn Rice",origgs@yahoo.com,001-954-043-0044x86154,North,High,49,"Bank 49",South,0.89,8011.53,USD,2024-04-12,Josephton,1,1
+157,201,"Sheena Sullivan",imarks@rowe.com,+1-794-552-4385x69153,East,Medium,87,"Bank 87",West,0.72,2103.30,USD,2024-08-23,Steelemouth,1,1
+158,136,"Raven Rogers",megan99@golden.net,+1-356-141-8725x3102,East,Medium,60,"Bank 60",South,0.95,5139.22,USD,2024-07-07,"North Charlesburgh",0,1
+159,120,"Melinda Rodriguez",andrewraymond@kirby.org,965.347.9719x27607,East,Low,654,"Bank 654",South,0.58,4025.26,USD,2024-04-29,"New Cristian",1,1
+160,822,"William Thompson",joanna10@smith.biz,100-937-4621x167,South,Medium,955,"Bank 955",North,0.54,251.09,USD,2024-11-07,Matthewville,1,1
+161,118,"Amanda Walker",owelch@ruiz.com,(117)075-9410x39339,East,Medium,237,"Bank 237",North,0.88,9383.67,USD,2024-07-31,"South Johnnyton",0,1
+162,958,"Marcus Little",bennettkatie@wilson-wise.net,640.981.2151x94948,North,Low,393,"Bank 393",West,0.82,1077.90,USD,2024-08-16,"Port Heatherton",0,1
+163,169,"Nathan Velasquez",johnhernandez@yahoo.com,(365)392-7782,East,Medium,215,"Bank 215",North,0.94,1995.04,USD,2024-01-22,Christinahaven,0,1
+164,1,"Anthony Smith",pcarter@hotmail.com,243.751.6176x2665,West,Medium,10,Hill-Thomas,West,0.69,5185.75,USD,2024-02-18,"Port Danielshire",0,1
+165,625,"Lindsey Clark",mariewells@hotmail.com,(108)856-9471,West,Medium,230,"Bank 230",North,0.56,8845.40,USD,2024-06-17,"South Ryan",1,1
+166,208,"Robert Cameron",richard84@wilson.biz,480.295.1133x065,West,High,999,"Bank 999",East,0.76,4210.36,USD,2023-12-24,Gordonfort,0,1
+167,776,"Scott Hudson",pmarshall@jackson-alvarez.org,+1-155-310-0179x35737,North,Low,308,"Bank 308",West,0.99,2158.33,USD,2024-10-02,"West Aaronchester",0,1
+168,626,"Deborah Harris",castrochristopher@yahoo.com,692.019.1361x175,East,Low,1003,"Bank 1003",West,0.59,4136.61,USD,2024-07-02,"Port Johnmouth",1,1
+169,748,"Susan Zuniga",manderson@gmail.com,+1-384-538-6602x2093,West,High,39,"Bank 39",North,0.65,1556.59,USD,2024-01-15,"New Sarah",1,1
+170,816,"Terri Garcia",tiffanywarren@gmail.com,(534)825-1290x326,West,Medium,999,"Bank 999",East,0.76,1015.55,USD,2024-04-30,"North Michael",1,1
+171,442,"Paul Owens",reeveskenneth@yahoo.com,0378123862,West,High,875,"Bank 875",South,0.58,7084.10,USD,2024-01-18,"East Emilyview",1,1
+172,350,"Linda Taylor",janetzimmerman@tran-crawford.com,238.818.2957,North,Low,600,"Bank 600",North,0.66,6001.63,USD,2024-11-08,Larryside,1,1
+173,752,"John Smith",richardcurtis@mckay.com,001-693-796-5141x344,North,High,819,"Bank 819",North,0.9,4676.44,USD,2024-05-06,Jillmouth,0,1
+174,457,"Amanda Smith",kimdonald@yahoo.com,706-895-4575x686,South,Low,546,"Bank 546",West,0.54,3302.83,USD,2024-10-08,Hillside,1,1
+175,19,"Rebekah Alexander",raven28@holmes-reyes.com,859-332-7429x154,West,Low,399,"Bank 399",West,0.58,3355.63,USD,2024-02-16,Francesstad,1,1
+176,72,"Bradley Lewis",rosarioashley@gmail.com,(337)929-1912x197,North,Low,995,"Bank 995",North,0.94,6493.33,USD,2024-03-29,Perryhaven,1,1
+177,139,"Ronald Duncan",markwilliams@hotmail.com,(274)664-0924,South,Low,48,"Bank 48",East,0.7,5452.55,USD,2024-06-19,"Lake Stevenberg",0,1
+178,357,"Kathryn Shelton",pnorman@bean-hampton.info,665-963-2490,West,High,898,"Bank 898",North,0.72,9995.90,USD,2024-11-16,Hudsonborough,1,1
+179,294,"Jill Lynch",aaronwilson@gmail.com,(961)411-6582,North,High,49,"Bank 49",South,0.89,8710.94,USD,2024-09-21,Scottbury,1,1
+180,540,"Alyssa Bush",lyonsjeff@porter.com,001-014-311-2623x522,East,High,19,"Bank 19",West,0.62,31.68,USD,2024-03-15,"North Suzanne",0,1
+181,537,"Alexa Shelton",cgriffin@mcconnell.com,364-665-2710,South,Low,982,"Bank 982",South,0.88,3131.17,USD,2024-02-18,"East Sarafurt",1,1
+182,798,"Gene Perry",douglaswood@williams.net,401-125-0291x33861,South,Low,393,"Bank 393",West,0.82,7436.33,USD,2024-07-07,"West Travis",1,1
+183,784,"Jessica Rubio",christopherreilly@yahoo.com,(156)433-3418,East,High,807,"Bank 807",South,0.86,7294.25,USD,2024-04-05,Forbesmouth,1,1
+184,850,"Brittney Murray",james30@gmail.com,402.842.6738x527,South,Medium,528,"Bank 528",South,0.62,7931.63,USD,2024-04-24,Garrettchester,0,1
+185,481,"Jenna Payne",annaavila@hotmail.com,+1-383-428-5067x832,North,Low,713,"Bank 713",South,0.94,9104.14,USD,2024-02-21,Goodwinfurt,1,1
+186,926,"Judith Kennedy",tamara54@rodriguez-mckee.net,690-076-0746x43091,South,High,301,"Bank 301",South,0.93,784.93,USD,2024-05-27,"Lake Natashaport",0,1
+187,488,"Travis Murray",adamnewton@yahoo.com,+1-505-636-7226,South,Medium,58,"Bank 58",North,0.66,1585.55,USD,2024-04-14,Emilyfort,1,1
+188,930,"Haley Harris",michaelstevens@simmons.com,970.198.2648,East,High,5,"Wilcox, Lynch and Weeks",South,0.51,9855.67,USD,2024-07-12,Brianville,0,1
+189,789,"Cassidy Quinn",mark61@gates.com,+1-926-775-9250x61960,East,Medium,649,"Bank 649",North,0.65,2872.43,USD,2024-03-30,Mitchellview,0,1
+190,466,"Angela Young",nicholeweber@cannon-mcdonald.com,423-339-9096x126,South,High,330,"Bank 330",North,0.54,2515.53,USD,2024-04-24,Brianville,0,1
+191,169,"Nathan Velasquez",johnhernandez@yahoo.com,(365)392-7782,East,Medium,1007,"Bank 1007",North,0.92,3017.12,USD,2024-04-04,"South Brianland",1,1
+192,608,"Kristy Stephens",shellyowens@gmail.com,959-549-2628x70404,North,High,933,"Bank 933",East,0.53,831.12,USD,2023-12-30,"North Kaitlynhaven",1,1
+193,667,"John Williams",sparksjohn@wilson.info,(410)031-3251,East,Low,670,"Bank 670",North,0.72,1497.70,USD,2024-03-14,Lewisbury,0,1
+194,376,"Scott Adams",olivia95@parrish-smith.net,025-302-8678,South,Low,736,"Bank 736",South,0.63,7312.29,USD,2024-08-31,Sandratown,0,1
+195,831,"Samantha Thompson",suelong@yahoo.com,198-543-9211x50268,North,Low,138,"Bank 138",West,0.6,592.82,USD,2024-01-22,"North Thomas",1,1
+196,553,"Erika Stewart MD",anthonyjessica@yahoo.com,4418100553,East,Medium,789,"Bank 789",West,0.61,6954.15,USD,2023-12-18,Barrettmouth,1,1
+197,394,"Dawn Lopez",eburton@burke.net,+1-778-018-0606x21103,East,Medium,107,"Bank 107",North,0.6,9172.74,USD,2024-04-11,Nicholasland,0,1
+198,31,"Scott Smith",melissacrawford@pierce-goodman.com,427.712.5672,West,Low,721,"Bank 721",East,0.69,8488.58,USD,2024-08-18,Rachelstad,0,1
+199,431,"Sandra Mathis",christopher01@goodwin.com,840-677-4947x633,South,Medium,54,"Bank 54",West,0.81,1932.25,USD,2024-08-30,Evanstown,1,1
+200,224,"Jonathan Collins",ashley80@gmail.com,001-996-863-3145x9870,North,High,854,"Bank 854",East,0.52,6821.33,USD,2024-03-05,"Port Michele",1,1
+201,429,"Matthew Patel",donald19@gmail.com,538.043.4194,South,Medium,294,"Bank 294",South,0.54,682.06,USD,2024-09-18,"West Denise",0,1
+202,53,"Brandon Maynard",carrilloamy@obrien.biz,+1-646-674-2040x52135,East,Medium,410,"Bank 410",North,0.95,823.07,USD,2024-04-08,"North Matthewchester",1,1
+203,47,"Sarah Lewis",tiffanycook@hotmail.com,+1-482-369-7721x52330,East,High,765,"Bank 765",South,0.79,2714.18,USD,2024-02-15,Sharontown,1,1
+204,800,"Benjamin Reyes",lopezshawn@gmail.com,1378525992,East,Medium,164,"Bank 164",North,0.64,6004.44,USD,2024-05-18,"New Jenniferbury",1,1
+205,941,"Gabriela Davis",tnavarro@yahoo.com,001-374-191-1783x196,South,High,147,"Bank 147",West,0.59,3343.46,USD,2024-09-02,"New Christine",0,1
+206,887,"Justin Davies",jgibbs@davis-erickson.com,+1-739-468-1517x0427,South,Medium,499,"Bank 499",West,0.54,7506.58,USD,2024-05-14,"Port Nicholasshire",1,1
+207,806,"Brandon Schultz",ljohnson@mcdaniel-jones.biz,+1-119-152-4635x324,North,High,666,"Bank 666",East,0.79,1190.01,USD,2024-04-15,"Lake Stacey",1,1
+208,433,"Amanda Lynch",karla16@yahoo.com,+1-368-504-0933,North,Low,110,"Bank 110",North,0.65,6391.30,USD,2024-02-16,"East Heather",0,1
+209,681,"Sharon Perkins MD",rhughes@torres-jones.org,410.104.5192,West,High,545,"Bank 545",South,0.8,8462.91,USD,2023-11-28,"New Robert",0,1
+210,156,"Steven Hunt",swansonstephanie@coleman-richardson.net,630.969.4814,North,Medium,218,"Bank 218",East,0.81,14.37,USD,2024-05-30,"South Gabriela",1,1
+211,980,"Taylor Gaines",karenfrazier@gmail.com,(082)927-8978x31377,West,Low,111,"Bank 111",West,0.68,8721.51,USD,2023-12-11,"West Faith",1,1
+212,414,"Jane Garcia",harveystacy@murillo-graham.org,481-800-9611x3300,East,Low,938,"Bank 938",East,0.93,3554.49,USD,2024-10-01,Gonzalezfurt,0,1
+213,956,"Samantha Stanton",matthew35@carr.com,+1-653-158-0096x3140,South,Medium,939,"Bank 939",West,0.55,8857.61,USD,2024-10-22,Patriciaport,0,1
+214,400,"Mary Brewer",vchristian@yahoo.com,001-613-794-6849x582,South,Low,746,"Bank 746",North,0.53,4037.01,USD,2024-06-07,"South Elizabethside",1,1
+215,39,"Charles Barnes",kellykent@horne-marshall.com,080.534.1051,South,Low,846,"Bank 846",East,0.93,6524.94,USD,2024-08-05,Coxtown,0,1
+216,989,"Ashley Herrera",howardmartha@gmail.com,+1-600-651-4781x189,West,Low,879,"Bank 879",East,0.67,6409.55,USD,2024-06-18,"West Lisaborough",1,1
+217,777,"Anna Henson",molinastephen@baker.com,786.362.1700,West,Low,297,"Bank 297",South,0.72,5067.72,USD,2024-07-13,"South Shannonton",0,1
+218,853,"Stephanie Coleman",fritzchristopher@olson-thompson.com,925-578-7080x9487,South,Low,850,"Bank 850",West,0.88,6649.57,USD,2024-11-03,Coleland,0,1
+219,881,"Alyssa Roberts",rebeccahernandez@sanders.com,(647)175-9272,South,Medium,324,"Bank 324",West,0.71,9397.79,USD,2024-05-18,Freemanhaven,0,1
+220,268,"Ryan Fox",brandy59@scott-west.com,(881)095-3994x808,South,High,554,"Bank 554",South,0.67,1806.41,USD,2024-04-11,Haleyville,1,1
+221,400,"Mary Brewer",vchristian@yahoo.com,001-613-794-6849x582,South,Low,962,"Bank 962",South,0.9,1070.63,USD,2024-10-28,"Lake Nicoleburgh",0,1
+222,536,"Matthew Cook",robin08@hotmail.com,001-405-138-5314x059,East,Low,739,"Bank 739",East,0.77,2692.99,USD,2024-09-06,Hardyborough,1,1
+223,534,"Dwayne Mcdonald",michaelerickson@williams-maldonado.com,001-118-648-6658x827,West,Medium,666,"Bank 666",East,0.79,8269.02,USD,2023-11-23,"East Laurie",1,1
+224,464,"Joshua Richard",davidwatson@hotmail.com,275.672.9478x31160,North,Low,123,"Bank 123",South,0.8,4875.58,USD,2024-09-18,"Lake Patrickside",1,1
+225,850,"Brittney Murray",james30@gmail.com,402.842.6738x527,South,Medium,341,"Bank 341",West,0.63,894.85,USD,2024-10-15,"North Frankside",0,1
+226,834,"Kimberly Thompson",schmidtalicia@lester.biz,001-934-267-0415x264,East,High,199,"Bank 199",North,0.63,6060.93,USD,2024-11-01,"South Tyler",1,1
+227,4,"James Campbell",virginiamorgan@gmail.com,161-783-7589x5926,South,Low,873,"Bank 873",North,0.68,6185.55,USD,2024-11-19,"West Elizabethchester",0,1
+228,268,"Ryan Fox",brandy59@scott-west.com,(881)095-3994x808,South,High,314,"Bank 314",East,1,8119.76,USD,2024-03-09,"Port Jonathan",0,1
+229,941,"Gabriela Davis",tnavarro@yahoo.com,001-374-191-1783x196,South,High,588,"Bank 588",North,0.85,9505.54,USD,2024-09-19,Browntown,1,1
+230,79,"Linda Simpson",denisewiley@hotmail.com,+1-105-601-8227x5633,North,Medium,808,"Bank 808",East,0.92,2103.46,USD,2024-07-16,Christopherhaven,0,1
+231,117,"Yolanda Hardy",clarktraci@yahoo.com,582.878.3040,West,High,162,"Bank 162",West,0.91,1472.60,USD,2024-10-05,Lopezshire,1,1
+232,176,"Julie Walker",ksanchez@lloyd.org,001-853-737-2857,West,High,123,"Bank 123",South,0.8,7954.56,USD,2024-02-05,Briannahaven,1,1
+233,614,"James Schmidt",reedpatricia@thomas-perez.com,7986762019,North,High,386,"Bank 386",West,0.56,6886.38,USD,2024-08-06,"Lake Michael",0,1
+234,348,"Kathleen Collins",marcussmith@yahoo.com,+1-396-556-5310x5643,South,Medium,44,"Bank 44",East,0.95,4915.54,USD,2024-10-15,"West Diane",1,1
+235,159,"Jeffrey Lawson",umartin@gmail.com,001-491-223-2033,East,High,804,"Bank 804",South,0.67,9831.19,USD,2024-05-13,"New Stephanie",0,1
+236,447,"Wanda Carter",larryburke@hotmail.com,001-999-905-2353x22709,South,High,128,"Bank 128",East,0.75,8230.38,USD,2024-06-08,"North Autumnburgh",0,1
+237,134,"Michele Freeman DVM",wendymurray@hotmail.com,667-153-4934x36446,West,High,1,Figueroa-Green,South,0.81,3790.68,USD,2024-01-05,"North Ronald",0,1
+238,611,"Sharon Crawford",brittney14@avila.com,(162)737-7482x4087,East,Low,677,"Bank 677",North,0.58,4561.89,USD,2024-10-04,"New Richardview",1,1
+239,10,"Jared Harmon",ravila@hotmail.com,133.487.1656x55795,North,High,500,"Bank 500",South,0.88,3298.52,USD,2024-08-30,"East Scott",1,1
+240,434,"Dr. Shawn Shepard",aliciajackson@lamb.biz,195-071-3264,North,High,594,"Bank 594",East,0.7,2428.29,USD,2024-08-28,Reyesberg,0,1
+241,739,"Steven Ritter",lawrence93@gmail.com,001-061-853-6696x64973,East,Low,704,"Bank 704",North,0.92,8464.68,USD,2024-07-12,"Port Stevenberg",0,1
+242,177,"Kimberly Martin",michele20@jackson.com,555.992.4221,South,Low,875,"Bank 875",South,0.58,7309.80,USD,2023-12-26,Brandonland,1,1
+243,639,"Matthew Martinez",yhudson@yahoo.com,+1-687-809-2746x936,East,Low,508,"Bank 508",West,0.54,4805.80,USD,2024-08-05,Joeshire,1,1
+244,212,"Bryan Bennett PhD",alexa35@robinson-mullins.com,0510357140,South,Medium,66,"Bank 66",East,0.62,7005.88,USD,2024-09-17,Williamfort,1,1
+245,249,"Janet Anderson DDS",wgreene@madden-garcia.com,(146)306-2186,North,Low,30,"Bank 30",East,0.92,2555.26,USD,2024-10-22,"New Jonathan",1,1
+246,687,"Anna Patterson",sarah51@yahoo.com,001-847-198-6323x0929,East,High,250,"Bank 250",West,0.83,5164.46,USD,2024-05-22,"New Andrew",1,1
+247,445,"Anthony Hunter",millerjoshua@yahoo.com,001-456-207-0642,West,Medium,956,"Bank 956",East,0.95,1549.96,USD,2024-05-01,"New Zachary",0,1
+248,670,"Jennifer Johnson",chambersjoseph@gibson.com,781.920.5200,North,High,223,"Bank 223",East,0.51,2428.46,USD,2024-05-16,"Lake Andrewton",0,1
+249,911,"Gary Whitaker",rsalinas@moreno.com,738-350-3886x370,East,High,997,"Bank 997",South,0.7,3963.45,USD,2024-09-02,"New Danielle",1,1
+250,913,"Martha Haynes",marymcconnell@gmail.com,+1-185-386-4531x210,South,Medium,601,"Bank 601",East,0.67,5122.28,USD,2024-01-09,Wilsonview,0,1
+251,707,"Sarah Walker",adamscarol@hotmail.com,001-011-977-7346x987,West,Low,196,"Bank 196",North,0.58,1822.57,USD,2024-01-27,"South Breannafurt",1,1
+252,468,"Dawn Hanson",leonardjordan@dixon.biz,506.064.9597x55646,West,High,267,"Bank 267",South,0.8,4613.50,USD,2024-05-06,Rebeccabury,0,1
+253,542,"Linda Phillips",rhondacook@cole.com,781-683-0156x994,South,Low,125,"Bank 125",West,0.65,4914.22,USD,2024-11-17,Kyleville,0,1
+254,580,"Jeff Munoz",timothybeck@cruz-jackson.com,9592219322,West,Low,322,"Bank 322",West,0.91,460.83,USD,2024-04-14,Mathewsstad,0,1
+255,245,"Christina Waters",harrisandrea@gmail.com,495.376.6727,North,Medium,164,"Bank 164",North,0.64,4948.03,USD,2024-07-07,"East Paigefurt",1,1
+256,458,"Michael Marshall",greenvalerie@rodriguez.com,6894667386,South,Medium,479,"Bank 479",South,0.67,8445.78,USD,2024-05-07,"Port Markmouth",1,1
+257,146,"Kaitlyn Adams",jeremyhardin@hotmail.com,364.285.9214,South,Medium,748,"Bank 748",South,0.8,1571.33,USD,2024-09-21,"North John",1,1
+258,46,"Jennifer Saunders",michaelalvarez@hotmail.com,584-635-6115x14261,South,Medium,976,"Bank 976",West,0.89,177.53,USD,2024-06-20,"East Matthew",0,1
+259,713,"Arthur Carter",hilledward@zimmerman.com,383-975-2505,South,Medium,265,"Bank 265",South,0.53,5561.80,USD,2023-12-01,"South Rickeyville",0,1
+260,987,"Denise Maldonado",debramahoney@hotmail.com,990.690.9357,West,Medium,355,"Bank 355",East,0.99,2042.59,USD,2024-05-15,"South Briannaport",0,1
+261,841,"Hailey Miller",jasonschwartz@rodriguez-phillips.biz,(306)843-1747x77831,North,High,900,"Bank 900",South,0.62,349.80,USD,2024-06-16,Maldonadobury,0,1
+262,199,"Michelle Stafford",sanchezerik@hotmail.com,(926)029-5005x328,South,Low,767,"Bank 767",East,0.87,1280.33,USD,2024-08-27,Brucefort,1,1
+263,299,"Mark Ritter",kcarpenter@hunter-jones.info,334-344-2995x2863,East,Low,627,"Bank 627",North,0.59,8088.19,USD,2024-02-14,Danielsside,0,1
+264,263,"Travis Taylor",michael92@gmail.com,328-973-0519x543,North,Medium,960,"Bank 960",East,0.75,4503.43,USD,2024-05-29,"East Richardville",1,1
+265,390,"Timothy Murphy",lowemelissa@yahoo.com,886.576.5455x980,East,Medium,279,"Bank 279",West,0.93,715.49,USD,2024-07-11,"New Anna",0,1
+266,924,"Shelby Howell",xporter@yahoo.com,+1-011-535-0504,North,Low,176,"Bank 176",West,0.54,6913.32,USD,2024-05-20,"North Douglas",0,1
+267,815,"Andrew Strickland",monica17@haynes.info,375.328.9258x78520,South,Medium,615,"Bank 615",North,0.52,231.34,USD,2024-04-22,"Lake Danielfort",1,1
+268,155,"Christopher Anderson",xgordon@gmail.com,372.326.4228x8018,North,Low,3,"Morgan, Terry and Cortez",East,0.72,4323.75,USD,2024-08-22,Bernardtown,0,1
+269,190,"Gina Lopez",kevin63@gmail.com,289.590.7508,West,High,766,"Bank 766",East,0.67,2147.56,USD,2024-09-21,"Lake Andrewborough",1,1
+270,593,"Erica Marquez",newmanamber@vasquez.net,197.694.6104x539,East,Low,414,"Bank 414",South,0.69,8046.96,USD,2024-11-10,Jonesville,1,1
+271,961,"Christopher Miller",jeffreymartin@sullivan.biz,543-923-3932x446,East,High,944,"Bank 944",North,0.76,9821.71,USD,2024-03-12,Jacksontown,0,1
+272,732,"Frank Harris",baileysara@gmail.com,083-837-8253,West,Low,557,"Bank 557",West,0.58,5719.44,USD,2024-11-19,"Lake James",0,1
+273,28,"Steven Pineda",fisherelizabeth@johnson.com,205.038.3471,West,Low,723,"Bank 723",South,0.75,7010.93,USD,2024-07-08,Fisherfort,0,1
+274,267,"Kenneth King",amanda04@hess.com,995-429-4119x1924,North,Medium,936,"Bank 936",North,0.62,5501.76,USD,2024-07-25,Hessport,0,1
+275,429,"Matthew Patel",donald19@gmail.com,538.043.4194,South,Medium,433,"Bank 433",East,0.84,8542.36,USD,2024-08-02,"East Barbaramouth",1,1
+276,505,"Lori Olson",zdowns@gmail.com,046.693.7705,East,Medium,81,"Bank 81",South,0.86,5835.83,USD,2024-07-22,Robertfort,0,1
+277,981,"Danny Lewis",morganwoods@jacobson-harris.com,+1-533-977-8488x161,East,Medium,146,"Bank 146",West,0.6,2569.61,USD,2024-07-09,"New Josephborough",0,1
+278,44,"Melanie Rose",nmcgee@jones.com,697-486-6117,South,Low,144,"Bank 144",South,0.66,6793.69,USD,2024-10-09,"Lake Coryhaven",0,1
+279,309,"Eric Howell",christine44@hotmail.com,(496)157-8335,South,High,202,"Bank 202",West,0.83,6343.65,USD,2023-12-24,"Port Robert",1,1
+280,223,"Dawn Wilson",emilymendez@yahoo.com,884-151-7168x4844,North,High,552,"Bank 552",South,0.78,6647.48,USD,2024-03-15,Taylorville,1,1
+281,826,"John Petersen",taylorshari@king.net,001-433-377-0646x89416,South,Low,730,"Bank 730",North,0.89,2299.10,USD,2024-08-01,"South Taylorton",0,1
+282,691,"Ruth Lewis",fitzgeraldashley@long.com,+1-041-937-3363x7404,East,High,621,"Bank 621",East,0.89,2657.98,USD,2023-12-02,Dianebury,1,1
+283,419,"Heather Baldwin",jeffreyhall@kerr.com,792.559.0647,West,Medium,137,"Bank 137",East,0.81,8953.74,USD,2024-06-23,"South Jennifer",0,1
+284,525,"Brittany Wagner",ericrice@gmail.com,001-552-374-1094,South,High,235,"Bank 235",East,0.79,9476.66,USD,2024-02-18,Robinsonland,0,1
+285,454,"Alexis Conway",smurphy@hotmail.com,958.236.5760x31320,West,High,868,"Bank 868",West,0.72,291.24,USD,2024-05-19,"Port Kenneth",0,1
+286,838,"Christine Ramirez",cle@hotmail.com,+1-028-786-7794,North,Medium,511,"Bank 511",East,0.53,5490.40,USD,2024-03-08,Jamesborough,1,1
+287,301,"Timothy Contreras",gonzalezemily@hotmail.com,172-926-1775x0414,North,Medium,974,"Bank 974",West,0.72,7056.83,USD,2024-03-07,"Port Lesliefurt",1,1
+288,4,"James Campbell",virginiamorgan@gmail.com,161-783-7589x5926,South,Low,450,"Bank 450",South,0.62,3109.66,USD,2024-08-21,Russellland,0,1
+289,72,"Bradley Lewis",rosarioashley@gmail.com,(337)929-1912x197,North,Low,405,"Bank 405",East,0.82,7190.82,USD,2024-03-17,"North Shannon",1,1
+290,127,"Gina Rios",erictaylor@yahoo.com,+1-753-585-3701x467,North,Medium,523,"Bank 523",North,0.59,4988.87,USD,2023-12-12,Jonesstad,0,1
+291,247,"Rachel Sims",jacob82@yahoo.com,067-869-5159x45545,North,Low,285,"Bank 285",West,0.54,5667.24,USD,2024-05-01,"New Luishaven",0,1
+292,126,"Justin Bryant",chloe09@gmail.com,001-826-146-7775x183,West,Low,395,"Bank 395",South,0.55,5438.63,USD,2024-09-30,Williamsborough,1,1
+293,400,"Mary Brewer",vchristian@yahoo.com,001-613-794-6849x582,South,Low,985,"Bank 985",South,0.91,7321.32,USD,2024-02-20,Roytown,0,1
+294,551,"Carol Berg",mercedes39@cooper.com,001-841-724-4814x355,West,Medium,617,"Bank 617",North,0.75,4183.50,USD,2024-04-10,Hunterport,0,1
+295,484,"Jason Young",roberta53@warner.com,001-013-638-1936,East,Medium,533,"Bank 533",East,0.52,6888.92,USD,2024-08-24,"Lake Jorgefurt",1,1
+296,717,"Albert Freeman",jgarrett@hotmail.com,+1-043-668-0864x3696,North,Medium,260,"Bank 260",East,0.8,6939.09,USD,2024-07-06,"Lake Amy",0,1
+297,351,"Jeremy Blake",michaelaguilar@chandler.org,(534)725-6431x097,South,Low,776,"Bank 776",West,0.54,8329.63,USD,2024-07-20,Brendaport,0,1
+298,747,"Karen Hernandez",tmontoya@yahoo.com,(920)232-2031x871,East,High,787,"Bank 787",West,0.54,1804.21,USD,2024-07-09,"West Ryan",1,1
+299,458,"Michael Marshall",greenvalerie@rodriguez.com,6894667386,South,Medium,437,"Bank 437",South,0.82,5069.65,USD,2024-09-23,Jessicaport,1,1
+300,216,"Charles Martinez",daniel40@gmail.com,306.125.7546,North,Medium,848,"Bank 848",North,0.58,8480.02,USD,2024-02-24,"North Carlosport",0,1
+301,439,"Laura Fisher",vasquezanna@yahoo.com,321-713-3858x4239,South,Low,790,"Bank 790",South,0.57,2480.82,USD,2024-11-02,Nathanport,1,1
+302,475,"Isaac Hutchinson",nicholas33@hendricks-moran.org,947.254.5787x126,North,Low,610,"Bank 610",South,0.97,7181.10,USD,2024-07-16,Stephanieshire,1,1
+303,290,"Cory Thomas",aprilgonzalez@farmer.org,(332)866-8089x1070,North,Low,545,"Bank 545",South,0.8,1095.79,USD,2023-12-09,Bakerside,0,1
+304,965,"Margaret Gomez",patricia24@blair-jennings.org,445.652.0719x618,West,High,278,"Bank 278",North,0.57,5483.55,USD,2024-06-19,Taylorberg,1,1
+305,802,"Sarah Roberts",eclark@barnes.biz,528-482-3816,North,Low,947,"Bank 947",South,0.66,6191.57,USD,2024-01-03,Ryanton,1,1
+306,503,"Charles Willis",whitneylewis@allen.com,(362)423-2679x0834,South,High,882,"Bank 882",East,0.65,3971.53,USD,2024-09-05,Robertborough,0,1
+307,586,"Shane Stein",melissa69@petty-smith.com,001-681-148-8567x26618,North,Medium,805,"Bank 805",North,0.75,3364.09,USD,2023-11-29,Yodermouth,0,1
+308,187,"Linda Robinson",whitakerlisa@flores.com,800.813.2808x1058,West,High,927,"Bank 927",East,0.71,5439.16,USD,2024-10-21,Kochville,1,1
+309,718,"Christopher Baxter",robertgibson@yahoo.com,+1-235-803-7906,North,Medium,152,"Bank 152",South,0.64,1432.47,USD,2024-11-20,"New Colin",0,1
+310,780,"Tanner Weaver",blackeric@yahoo.com,(133)576-2569x4880,North,Low,844,"Bank 844",North,0.75,1773.87,USD,2024-07-26,"East Robert",1,1
+311,46,"Jennifer Saunders",michaelalvarez@hotmail.com,584-635-6115x14261,South,Medium,247,"Bank 247",East,0.95,2503.90,USD,2024-10-28,"West Aaronmouth",1,1
+312,267,"Kenneth King",amanda04@hess.com,995-429-4119x1924,North,Medium,255,"Bank 255",East,0.99,3068.13,USD,2024-07-11,Terriberg,1,1
+313,680,"Monica Cook DDS",ginalawrence@hotmail.com,(595)951-2853x2957,West,High,612,"Bank 612",East,0.9,5933.81,USD,2024-03-14,Scottshire,1,1
+314,145,"Dylan Simpson",lopeztimothy@gmail.com,001-606-475-5859,North,High,876,"Bank 876",South,0.55,8411.99,USD,2024-04-27,Aguirreborough,0,1
+315,990,"Ebony Elliott",kaisernicole@gmail.com,001-018-612-6994x64402,East,Low,120,"Bank 120",North,0.5,2798.56,USD,2024-04-02,Hardinland,0,1
+316,56,"Joseph Vincent",xjohnson@alvarez.info,0602013700,South,Low,237,"Bank 237",North,0.88,9515.56,USD,2024-04-18,"South Jesse",1,1
+317,714,"Alexis Wilson",josewhite@gmail.com,(007)064-2235,West,Medium,202,"Bank 202",West,0.83,7879.18,USD,2024-06-07,Mariastad,0,1
+318,646,"Clayton Newman DDS",castillosamuel@watts-ross.info,884-187-7832,West,High,850,"Bank 850",West,0.88,6411.68,USD,2024-08-29,"East Stacy",0,1
+319,222,"John Ware",erin10@hotmail.com,240.134.8379,East,Low,697,"Bank 697",North,0.61,9964.43,USD,2024-04-10,"South Wesleyberg",0,1
+320,245,"Christina Waters",harrisandrea@gmail.com,495.376.6727,North,Medium,282,"Bank 282",East,0.82,5498.10,USD,2024-11-17,"West Michael",1,1
+321,866,"Michelle Gray",eddieflores@gmail.com,001-033-263-5602,West,Medium,575,"Bank 575",West,0.55,7262.49,USD,2024-06-22,"South Candace",1,1
+322,249,"Janet Anderson DDS",wgreene@madden-garcia.com,(146)306-2186,North,Low,147,"Bank 147",West,0.59,4906.96,USD,2023-11-28,"South Sarahton",0,1
+323,429,"Matthew Patel",donald19@gmail.com,538.043.4194,South,Medium,514,"Bank 514",North,0.53,9355.90,USD,2024-01-14,"South Brittanychester",1,1
+324,594,"Samantha Morgan",jcharles@mitchell-phillips.com,654-400-4698x520,South,Medium,992,"Bank 992",West,0.91,1170.48,USD,2024-11-11,"Port Crystalberg",1,1
+325,714,"Alexis Wilson",josewhite@gmail.com,(007)064-2235,West,Medium,602,"Bank 602",East,0.9,5466.56,USD,2023-11-26,Hendersonbury,0,1
+326,527,"Michelle Thomas",cynthia85@gmail.com,902-220-3707x0830,East,High,463,"Bank 463",West,0.93,1976.69,USD,2024-01-08,"West Margaret",1,1
+327,522,"Danielle Martinez",twhite@olson-ingram.com,752-948-9910x0358,East,Medium,336,"Bank 336",South,0.93,2951.02,USD,2024-11-04,Alexistown,0,1
+328,592,"Christopher Caldwell",alexisdennis@hotmail.com,(307)404-3550x89746,West,High,365,"Bank 365",West,0.76,8012.16,USD,2024-03-21,"West Kathryn",0,1
+329,405,"Travis Hill",mlopez@richardson.com,989-237-7752x478,South,High,214,"Bank 214",East,0.86,9663.30,USD,2024-06-26,"North Jessicaberg",1,1
+330,714,"Alexis Wilson",josewhite@gmail.com,(007)064-2235,West,Medium,651,"Bank 651",North,0.54,5910.77,USD,2023-12-28,Priceside,1,1
+331,519,"James Osborne",carrillodawn@yahoo.com,(403)134-3212,North,Low,422,"Bank 422",East,0.61,4016.15,USD,2024-02-16,Taylorfort,1,1
+332,369,"Lauren Johnson",jonathan82@anderson.com,001-394-298-2562x474,West,Low,17,"Bank 17",South,0.93,9988.13,USD,2024-06-17,Carlosmouth,0,1
+333,994,"Emily Walker",lawrence63@gmail.com,879-480-3557,West,Low,65,"Bank 65",North,0.88,1756.98,USD,2024-03-03,"Lake Lindaside",0,1
+334,402,"Cynthia Browning",hoffmandwayne@washington.org,235-780-4029x959,South,Low,42,"Bank 42",North,0.51,1423.22,USD,2024-10-31,Ellisonborough,0,1
+335,344,"Sylvia Perez",penaangelica@gmail.com,(219)993-1234x2115,North,Low,685,"Bank 685",North,0.96,9525.79,USD,2024-08-13,Johnnyville,0,1
+336,537,"Alexa Shelton",cgriffin@mcconnell.com,364-665-2710,South,Low,971,"Bank 971",South,0.83,5881.23,USD,2024-05-04,Henrytown,0,1
+337,343,"Christopher Anderson",adamwarren@jones.com,+1-574-674-3982,North,Medium,189,"Bank 189",West,0.86,6413.72,USD,2023-12-28,"Lake Davidhaven",1,1
+338,242,"Patricia Carter",hpeck@kane.com,+1-700-182-6477x5669,East,Medium,64,"Bank 64",West,0.87,2209.98,USD,2024-10-30,"Lake Daniel",1,1
+339,929,"Roger Larson",ocantrell@gmail.com,914.465.4103,East,Low,439,"Bank 439",West,0.59,9104.47,USD,2024-05-29,Michelleland,0,1
+340,295,"Tonya Miller",randy98@martinez-chandler.net,297-161-8956x58451,South,Low,565,"Bank 565",East,0.72,7804.25,USD,2024-06-17,Walkerton,0,1
+341,364,"Jennifer Hawkins",calvinmiller@morales-phillips.com,(173)731-0780x121,West,High,884,"Bank 884",South,0.56,5852.85,USD,2024-08-02,Jordanchester,0,1
+342,424,"Bobby Franklin",bstanton@gmail.com,(075)466-0319x67846,West,High,555,"Bank 555",North,0.53,1810.19,USD,2024-08-19,Billyland,1,1
+343,963,"Debbie Clark",beth61@edwards-williams.com,001-207-573-3262x842,East,Low,550,"Bank 550",North,0.99,1164.52,USD,2024-05-05,Devonside,1,1
+344,929,"Roger Larson",ocantrell@gmail.com,914.465.4103,East,Low,845,"Bank 845",North,0.53,7643.69,USD,2024-08-29,"North Clarence",0,1
+345,844,"Angela Buck",sallymueller@herrera-sanchez.biz,427.060.2064x7822,South,Low,775,"Bank 775",South,0.93,1439.14,USD,2024-06-20,Katrinamouth,1,1
+346,273,"Adam Caldwell",stephenkelley@robinson.biz,218.355.9831x529,South,Low,870,"Bank 870",North,0.58,2024.40,USD,2024-10-10,Melindaland,0,1
+347,482,"Kimberly Owens",qsloan@powell.com,001-793-212-9887,North,Medium,458,"Bank 458",East,0.8,3150.25,USD,2023-12-30,"Port Cindy",0,1
+348,220,"Edward Powers",joel77@hotmail.com,+1-033-769-0423x0783,West,High,25,"Bank 25",North,0.63,8740.75,USD,2024-04-23,"East Annafurt",0,1
+349,944,"Alexa Brown",gonzalezemily@gmail.com,946.049.1185x93794,North,Low,602,"Bank 602",East,0.9,8195.84,USD,2024-06-20,"North Bridget",0,1
+350,158,"Shannon Allen",ostanley@hotmail.com,957.181.0720x718,North,Low,304,"Bank 304",North,0.86,7536.55,USD,2024-08-05,"East Tyler",1,1
+351,210,"Alexis Holt",jacksonrachel@copeland-hall.com,0175102960,North,Low,879,"Bank 879",East,0.67,6094.40,USD,2024-10-22,Sampsonland,1,1
+352,633,"Mary Vang",brittanygreene@hotmail.com,(599)379-6471,South,High,500,"Bank 500",South,0.88,5704.22,USD,2024-05-19,"North Lisa",0,1
+353,141,"Mary Jordan",richard81@yahoo.com,(437)796-8421,West,Low,620,"Bank 620",West,0.95,4063.65,USD,2024-10-14,Trevorton,1,1
+354,667,"John Williams",sparksjohn@wilson.info,(410)031-3251,East,Low,415,"Bank 415",East,0.96,154.93,USD,2023-12-04,"New Ashleymouth",1,1
+355,664,"Melvin Carr",williamsmelissa@sanders.com,415-887-4191,South,Low,738,"Bank 738",East,0.81,6080.06,USD,2024-09-26,Powellshire,0,1
+356,291,"Andrea Martinez",martha07@gmail.com,708-821-3193,South,Low,789,"Bank 789",West,0.61,5144.52,USD,2024-02-05,Stephenmouth,0,1
+357,167,"Joshua Wolf",stephenhall@hood.com,(382)448-0216x7672,North,Low,306,"Bank 306",South,0.64,2639.87,USD,2024-11-08,Kelseychester,1,1
+358,120,"Melinda Rodriguez",andrewraymond@kirby.org,965.347.9719x27607,East,Low,560,"Bank 560",South,0.81,5904.57,USD,2024-05-20,"East Christopher",0,1
+359,957,"Lisa Olson",hollandryan@porter-johnston.com,859.561.2510,North,High,988,"Bank 988",North,0.97,6103.91,USD,2024-05-24,"New Angelaburgh",1,1
+360,789,"Cassidy Quinn",mark61@gates.com,+1-926-775-9250x61960,East,Medium,327,"Bank 327",West,0.77,3529.98,USD,2024-09-24,"East Hannah",0,1
+361,683,"John Carney",mitchelljulie@curry.com,796.477.4061,East,Medium,453,"Bank 453",East,0.59,8674.97,USD,2024-05-05,Myersmouth,1,1
+362,75,"David Lopez",payers@smith.com,459.282.6939x66995,East,Low,546,"Bank 546",West,0.54,1225.22,USD,2024-02-23,"East Shaneberg",1,1
+363,735,"Jamie Morgan",blaketiffany@james.biz,+1-726-707-2947x478,East,Medium,608,"Bank 608",West,0.76,5704.01,USD,2024-01-04,Christophertown,1,1
+364,484,"Jason Young",roberta53@warner.com,001-013-638-1936,East,Medium,450,"Bank 450",South,0.62,2261.85,USD,2024-07-28,"North Edwardstad",1,1
+365,517,"Timothy Murphy",brittany73@johnson.biz,001-734-225-3532,West,Medium,627,"Bank 627",North,0.59,8868.40,USD,2024-05-12,Carterland,0,1
+366,178,"Tamara Castro",martinezmargaret@hotmail.com,001-946-118-0367x3154,North,High,408,"Bank 408",South,0.73,602.48,USD,2024-05-15,Triciaville,1,1
+367,708,"Lisa Black",amyhopkins@mitchell-rogers.com,001-972-857-0562,West,High,845,"Bank 845",North,0.53,9514.35,USD,2024-09-30,"Port Nicoleton",0,1
+368,392,"Stephanie Young",phamilton@yahoo.com,664.276.5561x937,South,Low,36,"Bank 36",South,0.81,7227.93,USD,2024-10-28,Farmerborough,0,1
+369,513,"Dawn Stevens",jenniferknight@boyd.com,194.917.5754,North,Medium,256,"Bank 256",East,0.75,4342.14,USD,2024-01-30,Jasontown,0,1
+370,946,"Jillian Molina",mcclurewendy@bernard.com,143-757-5189,East,Medium,745,"Bank 745",West,0.89,4449.37,USD,2024-10-09,"East Scottmouth",0,1
+371,851,"Stephen Richards",charlesdustin@moore-curtis.biz,(693)086-0091,West,Medium,504,"Bank 504",North,0.6,1372.39,USD,2024-05-17,Markchester,0,1
+372,679,"Michael Watts",williamallen@osborn.com,273-474-2678,East,Medium,185,"Bank 185",South,0.76,3924.17,USD,2024-03-29,"East Kristinshire",0,1
+373,284,"Jennifer Coleman",matthewallen@yahoo.com,526-769-3489x29813,East,Low,906,"Bank 906",South,0.72,6981.48,USD,2023-12-06,Kristinfort,1,1
+374,24,"Carolyn Gilmore",andersonkelsey@gmail.com,(940)134-4137x57943,West,Low,480,"Bank 480",North,0.77,6825.12,USD,2024-08-20,"South Gary",1,1
+375,771,"Jennifer Jimenez",hallstacey@allen.com,708.121.2556x504,West,Medium,655,"Bank 655",East,0.84,2252.73,USD,2024-10-18,"South Carl",0,1
+376,412,"Sandra Cervantes",hberry@gmail.com,494.586.7750x3965,West,Low,784,"Bank 784",West,0.66,8796.84,USD,2024-11-17,Jamieton,0,1
+377,506,"Destiny Montgomery",fullergeorge@vargas.com,4668886269,North,Low,148,"Bank 148",South,0.88,5776.99,USD,2024-01-30,Terriland,1,1
+378,246,"Stephen Vega",adkinslisa@cole.com,(114)648-7212x935,West,Medium,943,"Bank 943",North,1,3111.95,USD,2024-10-25,"East Adrianmouth",0,1
+379,516,"Henry Gilbert",julie23@yahoo.com,(060)484-3844,North,Medium,158,"Bank 158",North,0.69,7233.76,USD,2024-05-08,Carlosborough,0,1
+380,868,"Douglas Martin",josemaldonado@james.com,001-529-635-6373,South,High,48,"Bank 48",East,0.7,9931.19,USD,2024-11-16,Rodriguezberg,1,1
+381,532,"Stephanie Hudson",zachary75@gmail.com,(922)885-9020x77006,South,Low,690,"Bank 690",West,0.69,6212.61,USD,2024-04-23,"West Patrickfurt",0,1
+382,4,"James Campbell",virginiamorgan@gmail.com,161-783-7589x5926,South,Low,322,"Bank 322",West,0.91,4173.66,USD,2024-01-13,Louisland,0,1
+383,883,"Joseph Carlson",edgarsilva@campbell.com,727-940-0333x2696,South,Medium,354,"Bank 354",East,0.85,2330.52,USD,2024-11-06,"New Andrewview",0,1
+384,706,"Diana Torres",kaylamorgan@hotmail.com,+1-532-140-3266x815,South,Low,481,"Bank 481",South,0.77,6808.62,USD,2024-01-27,"Lake Thomas",1,1
+385,822,"William Thompson",joanna10@smith.biz,100-937-4621x167,South,Medium,469,"Bank 469",South,0.85,6405.71,USD,2024-08-20,"South Kyleburgh",1,1
+386,689,"Rachel Hansen",johnsonryan@moore.com,001-628-451-2021,West,High,513,"Bank 513",South,0.96,4390.82,USD,2024-07-31,Pattersonside,0,1
+387,458,"Michael Marshall",greenvalerie@rodriguez.com,6894667386,South,Medium,776,"Bank 776",West,0.54,7134.84,USD,2024-11-18,Michaelland,0,1
+388,650,"Joseph Andrews",bmartinez@smith-hernandez.org,+1-938-094-0842,North,Low,227,"Bank 227",East,0.7,3432.85,USD,2024-09-01,"North Danielville",1,1
+389,437,"Scott Johnson",fjohnson@allen-dillon.com,511.765.2123x0420,South,Low,235,"Bank 235",East,0.79,5192.36,USD,2023-12-01,Jenniferview,1,1
+390,523,"Thomas Hernandez",davidsimmons@schneider-friedman.org,001-645-941-6695x256,North,High,180,"Bank 180",West,0.72,9261.44,USD,2024-05-16,"North Joshuastad",0,1
+391,907,"Jeremiah Russell",pachecomarvin@yahoo.com,286.216.1203x382,West,Medium,449,"Bank 449",West,0.55,8743.29,USD,2024-09-17,"New Kelly",0,1
+392,483,"Chad Green",rachel97@gmail.com,(705)064-4295x4912,West,High,691,"Bank 691",East,0.89,8077.89,USD,2024-11-13,"New Manuelside",1,1
+393,819,"Ronald Cortez",natalie07@gmail.com,321-060-7698x36094,East,Low,539,"Bank 539",South,0.99,2932.77,USD,2024-09-09,"North Kristopherborough",0,1
+394,368,"Shannon King",jarviskaren@johnson.info,(426)117-7563x659,West,Low,761,"Bank 761",East,0.7,5704.79,USD,2024-03-01,"New Anthony",0,1
+395,555,"Nathan Garza",mayerchristopher@newton.com,251.102.5568x78305,North,Low,656,"Bank 656",North,0.81,5857.30,USD,2024-03-23,Whiteborough,1,1
+396,119,"Joanna Johns",cheyennesmith@ortiz.info,901.185.2727x756,South,Medium,518,"Bank 518",North,0.58,3114.50,USD,2024-02-25,"Lake Crystal",1,1
+397,957,"Lisa Olson",hollandryan@porter-johnston.com,859.561.2510,North,High,720,"Bank 720",North,0.89,5760.31,USD,2024-08-24,"New Courtneyborough",1,1
+398,364,"Jennifer Hawkins",calvinmiller@morales-phillips.com,(173)731-0780x121,West,High,408,"Bank 408",South,0.73,6032.56,USD,2024-05-31,Petersonhaven,1,1
+399,259,"Christopher Moore",tporter@yahoo.com,001-207-919-8487x1629,West,High,630,"Bank 630",East,0.74,5586.20,USD,2024-08-03,"New Markstad",1,1
+400,892,"Oscar Greene DVM",tmclean@yahoo.com,(052)867-4198,South,Low,323,"Bank 323",North,0.72,6753.55,USD,2024-06-09,Sarahland,1,1
+401,19,"Rebekah Alexander",raven28@holmes-reyes.com,859-332-7429x154,West,Low,45,"Bank 45",North,0.57,268.84,USD,2024-05-21,Johnstonmouth,0,1
+402,227,"Julie Potts",matthewsthomas@leon.info,(434)954-5027x02493,West,Medium,817,"Bank 817",North,0.69,8394.68,USD,2024-09-14,"South Edwin",0,1
+403,99,"Bradley Scott",gabrielrodriguez@gmail.com,001-834-620-6948,East,Medium,92,"Bank 92",North,0.75,1644.99,USD,2024-08-25,Thomasside,0,1
+404,742,"Thomas Wright",karinaduffy@yahoo.com,973-196-5840,West,High,467,"Bank 467",South,0.5,6655.10,USD,2024-09-02,Mindyfort,0,1
+405,285,"Daniel Smith",kristindurham@cochran-santos.com,217-983-6560x75351,South,Low,444,"Bank 444",North,0.89,6674.15,USD,2024-02-21,Davidmouth,0,1
+406,109,"Angela Garner",aliciawiggins@white.com,+1-294-203-0843x364,East,Low,487,"Bank 487",North,0.8,5939.23,USD,2024-02-28,"North Vickishire",0,1
+407,475,"Isaac Hutchinson",nicholas33@hendricks-moran.org,947.254.5787x126,North,Low,52,"Bank 52",North,0.79,4782.78,USD,2024-08-22,Kimview,1,1
+408,797,"Nicole Medina",jennifer38@murphy.net,+1-256-505-0292x98651,East,High,652,"Bank 652",North,0.84,4704.76,USD,2024-08-20,"West Sharonburgh",1,1
+409,626,"Deborah Harris",castrochristopher@yahoo.com,692.019.1361x175,East,Low,941,"Bank 941",West,0.78,7486.47,USD,2023-12-13,Atkinschester,1,1
+410,837,"Alexis Herrera",melissa16@hotmail.com,001-538-815-1902x980,North,Medium,712,"Bank 712",West,0.62,2593.23,USD,2024-08-28,Cruzberg,0,1
+411,870,"Henry Kelly",jay15@gmail.com,821.988.1428,East,Medium,211,"Bank 211",South,0.72,3973.95,USD,2024-04-01,Mooremouth,0,1
+412,611,"Sharon Crawford",brittney14@avila.com,(162)737-7482x4087,East,Low,699,"Bank 699",North,0.66,4150.01,USD,2024-07-10,Monroehaven,1,1
+413,713,"Arthur Carter",hilledward@zimmerman.com,383-975-2505,South,Medium,368,"Bank 368",West,0.98,9953.66,USD,2024-01-22,"West Kathyhaven",0,1
+414,864,"Patricia Hunter",ashley23@gmail.com,(462)876-1846x1828,South,Low,160,"Bank 160",South,0.95,2697.79,USD,2024-10-25,Josephfurt,0,1
+415,804,"Wesley Butler",acannon@poole.org,644.511.0759,East,Low,730,"Bank 730",North,0.89,6134.69,USD,2024-02-18,"West Aaron",0,1
+416,821,"Brittany Mosley",vgregory@hotmail.com,380.951.6364x0881,North,Low,556,"Bank 556",South,0.88,905.28,USD,2024-10-14,Christineburgh,0,1
+417,156,"Steven Hunt",swansonstephanie@coleman-richardson.net,630.969.4814,North,Medium,802,"Bank 802",East,0.72,1980.24,USD,2024-05-03,"North Melissa",0,1
+418,760,"Kevin Poole",joshuaevans@pitts.com,706-152-3334x773,West,Low,311,"Bank 311",North,0.92,6915.24,USD,2024-09-19,"East Stevenhaven",0,1
+419,401,"Sabrina Williams",yarnold@hotmail.com,744-218-6676x86329,South,Medium,827,"Bank 827",West,0.9,1815.27,USD,2023-12-29,"East Juanberg",1,1
+420,100,"Christopher Holt",bkelly@carpenter.biz,+1-900-312-9702x7509,West,Low,704,"Bank 704",North,0.92,2655.72,USD,2024-06-30,Lawsonton,0,1
+421,572,"Stacy Newman",paul14@yahoo.com,174.670.6270,South,Low,220,"Bank 220",East,0.76,3145.99,USD,2024-02-07,Garciafurt,0,1
+422,519,"James Osborne",carrillodawn@yahoo.com,(403)134-3212,North,Low,50,"Bank 50",East,0.84,5045.59,USD,2023-12-23,Wolfemouth,1,1
+423,670,"Jennifer Johnson",chambersjoseph@gibson.com,781.920.5200,North,High,373,"Bank 373",East,0.82,5398.38,USD,2024-07-16,Colleenside,0,1
+424,826,"John Petersen",taylorshari@king.net,001-433-377-0646x89416,South,Low,119,"Bank 119",East,0.8,1499.77,USD,2023-12-14,"South Markbury",0,1
+425,744,"Ana Rivas",ruth91@becker-villegas.biz,350.458.3478,North,High,915,"Bank 915",North,0.89,1014.12,USD,2024-03-13,Evanburgh,0,1
+426,351,"Jeremy Blake",michaelaguilar@chandler.org,(534)725-6431x097,South,Low,88,"Bank 88",West,0.52,7167.22,USD,2024-07-06,Velasquezport,0,1
+427,469,"Beth Maxwell",salazarmatthew@gmail.com,910-382-0134,East,Medium,318,"Bank 318",South,0.93,2121.09,USD,2024-08-09,"Port Ritatown",0,1
+428,707,"Sarah Walker",adamscarol@hotmail.com,001-011-977-7346x987,West,Low,132,"Bank 132",East,0.85,9652.95,USD,2023-12-22,Rebeccamouth,0,1
+429,496,"Christopher Calhoun",danielbullock@brown-jacobson.com,(138)245-7799,North,Low,262,"Bank 262",East,0.69,2188.08,USD,2023-12-29,"Lake Lisaview",1,1
+430,655,"Diana Smith",angela89@gmail.com,(764)344-8287x2662,East,High,634,"Bank 634",South,0.95,4794.33,USD,2024-05-19,Deanberg,0,1
+431,350,"Linda Taylor",janetzimmerman@tran-crawford.com,238.818.2957,North,Low,230,"Bank 230",North,0.56,9190.51,USD,2024-07-13,Schmidtmouth,0,1
+432,681,"Sharon Perkins MD",rhughes@torres-jones.org,410.104.5192,West,High,688,"Bank 688",West,0.81,1896.96,USD,2024-10-04,"South Brandonshire",1,1
+433,62,"Stephanie Sanders",harriscristian@yahoo.com,0941153616,West,High,409,"Bank 409",West,0.79,467.73,USD,2024-06-21,"West Davidstad",0,1
+434,721,"John Flynn",kathryn74@walker.com,3233312428,West,High,993,"Bank 993",South,0.97,5626.44,USD,2024-11-06,Markmouth,1,1
+435,37,"Jonathan Collins",bryanmichael@allen.net,480.435.0184x3398,East,High,958,"Bank 958",North,0.84,1887.27,USD,2024-02-12,"Lake Jeffreyfort",1,1
+436,391,"Jonathan Spencer",vanessa12@payne.com,+1-876-041-1912x38995,North,High,103,"Bank 103",North,0.97,9751.56,USD,2024-11-03,"New Brandonton",1,1
+437,218,"Molly Thomas",jade09@gmail.com,263-888-9866x0418,East,Low,747,"Bank 747",North,0.88,1946.99,USD,2024-07-26,Elizabethburgh,0,1
+438,785,"Curtis Davis",brittany82@thomas.com,8777251507,North,Low,378,"Bank 378",West,0.78,1877.07,USD,2024-01-10,Barbarastad,1,1
+439,407,"Steven Griffith",jasmine34@martinez.biz,666-669-7486,West,High,671,"Bank 671",South,0.54,578.19,USD,2024-08-11,Andrewsfort,1,1
+440,319,"Shelia Carroll",thomasnathan@smith-olson.biz,(393)619-9850x4376,North,High,18,"Bank 18",North,0.57,6503.59,USD,2024-03-14,Cooperborough,0,1
+441,488,"Travis Murray",adamnewton@yahoo.com,+1-505-636-7226,South,Medium,622,"Bank 622",West,0.92,1256.31,USD,2024-09-13,Hannahfurt,0,1
+442,520,"Terry Quinn",kwoods@gmail.com,483-783-3755x14135,West,Medium,246,"Bank 246",South,0.72,678.11,USD,2024-03-05,Elizabethhaven,0,1
+443,8,"Patrick Spencer",hannah10@yahoo.com,5924666956,East,Low,60,"Bank 60",South,0.95,6583.51,USD,2024-11-14,"Lake Saraside",0,1
+444,177,"Kimberly Martin",michele20@jackson.com,555.992.4221,South,Low,475,"Bank 475",West,0.53,6463.99,USD,2024-07-09,Baldwinport,0,1
+445,654,"David Wright",meyerjoshua@lopez-douglas.net,9050523075,West,Low,781,"Bank 781",North,0.79,4055.84,USD,2024-08-05,Lawrencetown,0,1
+446,710,"Dr. Jason Ortega",melendezjanet@yahoo.com,341.362.5690x9464,South,High,12,"Bank 12",East,0.54,3854.41,USD,2024-06-28,"West Samanthaview",0,1
+447,812,"Barbara Williams",kingcarolyn@gmail.com,756.811.3604x84022,North,High,719,"Bank 719",North,0.72,8165.41,USD,2023-11-26,Davidton,1,1
+448,155,"Christopher Anderson",xgordon@gmail.com,372.326.4228x8018,North,Low,768,"Bank 768",North,0.77,5205.17,USD,2024-06-26,Mckinneyside,1,1
+449,867,"Eric White",cindy47@morgan.com,953.620.4905x8376,West,Medium,776,"Bank 776",West,0.54,6112.06,USD,2024-06-17,"West Michaelside",0,1
+450,651,"Mark Arellano",agonzalez@flores.biz,266.908.8362x141,West,Medium,392,"Bank 392",South,0.92,6032.62,USD,2024-06-16,"North Austinfurt",0,1
+451,378,"Jennifer Rodriguez",ricky44@griffin.com,977.453.1149,East,Medium,154,"Bank 154",South,0.79,4558.89,USD,2024-07-20,Johnport,1,1
+452,655,"Diana Smith",angela89@gmail.com,(764)344-8287x2662,East,High,797,"Bank 797",West,0.64,3891.31,USD,2024-06-28,Shepherdland,1,1
+453,21,"Michelle Hart",meredithjackson@clark.biz,837.992.4785,West,Medium,806,"Bank 806",East,0.54,6445.35,USD,2024-05-28,"Port Bonnie",0,1
+454,772,"Lonnie Brooks Jr.",martinlindsay@yahoo.com,(927)517-8804x702,South,Low,65,"Bank 65",North,0.88,2349.21,USD,2024-04-17,"Lake Henry",1,1
+455,788,"Michael Soto",ellislori@banks.com,712-713-6877,North,High,838,"Bank 838",East,0.51,6827.54,USD,2024-11-07,"Port Kathyfort",0,1
+456,843,"Pedro Schwartz",mitchelllawrence@yahoo.com,001-893-862-8238x683,West,High,195,"Bank 195",North,0.81,9673.62,USD,2024-08-26,"West Christy",0,1
+457,108,"Robert Bryant",lewisjeffrey@martin.org,931-999-7253,North,High,507,"Bank 507",East,0.82,7901.96,USD,2024-08-14,Burkemouth,0,1
+458,830,"Christopher Brown",melanie82@gmail.com,001-883-866-4462x35786,South,Medium,141,"Bank 141",West,0.88,3517.29,USD,2024-10-10,"Lake Brittanyfort",0,1
+459,381,"Amanda Newman",gloriakelly@jenkins.biz,595-156-5789,East,Low,136,"Bank 136",West,0.67,9583.48,USD,2024-11-05,"West Jamesside",1,1
+460,581,"Tammy Tucker",kendrabenson@savage.com,+1-120-453-9061x8689,North,Low,114,"Bank 114",South,0.64,5406.76,USD,2024-08-28,"New Randy",0,1
+461,842,"Abigail Jones",canthony@gmail.com,432.209.2539x95183,West,High,859,"Bank 859",North,0.9,2187.11,USD,2024-07-18,Nicolefurt,0,1
+462,158,"Shannon Allen",ostanley@hotmail.com,957.181.0720x718,North,Low,535,"Bank 535",East,0.55,5251.13,USD,2024-06-06,Samanthaport,0,1
+463,246,"Stephen Vega",adkinslisa@cole.com,(114)648-7212x935,West,Medium,1001,"Bank 1001",South,0.66,4942.58,USD,2024-08-06,"South Adamton",1,1
+464,19,"Rebekah Alexander",raven28@holmes-reyes.com,859-332-7429x154,West,Low,527,"Bank 527",West,0.59,3668.41,USD,2023-12-05,"South Jose",1,1
+465,205,"Tina Young",bwalker@lee.com,994-610-1443x411,West,High,685,"Bank 685",North,0.96,420.03,USD,2024-09-04,"South Amberstad",0,1
+466,199,"Michelle Stafford",sanchezerik@hotmail.com,(926)029-5005x328,South,Low,969,"Bank 969",East,0.97,8385.43,USD,2024-06-04,"Port Dana",1,1
+467,142,"Billy Lee",gwagner@austin-larson.com,990-370-1257x4142,North,Medium,872,"Bank 872",West,0.93,3546.90,USD,2024-06-19,"Lake Edwardbury",1,1
+468,66,"Robert Sosa",ryan60@cross-kelley.com,+1-186-636-5804x292,East,Low,250,"Bank 250",West,0.83,3439.50,USD,2024-09-27,Timothyside,1,1
+469,849,"Sarah Mccarty",christophergardner@gmail.com,001-177-353-2915x768,West,Low,93,"Bank 93",North,0.79,9442.85,USD,2024-01-10,Katherinetown,0,1
+470,926,"Judith Kennedy",tamara54@rodriguez-mckee.net,690-076-0746x43091,South,High,212,"Bank 212",West,0.92,6761.30,USD,2024-03-10,Shanebury,1,1
+471,416,"Nicholas Sloan",derek71@hall-madden.com,(365)059-0550x2085,North,Medium,308,"Bank 308",West,0.99,7531.77,USD,2024-02-24,Richardchester,1,1
+472,423,"Joshua Ortiz",saraholmes@hernandez-moran.com,5400975139,South,Medium,965,"Bank 965",South,0.95,7153.50,USD,2024-08-26,Aaronborough,1,1
+473,791,"Lindsey Ruiz",matthew70@roth-roberts.com,(898)042-5469,North,Medium,232,"Bank 232",East,0.53,5298.63,USD,2024-02-23,Youngstad,0,1
+474,217,"Andrew Golden",alexanderrichard@rose.com,+1-652-615-1317x21098,East,High,755,"Bank 755",West,0.84,5426.31,USD,2024-10-17,"Lake Anthonyshire",1,1
+475,95,"Amy Bates",sherryvillanueva@yahoo.com,847.738.4007,East,Medium,963,"Bank 963",North,0.84,4851.24,USD,2024-01-19,"Lake Stacy",1,1
+476,751,"Tyler Gibbs II",moorestephanie@yahoo.com,201-806-7956x67909,North,High,73,"Bank 73",South,0.62,4145.44,USD,2024-10-19,Powellland,1,1
+477,176,"Julie Walker",ksanchez@lloyd.org,001-853-737-2857,West,High,332,"Bank 332",East,0.73,663.62,USD,2024-07-15,"Port Matthewhaven",1,1
+478,68,"Anthony Nunez",marshalllinda@watson.com,158.837.5340x7988,West,Medium,918,"Bank 918",South,0.52,3637.41,USD,2023-12-16,Chadland,1,1
+479,89,"Christina Cross",tmarks@dalton.com,(065)368-4609x7005,South,Low,866,"Bank 866",North,0.64,2133.82,USD,2024-02-26,"Lake Benjaminhaven",0,1
+480,936,"Zachary Edwards DDS",kimberly61@collins.biz,388-588-5115x362,North,High,780,"Bank 780",West,0.97,2237.84,USD,2024-08-02,"Lake Ericborough",1,1
+481,846,"Travis Reyes",simmonsrobert@hotmail.com,(816)091-7303,North,Low,144,"Bank 144",South,0.66,3144.19,USD,2024-04-26,Smithchester,1,1
+482,478,"Carol Ward",alisonwalker@yahoo.com,001-910-053-7478x738,East,High,313,"Bank 313",South,0.75,7721.13,USD,2024-11-05,"East Belindatown",1,1
+483,511,"Rebecca Murray",franksteven@velasquez-cox.com,+1-135-391-0505,East,Medium,264,"Bank 264",West,0.86,8287.55,USD,2024-02-08,Watsonmouth,1,1
+484,97,"Linda Johnson",denise67@velasquez.com,599.039.3558x7563,East,High,171,"Bank 171",East,0.75,224.51,USD,2024-09-10,Andersonview,0,1
+485,453,"Patrick Hendricks",fbryant@yahoo.com,533-537-0628x4353,South,Medium,125,"Bank 125",West,0.65,5513.92,USD,2024-11-20,"East Kim",0,1
+486,692,"Brittany Sanchez DDS",beverlylarson@patton.com,001-503-109-9000,North,Low,790,"Bank 790",South,0.57,3884.58,USD,2024-06-08,Conwaymouth,1,1
+487,66,"Robert Sosa",ryan60@cross-kelley.com,+1-186-636-5804x292,East,Low,617,"Bank 617",North,0.75,5844.37,USD,2024-01-01,"East John",0,1
+488,335,"Stephen Jackson",ksmall@hotmail.com,001-421-542-3867x7263,South,Medium,103,"Bank 103",North,0.97,4011.08,USD,2024-02-19,"New Lynn",0,1
+489,524,"Michelle Bennett MD",matthewrodriguez@yahoo.com,001-109-226-2179x75572,North,Low,23,"Bank 23",North,0.79,5085.23,USD,2024-11-18,"Lake Marissa",1,1
+490,81,"Cynthia Christensen",brownrita@figueroa-miles.com,898-003-3371,West,Low,866,"Bank 866",North,0.64,8297.69,USD,2024-01-02,"West Melissaside",0,1
+491,768,"Susan Nelson",brookeaguirre@molina.biz,428-148-9096x15793,East,Low,696,"Bank 696",West,0.95,2312.17,USD,2024-03-10,Michellebury,1,1
+492,646,"Clayton Newman DDS",castillosamuel@watts-ross.info,884-187-7832,West,High,113,"Bank 113",North,0.73,7133.35,USD,2024-04-09,"North Kaylashire",0,1
+493,541,"Scott Watson",oprice@lewis.com,927.527.5984x2107,North,High,450,"Bank 450",South,0.62,1330.59,USD,2024-06-21,Gregorybury,1,1
+494,307,"Diana Alvarez",jstephens@gmail.com,0412031770,North,Medium,669,"Bank 669",South,0.58,1105.99,USD,2024-09-02,"Lake Steven",1,1
+495,903,"Stephanie Lewis",kevin65@gmail.com,(675)358-8255x812,West,Medium,112,"Bank 112",South,0.91,3955.59,USD,2023-12-09,Stevensontown,1,1
+496,793,"Nathan Hernandez",armstrongadam@fitzgerald.biz,+1-780-433-2899,East,Low,442,"Bank 442",North,0.66,1836.22,USD,2024-05-24,"South Kimberlystad",1,1
+497,343,"Christopher Anderson",adamwarren@jones.com,+1-574-674-3982,North,Medium,606,"Bank 606",East,0.62,4332.86,USD,2023-11-23,Ortizhaven,0,1
+498,841,"Hailey Miller",jasonschwartz@rodriguez-phillips.biz,(306)843-1747x77831,North,High,640,"Bank 640",West,0.96,1120.76,USD,2024-09-04,Jonathanview,1,1
+499,288,"Emily Aguilar",clarkallison@williams.com,+1-112-133-1416x490,North,Low,254,"Bank 254",South,0.75,7129.47,USD,2024-09-07,"North Jamieborough",0,1
+500,271,"Valerie Robinson",christopher68@garcia-hoffman.com,342.734.6522x461,East,Low,732,"Bank 732",West,0.94,9895.62,USD,2024-04-13,"Lake Jasmineport",1,1
+501,958,"Marcus Little",bennettkatie@wilson-wise.net,640.981.2151x94948,North,Low,809,"Bank 809",North,0.59,9994.12,USD,2024-03-03,"West Tara",1,1
+502,541,"Scott Watson",oprice@lewis.com,927.527.5984x2107,North,High,694,"Bank 694",South,0.56,6935.92,USD,2024-09-20,Townsendport,0,1
+503,113,"Steven Hansen PhD",loganjessica@hotmail.com,258-710-9098x510,East,Low,262,"Bank 262",East,0.69,5553.10,USD,2023-11-28,Eugeneville,1,1
+504,343,"Christopher Anderson",adamwarren@jones.com,+1-574-674-3982,North,Medium,401,"Bank 401",West,0.78,8419.59,USD,2024-02-29,Garciabury,0,1
+505,315,"James Garrett",perezkevin@brown-nelson.com,(403)793-9962x42141,East,Low,398,"Bank 398",East,0.87,8851.20,USD,2024-02-12,"Port Zacharyview",0,1
+506,299,"Mark Ritter",kcarpenter@hunter-jones.info,334-344-2995x2863,East,Low,515,"Bank 515",North,0.81,5916.62,USD,2024-10-03,"South Mollybury",1,1
+507,877,"Kimberly Jones",millsamanda@hotmail.com,001-255-762-7606x3199,East,High,919,"Bank 919",West,0.84,2107.14,USD,2024-10-21,Taylorbury,0,1
+508,555,"Nathan Garza",mayerchristopher@newton.com,251.102.5568x78305,North,Low,858,"Bank 858",West,0.56,5600.47,USD,2024-02-02,Denisestad,1,1
+509,469,"Beth Maxwell",salazarmatthew@gmail.com,910-382-0134,East,Medium,557,"Bank 557",West,0.58,3176.45,USD,2024-05-21,Murphyview,0,1
+510,347,"Sandra Douglas",cowandebra@martinez.biz,2236935785,South,Medium,342,"Bank 342",North,0.55,4713.35,USD,2024-10-10,Guerrerotown,1,1
+511,557,"Lisa Murray",thomasgardner@gmail.com,001-385-039-9540x5151,South,Low,484,"Bank 484",South,0.63,5909.94,USD,2024-01-18,Sherylborough,1,1
+512,583,"Victoria Lee",stanleyjames@yahoo.com,168-505-7909,West,Medium,630,"Bank 630",East,0.74,211.71,USD,2024-10-09,"East Josephtown",1,1
+513,93,"Jeff Thomas",vmorgan@gutierrez.com,698-761-5978x3303,West,Low,788,"Bank 788",West,0.91,1640.75,USD,2024-07-14,Lewisfurt,0,1
+514,671,"Alyssa Quinn",wsmall@gmail.com,038.763.2050,East,High,999,"Bank 999",East,0.76,7195.54,USD,2023-12-29,"Port Gregory",1,1
+515,337,"Paul Foley",jenniferjordan@yahoo.com,+1-796-738-3733x043,East,High,560,"Bank 560",South,0.81,6501.27,USD,2024-06-13,Melindaborough,0,1
+516,18,"Frank Myers",wramirez@page-white.com,+1-996-635-8485x87793,West,Medium,617,"Bank 617",North,0.75,7750.07,USD,2024-07-26,"West Natalie",1,1
+517,331,"Melissa Rojas",hsilva@fields.info,+1-646-561-5841x1411,West,Low,32,"Bank 32",North,0.57,1625.93,USD,2024-03-23,Hodgechester,0,1
+518,734,"Marcia Cox",vegascott@gmail.com,859.806.6345x563,West,Low,641,"Bank 641",West,0.61,2355.94,USD,2024-03-15,Joshuahaven,0,1
+519,374,"Matthew Foster",sheryl66@bell-graham.net,(749)138-5826,North,High,740,"Bank 740",North,0.82,5678.63,USD,2024-06-30,"West Lisa",1,1
+520,394,"Dawn Lopez",eburton@burke.net,+1-778-018-0606x21103,East,Medium,173,"Bank 173",East,0.78,9432.86,USD,2024-02-15,"North Philip",0,1
+521,340,"Melissa Garcia",mariasanchez@brown.info,+1-602-040-6882x68575,South,Medium,341,"Bank 341",West,0.63,4372.02,USD,2023-11-27,Grantview,0,1
+522,955,"Rachel Bell",samuelhurley@york-serrano.com,(225)425-4053,South,Low,678,"Bank 678",North,0.89,1472.49,USD,2024-01-07,"North Victoria",1,1
+523,71,"John Preston",cjohnson@reese.biz,+1-474-206-7156x45920,South,Medium,240,"Bank 240",East,0.73,9138.89,USD,2024-04-14,"New Jonathanmouth",1,1
+524,799,"Mark Reeves",sheilajones@jones.com,312-876-3165x2720,South,Low,390,"Bank 390",South,0.77,1638.54,USD,2024-05-23,Aaronland,0,1
+525,99,"Bradley Scott",gabrielrodriguez@gmail.com,001-834-620-6948,East,Medium,260,"Bank 260",East,0.8,2723.70,USD,2024-04-15,Danielburgh,1,1
+526,27,"Linda Chavez",vyoung@yahoo.com,001-694-406-5074x864,West,Medium,814,"Bank 814",South,1,6050.36,USD,2023-12-02,"South Lisa",1,1
+527,88,"Denise Pierce",ritterjoshua@hotmail.com,001-182-071-0240x829,North,Low,1006,"Bank 1006",West,0.5,4131.00,USD,2024-04-23,Thompsonborough,0,1
+528,539,"Joshua Fox",clifford75@garcia-martinez.com,0365003811,South,High,52,"Bank 52",North,0.79,3952.29,USD,2024-04-21,Youngmouth,0,1
+529,160,"Sylvia Hess DVM",dramirez@burns.biz,001-758-743-3067x8700,East,Low,616,"Bank 616",East,0.66,7065.13,USD,2024-02-11,Andrealand,1,1
+530,391,"Jonathan Spencer",vanessa12@payne.com,+1-876-041-1912x38995,North,High,1000,"Bank 1000",East,0.96,9679.24,USD,2024-04-01,Blackburgh,1,1
+531,763,"Brandi Meadows",travis36@smith.info,779-844-9388,South,Low,529,"Bank 529",North,0.63,3580.37,USD,2023-12-30,"North Kellymouth",0,1
+532,757,"Catherine Fox",vsmall@cooper.com,799.060.3753x7167,South,Low,563,"Bank 563",North,0.78,459.49,USD,2023-12-01,Jonesburgh,0,1
+533,343,"Christopher Anderson",adamwarren@jones.com,+1-574-674-3982,North,Medium,369,"Bank 369",East,0.71,7388.80,USD,2023-11-24,Bradfordfurt,1,1
+534,462,"Timothy Andrews",nsalas@levine-martin.com,(603)832-1024,East,High,1006,"Bank 1006",West,0.5,9750.32,USD,2023-12-22,"West Kenneth",0,1
+535,829,"Susan Gibson",christine84@hart.org,+1-174-900-0631x5842,South,High,143,"Bank 143",South,0.71,4336.54,USD,2024-08-13,"North Stephenmouth",1,1
+536,734,"Marcia Cox",vegascott@gmail.com,859.806.6345x563,West,Low,193,"Bank 193",East,0.93,117.42,USD,2024-04-30,"West Gregorytown",0,1
+537,501,"Travis Galloway",jpetersen@owen-cervantes.com,286.098.1851x209,South,Medium,867,"Bank 867",East,0.57,9636.40,USD,2024-10-09,"South Anthonyhaven",0,1
+538,167,"Joshua Wolf",stephenhall@hood.com,(382)448-0216x7672,North,Low,888,"Bank 888",East,0.87,6089.18,USD,2024-01-30,"West Courtney",1,1
+539,132,"Cheryl Gillespie",christopherbrown@gmail.com,+1-561-059-6376,East,High,609,"Bank 609",East,0.63,2721.97,USD,2023-12-14,Mossberg,0,1
+540,507,"Craig Wilkins",wilkinsdavid@yahoo.com,729-098-9961x141,East,High,499,"Bank 499",West,0.54,8475.72,USD,2024-03-05,Conleyshire,0,1
+541,721,"John Flynn",kathryn74@walker.com,3233312428,West,High,233,"Bank 233",North,0.78,7831.37,USD,2024-09-28,"North Randystad",1,1
+542,999,"Katelyn Vasquez",jeffrey76@yahoo.com,544-590-9925,North,High,408,"Bank 408",South,0.73,9429.64,USD,2024-09-11,Schultzbury,1,1
+543,436,"Connie Burton",williamschristina@golden.com,001-852-594-9733,West,High,976,"Bank 976",West,0.89,2951.22,USD,2024-04-02,"New Rachelland",1,1
+544,786,"Deborah Reyes",fwood@gmail.com,863-850-9551x1306,East,High,544,"Bank 544",North,0.71,1561.00,USD,2024-04-10,"New Christina",0,1
+545,780,"Tanner Weaver",blackeric@yahoo.com,(133)576-2569x4880,North,Low,808,"Bank 808",East,0.92,9452.52,USD,2024-08-28,"South Thomasstad",0,1
+546,492,"April Ray",villarrealpam@davila-jones.com,9212046469,North,Medium,233,"Bank 233",North,0.78,9482.81,USD,2024-03-28,"New Teresatown",0,1
+547,712,"Jaime Shepard",kimmichael@yahoo.com,123-516-4935x333,North,Medium,146,"Bank 146",West,0.6,8086.58,USD,2024-06-30,Daniellemouth,1,1
+548,412,"Sandra Cervantes",hberry@gmail.com,494.586.7750x3965,West,Low,647,"Bank 647",South,0.74,5494.18,USD,2024-05-15,Cassandrahaven,1,1
+549,553,"Erika Stewart MD",anthonyjessica@yahoo.com,4418100553,East,Medium,905,"Bank 905",East,0.73,7277.08,USD,2024-07-25,Laurenhaven,0,1
+550,296,"Stacy Mccoy",scottgloria@novak.biz,1496557199,North,Medium,1005,"Bank 1005",North,0.98,5113.55,USD,2024-02-19,Jessicamouth,0,1
+551,428,"Shannon Williams",jaredgonzalez@smith.com,+1-118-158-2354x6417,South,High,503,"Bank 503",North,0.72,8825.20,USD,2024-07-16,"New Kathryn",0,1
+552,810,"Linda Green",karathomas@gmail.com,001-030-089-6927x8495,South,High,311,"Bank 311",North,0.92,146.95,USD,2024-05-28,"South David",1,1
+553,402,"Cynthia Browning",hoffmandwayne@washington.org,235-780-4029x959,South,Low,907,"Bank 907",West,0.65,4320.66,USD,2024-07-17,Andersonberg,0,1
+554,160,"Sylvia Hess DVM",dramirez@burns.biz,001-758-743-3067x8700,East,Low,700,"Bank 700",West,0.59,3828.55,USD,2024-10-26,"Port Mariochester",1,1
+555,491,"Mr. Vincent Cook PhD",carolynle@cisneros.biz,0624531520,South,Low,947,"Bank 947",South,0.66,594.82,USD,2024-08-17,"North Teresaton",1,1
+556,275,"Linda Lee",dfisher@barajas-kennedy.com,286-122-5379x87262,West,Low,566,"Bank 566",North,0.89,7354.65,USD,2024-09-16,"East Todd",1,1
+557,514,"Daisy Melton",williamslisa@green.com,822.828.1602x325,North,High,108,"Bank 108",South,0.5,136.69,USD,2024-05-19,Amandaport,0,1
+558,185,"Ashley Bauer",thompsonjavier@hotmail.com,(758)332-2033x3651,North,High,108,"Bank 108",South,0.5,1211.27,USD,2024-10-09,"New Joseph",1,1
+559,824,"Melissa White",freemanjerry@yahoo.com,001-208-376-0056,East,Low,364,"Bank 364",West,0.62,3637.94,USD,2024-03-11,Toddbury,0,1
+560,89,"Christina Cross",tmarks@dalton.com,(065)368-4609x7005,South,Low,453,"Bank 453",East,0.59,908.82,USD,2024-07-26,"Port Emilyville",0,1
+561,498,"Brian Thompson",katelyn97@mills-walker.org,(236)234-2277,South,Low,137,"Bank 137",East,0.81,9534.80,USD,2024-06-14,"Port Destinyside",1,1
+562,852,"Charles Davis",crystal13@foster-rodriguez.info,815-310-1888,North,Medium,648,"Bank 648",North,0.6,8163.48,USD,2024-01-09,Haroldstad,0,1
+563,594,"Samantha Morgan",jcharles@mitchell-phillips.com,654-400-4698x520,South,Medium,288,"Bank 288",North,0.55,5050.63,USD,2023-12-15,"North Brittany",1,1
+564,597,"Michael Dunn",knightgeorge@griffin-flores.net,6102996239,East,High,82,"Bank 82",North,0.63,3918.43,USD,2024-04-10,"Lake Benjamin",0,1
+565,915,"Melanie Davis",alejandraharris@gmail.com,570.383.0540,East,Medium,395,"Bank 395",South,0.55,4905.83,USD,2024-08-29,"New Mollyburgh",0,1
+566,270,"Daniel Mason",stevenflowers@yahoo.com,343-699-3641x133,South,Low,147,"Bank 147",West,0.59,9934.56,USD,2024-09-16,"Lake Teresaborough",1,1
+567,151,"Cory Collins",laurapreston@hotmail.com,(378)285-3242x934,East,High,88,"Bank 88",West,0.52,9509.48,USD,2024-02-17,Charlesborough,1,1
+568,955,"Rachel Bell",samuelhurley@york-serrano.com,(225)425-4053,South,Low,128,"Bank 128",East,0.75,5367.50,USD,2024-11-02,Reidmouth,0,1
+569,771,"Jennifer Jimenez",hallstacey@allen.com,708.121.2556x504,West,Medium,649,"Bank 649",North,0.65,5545.83,USD,2024-04-21,"South Jonathan",1,1
+570,94,"David Baker",wpowell@hotmail.com,001-499-024-6840x3844,West,Low,215,"Bank 215",North,0.94,9394.08,USD,2024-05-28,Oscarstad,1,1
+571,207,"Nathan Green",kyledavis@hotmail.com,(264)312-5020x317,North,Medium,254,"Bank 254",South,0.75,9851.24,USD,2024-02-20,Clementsfurt,1,1
+572,693,"Austin Perkins",nicholas77@wolfe.com,001-284-820-6508x09223,South,High,235,"Bank 235",East,0.79,8122.23,USD,2024-04-22,"North Julie",1,1
+573,753,"Thomas Haney",gilbert86@hotmail.com,001-250-968-4520,North,Medium,704,"Bank 704",North,0.92,6290.98,USD,2024-08-13,Vanessastad,1,1
+574,527,"Michelle Thomas",cynthia85@gmail.com,902-220-3707x0830,East,High,828,"Bank 828",South,0.97,554.61,USD,2024-06-18,Smithmouth,0,1
+575,912,"Jeremy Brown",jamiebond@dillon-barnett.org,001-641-287-8606x186,South,High,365,"Bank 365",West,0.76,1732.45,USD,2024-01-07,"North Ryan",1,1
+576,916,"Melissa Wagner",susan58@yahoo.com,028-846-2338x80491,West,Low,683,"Bank 683",West,0.78,4826.96,USD,2024-04-22,"West Scottborough",1,1
+577,160,"Sylvia Hess DVM",dramirez@burns.biz,001-758-743-3067x8700,East,Low,524,"Bank 524",South,0.66,5624.12,USD,2024-01-30,Ronnieville,1,1
+578,207,"Nathan Green",kyledavis@hotmail.com,(264)312-5020x317,North,Medium,385,"Bank 385",North,0.86,9118.16,USD,2023-11-23,Stacybury,1,1
+579,973,"Douglas Schroeder",gilbertmarie@gmail.com,+1-829-505-3550,East,High,619,"Bank 619",South,0.89,2296.82,USD,2024-11-01,Laurenton,1,1
+580,917,"James Clark",vickie23@hotmail.com,+1-163-286-3119,South,High,809,"Bank 809",North,0.59,7548.75,USD,2024-09-05,Barajasville,1,1
+581,969,"David Kelly",cacosta@burns-thompson.com,+1-870-946-4239x319,East,High,851,"Bank 851",East,0.71,3273.65,USD,2023-12-04,"North Cameron",0,1
+582,285,"Daniel Smith",kristindurham@cochran-santos.com,217-983-6560x75351,South,Low,686,"Bank 686",East,0.67,7300.91,USD,2024-09-29,Phillipsview,1,1
+583,773,"Danielle Welch",david34@schneider.com,891.998.3034x4010,South,Low,521,"Bank 521",South,0.84,6902.88,USD,2024-05-23,"Port Ashley",0,1
+584,591,"David Mcdaniel",tkelly@hamilton-harris.org,+1-406-367-8199x565,South,Medium,860,"Bank 860",North,0.77,2903.38,USD,2024-09-01,Powersshire,0,1
+585,663,"Anthony Johnston",brianlloyd@allen.com,001-820-695-9551x1180,East,High,613,"Bank 613",East,0.74,8685.31,USD,2024-11-18,"New Amyshire",1,1
+586,395,"Sara Brown",stephen23@hotmail.com,+1-070-320-1158x18692,East,Medium,483,"Bank 483",South,0.6,8054.89,USD,2024-09-19,"Port Charlesfort",1,1
+587,917,"James Clark",vickie23@hotmail.com,+1-163-286-3119,South,High,618,"Bank 618",West,0.76,7964.42,USD,2024-10-01,"East Debramouth",1,1
+588,153,"Karen Yang",bryansaunders@gmail.com,889.530.1735x15466,West,Low,992,"Bank 992",West,0.91,9016.89,USD,2024-07-31,Samanthabury,0,1
+589,963,"Debbie Clark",beth61@edwards-williams.com,001-207-573-3262x842,East,Low,896,"Bank 896",South,0.69,5682.56,USD,2024-01-28,Joannfurt,1,1
+590,190,"Gina Lopez",kevin63@gmail.com,289.590.7508,West,High,567,"Bank 567",East,0.98,1250.17,USD,2024-03-24,"Port Terri",1,1
+591,573,"David Cochran",milleralicia@hotmail.com,001-189-914-5109x7467,South,High,65,"Bank 65",North,0.88,3792.94,USD,2024-08-08,"Lake Bonnie",1,1
+592,855,"Michael Hunt",bwilliams@cruz.com,+1-556-158-7593x153,North,Low,313,"Bank 313",South,0.75,6540.42,USD,2024-11-04,Brewermouth,1,1
+593,769,"Mary Ross",gregorybuck@yahoo.com,(712)295-4476,East,Medium,122,"Bank 122",West,0.55,5868.06,USD,2024-04-06,Stevensonstad,1,1
+594,804,"Wesley Butler",acannon@poole.org,644.511.0759,East,Low,964,"Bank 964",South,0.63,3058.48,USD,2023-12-24,Rossfort,0,1
+595,861,"Robert Alexander",wmcdonald@hicks.com,497.437.2423,East,Low,470,"Bank 470",South,0.56,7733.22,USD,2024-08-19,Philliphaven,1,1
+596,548,"Daniel Anderson",kylebailey@griffith.net,(728)347-8526x61846,East,Low,589,"Bank 589",East,0.68,4662.69,USD,2024-03-13,"East Teresabury",1,1
+597,674,"Aaron Rivera",madisonsanchez@gmail.com,034.726.0560x070,West,High,325,"Bank 325",East,0.86,1017.29,USD,2024-09-23,"East Jamesshire",1,1
+598,280,"Jacqueline Dennis",halvarez@hotmail.com,9693020288,West,High,433,"Bank 433",East,0.84,4398.44,USD,2024-03-20,"West Hunter",0,1
+599,930,"Haley Harris",michaelstevens@simmons.com,970.198.2648,East,High,891,"Bank 891",South,0.81,5153.49,USD,2024-02-03,"South Antonio",1,1
+600,585,"Wesley Wallace",brendamoran@gmail.com,5585952792,North,High,282,"Bank 282",East,0.82,1247.33,USD,2024-06-15,Andersonborough,1,1
+601,571,"Christian Green",debrasilva@williamson.biz,001-246-646-2346x0537,East,Low,327,"Bank 327",West,0.77,7332.16,USD,2024-09-11,Travisview,0,1
+602,162,"Bryan Galloway",wgilbert@wells.com,179.270.0687x2274,East,Medium,278,"Bank 278",North,0.57,8705.30,USD,2024-11-12,Parkermouth,0,1
+603,421,"Jessica Hart",brenda60@yahoo.com,(824)477-5867x64703,West,Medium,383,"Bank 383",West,0.77,9815.70,USD,2024-11-17,Devinfurt,0,1
+604,618,"Cheryl Hill",christinamyers@yahoo.com,001-090-370-3404,East,High,688,"Bank 688",West,0.81,2453.74,USD,2024-06-19,Nicoletown,0,1
+605,228,"Andrew Krause",qlopez@phillips-thompson.org,330-739-9164,South,High,950,"Bank 950",East,0.52,1910.40,USD,2024-05-04,Knightland,0,1
+606,288,"Emily Aguilar",clarkallison@williams.com,+1-112-133-1416x490,North,Low,556,"Bank 556",South,0.88,8172.59,USD,2023-11-29,"Port Austinport",0,1
+607,37,"Jonathan Collins",bryanmichael@allen.net,480.435.0184x3398,East,High,33,"Bank 33",East,0.61,4022.74,USD,2024-04-21,Kyleport,0,1
+608,934,"Spencer Woods",amy26@phillips.net,962-945-4520x589,West,Low,399,"Bank 399",West,0.58,5625.84,USD,2023-11-30,"North Shari",0,1
+609,784,"Jessica Rubio",christopherreilly@yahoo.com,(156)433-3418,East,High,709,"Bank 709",East,0.94,4580.70,USD,2024-05-22,"New Angieton",0,1
+610,381,"Amanda Newman",gloriakelly@jenkins.biz,595-156-5789,East,Low,930,"Bank 930",West,0.74,732.28,USD,2023-12-13,"North Johnland",1,1
+611,203,"Amanda Floyd",wduarte@goodman-clark.com,989.262.8955x33633,West,Low,359,"Bank 359",North,0.55,5797.25,USD,2024-06-04,"North Jenniferland",0,1
+612,795,"Crystal Schultz",andrew30@williams.com,001-471-796-5088,West,High,148,"Bank 148",South,0.88,7837.58,USD,2024-09-17,"Port Shannonhaven",1,1
+613,832,"Susan Watkins",omoore@watson-whitney.com,(142)657-7552x17942,East,Medium,396,"Bank 396",West,0.59,4102.58,USD,2024-07-29,"North Scott",0,1
+614,835,"Thomas Holland",ellisjames@wilson.com,694-274-8450x825,East,Low,185,"Bank 185",South,0.76,6958.26,USD,2024-07-16,Cookport,0,1
+615,449,"Jeffery Thomas",courtney68@gmail.com,718.675.3639x14906,West,Medium,616,"Bank 616",East,0.66,4974.08,USD,2024-05-26,"Lake Paul",1,1
+616,115,"Amanda Webb",robertrowland@hotmail.com,+1-056-816-2694,West,High,694,"Bank 694",South,0.56,8806.59,USD,2024-03-12,Laurenmouth,1,1
+617,212,"Bryan Bennett PhD",alexa35@robinson-mullins.com,0510357140,South,Medium,255,"Bank 255",East,0.99,7575.61,USD,2024-08-28,"West Keith",0,1
+618,855,"Michael Hunt",bwilliams@cruz.com,+1-556-158-7593x153,North,Low,543,"Bank 543",South,0.56,9829.68,USD,2024-08-10,"South Kennethtown",0,1
+619,301,"Timothy Contreras",gonzalezemily@hotmail.com,172-926-1775x0414,North,Medium,834,"Bank 834",South,0.71,135.47,USD,2024-11-20,"South James",1,1
+620,407,"Steven Griffith",jasmine34@martinez.biz,666-669-7486,West,High,442,"Bank 442",North,0.66,7128.07,USD,2024-05-30,Deborahside,1,1
+621,612,"Diane Hart",igonzalez@garner-gould.biz,105.630.5571x339,West,High,628,"Bank 628",North,0.86,6390.85,USD,2024-01-20,"South Nicholasport",0,1
+622,82,"Christine Lopez",krichardson@huff.com,506-498-6632,North,Medium,9,"Brown, Lawrence and Chaney",West,0.62,8910.06,USD,2024-06-18,Loriburgh,1,1
+623,76,"Chelsea Bradley",brandysingleton@gmail.com,(276)546-7577,West,Medium,801,"Bank 801",South,0.92,5108.84,USD,2024-11-04,Susantown,1,1
+624,370,"Tyrone Peters",castillonicholas@ruiz-gordon.org,+1-636-756-1595,South,Low,207,"Bank 207",South,0.89,9045.09,USD,2024-01-04,Haneyshire,1,1
+625,471,"William Cook",michelereeves@gmail.com,001-517-903-0741x5969,West,High,838,"Bank 838",East,0.51,5555.32,USD,2024-05-01,Grimesburgh,0,1
+626,803,"Karen Carter",elizabeth62@hotmail.com,806-424-8222x403,South,Medium,615,"Bank 615",North,0.52,8829.18,USD,2024-01-31,"South Elizabethborough",1,1
+627,443,"Michael Rodgers",coltonrivera@gmail.com,(236)430-7047,East,Low,632,"Bank 632",East,1,2841.25,USD,2023-12-17,Brendaport,0,1
+628,178,"Tamara Castro",martinezmargaret@hotmail.com,001-946-118-0367x3154,North,High,969,"Bank 969",East,0.97,1895.34,USD,2024-07-01,Perezberg,0,1
+629,660,"Scott Davis",jared03@hudson.com,(575)352-6612,East,Medium,349,"Bank 349",North,0.79,1246.47,USD,2024-08-12,Brandonberg,1,1
+630,815,"Andrew Strickland",monica17@haynes.info,375.328.9258x78520,South,Medium,78,"Bank 78",West,0.75,6139.61,USD,2024-05-11,Edwardsburgh,0,1
+631,460,"Tina Taylor",randolphdavid@hotmail.com,220-093-0996,East,Low,269,"Bank 269",North,0.9,91.22,USD,2024-02-20,Ryanport,0,1
+632,779,"Daniel Hawkins",nancywhite@hill.com,198.631.3209x5320,West,Medium,517,"Bank 517",West,0.91,4705.28,USD,2024-06-29,"New Angelafurt",1,1
+633,897,"Lauren Lee",blake65@martinez.com,001-469-350-2145x51160,West,Low,938,"Bank 938",East,0.93,7949.59,USD,2024-03-21,"South Donald",0,1
+634,470,"Tonya Parsons",amandagregory@baker-harmon.com,2520235930,South,High,1006,"Bank 1006",West,0.5,3914.00,USD,2024-06-18,Michaelhaven,0,1
+635,10,"Jared Harmon",ravila@hotmail.com,133.487.1656x55795,North,High,943,"Bank 943",North,1,1011.47,USD,2024-08-20,Edwardview,0,1
+636,382,"Elizabeth Taylor",vwalker@salas.com,692-941-1130x735,East,Low,440,"Bank 440",North,0.88,3820.24,USD,2024-08-13,Stevenburgh,1,1
+637,10,"Jared Harmon",ravila@hotmail.com,133.487.1656x55795,North,High,90,"Bank 90",South,0.66,3076.74,USD,2024-09-22,Richardfort,0,1
+638,974,"Thomas Miranda",mcdonaldjean@yahoo.com,+1-298-553-9282x670,North,Medium,980,"Bank 980",West,0.72,3735.99,USD,2024-10-13,"East Elizabeth",1,1
+639,301,"Timothy Contreras",gonzalezemily@hotmail.com,172-926-1775x0414,North,Medium,535,"Bank 535",East,0.55,9790.33,USD,2024-08-09,"New Kristen",0,1
+640,888,"Shaun Howard",robert40@yahoo.com,+1-319-730-0171x343,East,Medium,320,"Bank 320",North,0.9,9434.14,USD,2023-12-07,"South Peter",1,1
+641,74,"Lauren Torres",katherinecook@gmail.com,9520786858,South,Medium,177,"Bank 177",West,0.72,4176.01,USD,2024-08-15,"West Francisco",1,1
+642,454,"Alexis Conway",smurphy@hotmail.com,958.236.5760x31320,West,High,925,"Bank 925",North,0.87,8919.97,USD,2024-08-31,Jenniferfurt,1,1
+643,674,"Aaron Rivera",madisonsanchez@gmail.com,034.726.0560x070,West,High,516,"Bank 516",West,0.73,101.03,USD,2024-11-22,"East Mike",0,1
+644,784,"Jessica Rubio",christopherreilly@yahoo.com,(156)433-3418,East,High,413,"Bank 413",West,0.87,5950.80,USD,2024-11-06,Floreston,0,1
+645,780,"Tanner Weaver",blackeric@yahoo.com,(133)576-2569x4880,North,Low,928,"Bank 928",North,0.66,4610.14,USD,2024-03-16,Veronicaton,1,1
+646,4,"James Campbell",virginiamorgan@gmail.com,161-783-7589x5926,South,Low,402,"Bank 402",North,0.95,2899.69,USD,2024-07-21,Cunninghamfurt,0,1
+647,72,"Bradley Lewis",rosarioashley@gmail.com,(337)929-1912x197,North,Low,993,"Bank 993",South,0.97,7964.62,USD,2024-05-29,Jenniferview,0,1
+648,102,"Emily Whitney",robinroberson@black.com,071.733.8655x0553,West,Low,53,"Bank 53",North,0.83,281.57,USD,2024-04-24,"East Lindsayland",1,1
+649,149,"Timothy Fox",lrobinson@singleton.com,(140)408-0025x478,South,Low,244,"Bank 244",West,0.73,9294.44,USD,2024-07-16,"East Bridgetview",1,1
+650,415,"Jennifer Murillo",davidsoncaitlyn@gmail.com,123.030.1376,West,Medium,988,"Bank 988",North,0.97,3022.37,USD,2024-10-28,Kristinastad,1,1
+651,389,"Michelle Watkins",hillevelyn@chung-garrett.com,8006037326,West,Low,715,"Bank 715",West,0.79,1555.02,USD,2024-11-04,"East Manuelview",0,1
+652,139,"Ronald Duncan",markwilliams@hotmail.com,(274)664-0924,South,Low,110,"Bank 110",North,0.65,420.89,USD,2024-08-09,Griffithview,0,1
+653,720,"Christopher Lopez",joshua37@ballard-mcmahon.com,001-081-337-9568x3892,West,Low,556,"Bank 556",South,0.88,9391.38,USD,2024-05-15,Hallton,0,1
+654,265,"Alicia Martin",mark14@morrison.com,675.712.6210,North,Medium,23,"Bank 23",North,0.79,5719.56,USD,2023-12-14,Schmidtview,0,1
+655,565,"Mr. Adam Johnson",gmaldonado@gilbert-lozano.org,+1-266-507-9352,East,Low,212,"Bank 212",West,0.92,3433.10,USD,2024-03-08,Shafferville,1,1
+656,578,"Melinda Alvarado",harveylarry@gmail.com,858.779.3031x430,West,Low,61,"Bank 61",East,0.52,6709.07,USD,2023-12-30,"South Stevenside",0,1
+657,846,"Travis Reyes",simmonsrobert@hotmail.com,(816)091-7303,North,Low,631,"Bank 631",East,0.86,4152.67,USD,2024-11-08,"East David",0,1
+658,388,"Michael Thompson",wattsstephanie@williamson-pittman.com,001-766-519-6603x19819,North,Medium,467,"Bank 467",South,0.5,9746.91,USD,2024-02-16,"South Dianeport",0,1
+659,564,"Alicia Gonzalez",tcooper@hunter.com,721.512.3999,East,Low,191,"Bank 191",East,0.89,5939.31,USD,2024-09-02,Boothport,1,1
+660,411,"Michelle Harding",amywade@gmail.com,1830518739,West,Medium,375,"Bank 375",South,0.77,2965.41,USD,2024-05-11,"New Rebeccaburgh",1,1
+661,593,"Erica Marquez",newmanamber@vasquez.net,197.694.6104x539,East,Low,16,"Bank 16",South,0.96,657.35,USD,2024-10-30,Pittmanshire,0,1
+662,754,"Jessica Farmer",jmartin@stephens-kelley.com,001-500-404-1703x129,East,High,530,"Bank 530",East,0.5,7283.99,USD,2024-09-10,Stephanieton,1,1
+663,374,"Matthew Foster",sheryl66@bell-graham.net,(749)138-5826,North,High,727,"Bank 727",North,0.7,5453.36,USD,2024-06-23,Melissaton,0,1
+664,917,"James Clark",vickie23@hotmail.com,+1-163-286-3119,South,High,235,"Bank 235",East,0.79,7017.66,USD,2024-04-23,"West Krista",1,1
+665,653,"Mrs. Nancy Harris",brianturner@anderson-santos.com,001-007-428-9455x85471,East,Low,368,"Bank 368",West,0.98,530.93,USD,2023-11-27,Micheleport,0,1
+666,385,"Patricia Schwartz",chris13@yahoo.com,296-384-5967x398,East,High,168,"Bank 168",South,0.53,8594.71,USD,2024-08-13,"Port Dianeborough",1,1
+667,122,"Angel Harper",freese@yahoo.com,+1-194-805-1299x43901,East,Low,535,"Bank 535",East,0.55,9387.23,USD,2023-12-22,Christianmouth,1,1
+668,479,"Eric Jones",wardrobert@gmail.com,(688)965-2994x0554,East,Low,591,"Bank 591",South,0.93,2929.82,USD,2024-02-23,Princeborough,0,1
+669,325,"Benjamin Johnston",rkennedy@yahoo.com,385.926.1086,East,Medium,403,"Bank 403",South,0.95,2712.13,USD,2024-10-30,Erinport,1,1
+670,320,"Renee Lopez",aaron40@mercado-norris.biz,+1-597-424-0998,East,High,523,"Bank 523",North,0.59,5609.28,USD,2024-08-29,Garciaview,0,1
+671,674,"Aaron Rivera",madisonsanchez@gmail.com,034.726.0560x070,West,High,605,"Bank 605",East,0.74,4700.21,USD,2024-02-22,Ramosborough,1,1
+672,965,"Margaret Gomez",patricia24@blair-jennings.org,445.652.0719x618,West,High,33,"Bank 33",East,0.61,6296.23,USD,2024-03-14,Michaelport,1,1
+673,866,"Michelle Gray",eddieflores@gmail.com,001-033-263-5602,West,Medium,485,"Bank 485",East,0.61,3361.84,USD,2024-06-29,Wilsonton,0,1
+674,100,"Christopher Holt",bkelly@carpenter.biz,+1-900-312-9702x7509,West,Low,441,"Bank 441",South,0.57,8986.67,USD,2024-02-17,"Lake Ethanstad",1,1
+675,817,"Evan Campbell",tfuentes@yahoo.com,001-873-246-3514x4373,West,Low,18,"Bank 18",North,0.57,2078.07,USD,2024-07-12,"New Carolbury",1,1
+676,857,"Jeffrey Anderson",rbrandt@gmail.com,717.082.7313,West,Medium,865,"Bank 865",East,0.62,1594.56,USD,2024-05-25,"North Kaylatown",0,1
+677,755,"Debbie Parrish DDS",michael27@gmail.com,+1-595-620-9873x5686,South,Medium,301,"Bank 301",South,0.93,3542.88,USD,2024-04-09,Edwardburgh,0,1
+678,83,"Daniel Kim",carpenterjoseph@moss.com,(574)060-9599,South,Medium,538,"Bank 538",North,0.97,8267.66,USD,2024-01-04,Ponceview,0,1
+679,162,"Bryan Galloway",wgilbert@wells.com,179.270.0687x2274,East,Medium,488,"Bank 488",West,0.81,6408.91,USD,2024-07-29,Kristenside,1,1
+680,784,"Jessica Rubio",christopherreilly@yahoo.com,(156)433-3418,East,High,978,"Bank 978",South,0.97,2383.42,USD,2023-12-20,"West Ryantown",1,1
+681,515,"Kathryn Bond",ralph17@miller.net,493-677-0630x6147,North,High,503,"Bank 503",North,0.72,5873.63,USD,2024-02-13,"Port Cathystad",1,1
+682,316,"Paul Harmon",chelsea22@henderson.com,219.457.8401,East,High,617,"Bank 617",North,0.75,4120.22,USD,2024-03-19,"Lake Charlesbury",1,1
+683,859,"Darren Bernard",jtran@gmail.com,320-951-3441,West,High,612,"Bank 612",East,0.9,7303.01,USD,2024-08-25,Marvinchester,1,1
+684,371,"Tonya Lane",jasonsnyder@smith.biz,361.700.8894x89523,East,Low,879,"Bank 879",East,0.67,5340.80,USD,2024-02-20,"East Yolandafurt",0,1
+685,624,"Paul Mcdonald",holly98@yahoo.com,408.765.8513x13503,West,Medium,267,"Bank 267",South,0.8,328.74,USD,2024-09-22,Pooleville,1,1
+686,701,"Bryan Fleming",claire58@perez.biz,001-436-554-9623x00579,North,Medium,36,"Bank 36",South,0.81,2861.56,USD,2024-03-28,"Lake Gavin",1,1
+687,531,"Jennifer Thomas",victormartin@livingston.com,(393)412-9594,South,Low,273,"Bank 273",West,0.79,2330.47,USD,2024-03-15,"New Jonathanbury",1,1
+688,787,"Max Lloyd",cynthiacarter@gmail.com,+1-989-683-1109,East,Low,455,"Bank 455",South,0.86,5671.71,USD,2023-12-31,"Lake Erik",1,1
+689,551,"Carol Berg",mercedes39@cooper.com,001-841-724-4814x355,West,Medium,351,"Bank 351",North,0.5,1633.70,USD,2024-02-09,"North Kevin",1,1
+690,137,"Christopher Jackson",christopherwilliams@gmail.com,267-435-5900x6236,West,High,164,"Bank 164",North,0.64,2230.82,USD,2024-08-09,Moorefurt,1,1
+691,760,"Kevin Poole",joshuaevans@pitts.com,706-152-3334x773,West,Low,199,"Bank 199",North,0.63,1611.88,USD,2023-12-23,Dalebury,0,1
+692,886,"Katherine Hoover",franceskim@powers.com,+1-369-603-2989x98433,South,High,416,"Bank 416",North,0.73,300.61,USD,2024-06-10,Ericaberg,0,1
+693,50,"Michelle Gallagher",stephanieleonard@hotmail.com,+1-258-517-5634x3192,South,Medium,803,"Bank 803",South,0.82,2713.01,USD,2024-06-05,"New Michellefort",0,1
+694,196,"Cristina Goodwin",sethwalker@hotmail.com,765.212.0001,North,High,72,"Bank 72",South,0.55,5463.56,USD,2024-09-15,Dianestad,1,1
+695,909,"Christie Johnson",michellebaker@gmail.com,435-343-6533,West,Medium,133,"Bank 133",South,0.85,6395.74,USD,2024-08-09,"South Sharon",1,1
+696,580,"Jeff Munoz",timothybeck@cruz-jackson.com,9592219322,West,Low,538,"Bank 538",North,0.97,9753.09,USD,2024-06-19,Robinhaven,1,1
+697,230,"Gabriela Clark",ytorres@norris.com,214.892.5644,North,Low,80,"Bank 80",West,0.87,5550.32,USD,2024-04-11,Albertside,0,1
+698,537,"Alexa Shelton",cgriffin@mcconnell.com,364-665-2710,South,Low,800,"Bank 800",East,0.88,6392.35,USD,2024-03-09,Turnerfort,1,1
+699,303,"Jeffery Tran",millerjason@walker-trujillo.info,+1-878-579-9130x6940,North,High,935,"Bank 935",East,0.86,9376.80,USD,2024-07-27,Rosschester,1,1
+700,566,"Scott Wilcox",kevinowens@gmail.com,295.546.8753,North,High,248,"Bank 248",North,0.97,1295.05,USD,2024-01-07,Jodyborough,1,1
+701,574,"Anna Gibson",samuel62@lynn.info,(534)740-3936,West,High,450,"Bank 450",South,0.62,433.13,USD,2024-10-18,Stephenmouth,0,1
+702,888,"Shaun Howard",robert40@yahoo.com,+1-319-730-0171x343,East,Medium,639,"Bank 639",South,0.58,1081.23,USD,2023-12-22,"East Sonia",1,1
+703,95,"Amy Bates",sherryvillanueva@yahoo.com,847.738.4007,East,Medium,381,"Bank 381",North,0.66,151.38,USD,2024-08-31,"East Pamelaville",1,1
+704,911,"Gary Whitaker",rsalinas@moreno.com,738-350-3886x370,East,High,336,"Bank 336",South,0.93,3654.79,USD,2024-07-27,"North Chrisport",1,1
+705,530,"Joanne Wells",melissacastro@gmail.com,251-445-3837,West,High,160,"Bank 160",South,0.95,922.70,USD,2024-04-06,Heatherburgh,0,1
+706,528,"Pamela Galvan",justin59@yahoo.com,001-192-640-1125x671,South,Medium,256,"Bank 256",East,0.75,1357.00,USD,2024-02-15,Heatherbury,0,1
+707,928,"Samuel Clark",markrich@hotmail.com,001-309-677-1171x87184,North,High,399,"Bank 399",West,0.58,6768.72,USD,2024-01-23,"New Erica",0,1
+708,77,"Elizabeth Davidson",mfernandez@gmail.com,690-632-4085x9182,South,Low,441,"Bank 441",South,0.57,6801.69,USD,2024-10-24,"South Alexandria",0,1
+709,513,"Dawn Stevens",jenniferknight@boyd.com,194.917.5754,North,Medium,342,"Bank 342",North,0.55,3349.05,USD,2024-06-04,Cortezborough,0,1
+710,609,"Rachel Townsend",ann27@hotmail.com,(448)516-1846x913,North,High,412,"Bank 412",East,0.51,1115.69,USD,2024-05-20,"East Cindy",0,1
+711,675,"Danielle Myers",rstevens@hotmail.com,518.134.4811x250,East,Medium,615,"Bank 615",North,0.52,58.63,USD,2024-01-20,Susanton,1,1
+712,561,"Stacy Smith",amandahorne@anderson-hall.com,+1-414-999-9255x5442,East,High,464,"Bank 464",North,0.93,9228.75,USD,2024-04-10,Scottton,1,1
+713,996,"Chad Lambert",fhill@lopez.com,001-982-020-4418x12135,West,Medium,906,"Bank 906",South,0.72,7318.22,USD,2024-04-27,"Port David",1,1
+714,910,"Gabriella Rivera",riggsdustin@hotmail.com,+1-696-744-2638x631,South,High,181,"Bank 181",West,0.69,6176.08,USD,2024-08-14,Kathyborough,1,1
+715,249,"Janet Anderson DDS",wgreene@madden-garcia.com,(146)306-2186,North,Low,98,"Bank 98",West,0.51,6058.50,USD,2023-12-09,Austinview,0,1
+716,529,"Tiffany Fields",kristawaters@hotmail.com,624-434-5739x73417,East,Low,225,"Bank 225",West,0.73,701.95,USD,2024-03-29,Petersonview,0,1
+717,34,"Jessica Bowman",gtaylor@powell-acosta.com,961.331.8598x3861,South,High,630,"Bank 630",East,0.74,7188.37,USD,2024-03-18,Yvonneville,0,1
+718,301,"Timothy Contreras",gonzalezemily@hotmail.com,172-926-1775x0414,North,Medium,77,"Bank 77",West,0.86,4104.49,USD,2024-09-02,Andersonland,1,1
+719,669,"Sheri Schwartz",riosdiana@yahoo.com,1003995422,South,Low,183,"Bank 183",East,0.86,2827.94,USD,2024-11-05,"Lake Terri",0,1
+720,247,"Rachel Sims",jacob82@yahoo.com,067-869-5159x45545,North,Low,895,"Bank 895",North,0.91,1603.76,USD,2024-08-09,"North Dustinstad",0,1
+721,923,"Jennifer Watts",patricia89@hotmail.com,110-345-6775,East,High,863,"Bank 863",South,0.72,882.71,USD,2024-09-28,Amybury,0,1
+722,835,"Thomas Holland",ellisjames@wilson.com,694-274-8450x825,East,Low,973,"Bank 973",East,0.8,6633.27,USD,2023-12-11,"North Anna",0,1
+723,470,"Tonya Parsons",amandagregory@baker-harmon.com,2520235930,South,High,425,"Bank 425",North,0.87,479.04,USD,2024-10-15,Melissaland,1,1
+724,911,"Gary Whitaker",rsalinas@moreno.com,738-350-3886x370,East,High,996,"Bank 996",East,0.77,6140.46,USD,2023-12-12,"West Christopher",1,1
+725,23,"Stephanie Cummings",boydjackie@parker.com,(927)491-6588x5214,South,Low,759,"Bank 759",North,0.58,5772.74,USD,2024-08-03,"North Sergiohaven",0,1
+726,767,"Brian Patrick MD",brennanerica@gmail.com,(225)974-4004x16513,North,High,702,"Bank 702",North,0.63,3982.78,USD,2024-02-02,"Lake Andrew",0,1
+727,262,"Amanda Mcmillan",wmoreno@peck.com,541-422-3653x656,North,Medium,397,"Bank 397",West,0.91,2398.96,USD,2024-03-21,Baileyburgh,1,1
+728,864,"Patricia Hunter",ashley23@gmail.com,(462)876-1846x1828,South,Low,610,"Bank 610",South,0.97,877.68,USD,2024-01-12,"North Jeffrey",0,1
+729,876,"April Reed",panderson@greer-ryan.biz,+1-422-046-0509x7120,East,High,1009,"Bank 1009",West,0.71,3094.83,USD,2024-08-04,"North Courtneyview",0,1
+730,140,"Kevin Larson",dhill@gmail.com,391.788.3887,West,Low,257,"Bank 257",North,0.5,6809.58,USD,2024-06-12,"East Matthew",0,1
+731,220,"Edward Powers",joel77@hotmail.com,+1-033-769-0423x0783,West,High,138,"Bank 138",West,0.6,2664.15,USD,2024-06-10,"Port Aaronmouth",0,1
+732,605,"Danielle Yang MD",dianasavage@hotmail.com,664.718.4306x04796,North,High,688,"Bank 688",West,0.81,440.31,USD,2024-05-09,Tylerborough,1,1
+733,189,"Donna Hicks",dbarrera@hotmail.com,002.479.2685x766,East,High,588,"Bank 588",North,0.85,3272.73,USD,2024-05-05,Phillipsside,1,1
+734,45,"Nicholas Mccarthy",lanceschmidt@yahoo.com,266.834.4084,West,High,58,"Bank 58",North,0.66,9662.49,USD,2024-03-08,Hickmanport,1,1
+735,108,"Robert Bryant",lewisjeffrey@martin.org,931-999-7253,North,High,457,"Bank 457",West,0.98,9337.53,USD,2024-09-22,"Lake David",1,1
+736,230,"Gabriela Clark",ytorres@norris.com,214.892.5644,North,Low,496,"Bank 496",West,0.59,7635.07,USD,2024-05-12,Ariasmouth,0,1
+737,729,"Marcia Bruce",vtaylor@lee-zimmerman.com,(499)031-0141x648,South,Medium,25,"Bank 25",North,0.63,9501.07,USD,2024-04-10,Adamfurt,0,1
+738,771,"Jennifer Jimenez",hallstacey@allen.com,708.121.2556x504,West,Medium,121,"Bank 121",West,0.9,5734.31,USD,2024-10-03,"East Jared",1,1
+739,460,"Tina Taylor",randolphdavid@hotmail.com,220-093-0996,East,Low,101,"Bank 101",West,1,6739.74,USD,2024-08-05,"South Madisonside",1,1
+740,15,"Johnny Wilson",taylorrichards@miller-clay.com,+1-638-526-7576x5824,South,Low,465,"Bank 465",South,0.64,4809.83,USD,2024-09-30,"Port Joshuamouth",1,1
+741,583,"Victoria Lee",stanleyjames@yahoo.com,168-505-7909,West,Medium,325,"Bank 325",East,0.86,6397.02,USD,2024-06-26,"North Michaelmouth",0,1
+742,481,"Jenna Payne",annaavila@hotmail.com,+1-383-428-5067x832,North,Low,733,"Bank 733",South,0.58,7374.96,USD,2023-12-02,"New Natalie",0,1
+743,153,"Karen Yang",bryansaunders@gmail.com,889.530.1735x15466,West,Low,330,"Bank 330",North,0.54,4897.25,USD,2024-09-08,Timothystad,1,1
+744,30,"Rebekah Rivers",johnsondean@yahoo.com,898.931.0412x186,East,Medium,571,"Bank 571",East,0.83,980.92,USD,2024-03-10,"West Donnaberg",1,1
+745,910,"Gabriella Rivera",riggsdustin@hotmail.com,+1-696-744-2638x631,South,High,930,"Bank 930",West,0.74,2575.72,USD,2024-10-10,"East Miguel",1,1
+746,67,"Jessica Moyer",williamsmichelle@hotmail.com,7920943978,South,Medium,598,"Bank 598",South,0.57,157.37,USD,2024-06-28,"East Alexandra",0,1
+747,64,"Tina Farmer",stephanieryan@sanders.com,848.869.4028,West,Medium,42,"Bank 42",North,0.51,4907.27,USD,2023-12-24,"Lake Amy",1,1
+748,493,"Michelle Rivera",justin61@yahoo.com,(705)603-7481,South,Medium,678,"Bank 678",North,0.89,2559.75,USD,2024-04-09,"North Jamiehaven",0,1
+749,466,"Angela Young",nicholeweber@cannon-mcdonald.com,423-339-9096x126,South,High,673,"Bank 673",West,0.54,3927.74,USD,2024-07-04,Walkerside,1,1
+750,595,"Sherry Brown",katherineperry@hotmail.com,001-292-514-4039x640,West,Low,314,"Bank 314",East,1,9443.32,USD,2024-06-27,Matthewton,1,1
+751,145,"Dylan Simpson",lopeztimothy@gmail.com,001-606-475-5859,North,High,910,"Bank 910",South,0.52,2280.84,USD,2023-12-16,"East Jeffreyport",1,1
+752,838,"Christine Ramirez",cle@hotmail.com,+1-028-786-7794,North,Medium,743,"Bank 743",North,0.53,6738.57,USD,2024-04-24,"Port Lauren",1,1
+753,500,"Dawn Parrish",melissarhodes@hotmail.com,001-137-790-3035x060,North,High,675,"Bank 675",North,0.97,9240.92,USD,2023-12-27,Crystalfurt,1,1
+754,542,"Linda Phillips",rhondacook@cole.com,781-683-0156x994,South,Low,882,"Bank 882",East,0.65,1534.08,USD,2024-02-07,Karichester,1,1
+755,872,"Bianca Cameron",murphyjeremy@yahoo.com,+1-117-343-7669x581,North,High,255,"Bank 255",East,0.99,8596.02,USD,2024-10-30,Frankville,0,1
+756,788,"Michael Soto",ellislori@banks.com,712-713-6877,North,High,215,"Bank 215",North,0.94,2240.69,USD,2023-12-14,"Lake Dominique",1,1
+757,567,"Rita Myers",ajones@fields.info,334.699.1618x5284,North,Low,179,"Bank 179",East,0.65,1789.34,USD,2024-07-21,"West Tammychester",0,1
+758,9,"James Lopez",bethroberts@rojas.biz,011.287.5137x958,East,Medium,375,"Bank 375",South,0.77,7909.91,USD,2024-07-21,"West Travis",0,1
+759,375,"Juan Cruz DDS",hmartin@gmail.com,415.733.7413,North,Low,265,"Bank 265",South,0.53,3321.99,USD,2024-10-19,Christianville,0,1
+760,753,"Thomas Haney",gilbert86@hotmail.com,001-250-968-4520,North,Medium,646,"Bank 646",North,0.95,7646.19,USD,2024-09-20,Donaldhaven,1,1
+761,995,"Kimberly Sanders",curtis56@yahoo.com,001-950-625-4390x737,North,Low,821,"Bank 821",North,0.89,3571.16,USD,2024-02-19,"West Mark",1,1
+762,368,"Shannon King",jarviskaren@johnson.info,(426)117-7563x659,West,Low,685,"Bank 685",North,0.96,7292.38,USD,2024-07-26,Kimberlyton,0,1
+763,50,"Michelle Gallagher",stephanieleonard@hotmail.com,+1-258-517-5634x3192,South,Medium,937,"Bank 937",South,0.54,2723.36,USD,2024-08-10,Meyersfurt,1,1
+764,972,"Mr. Joshua Morris",derek07@yahoo.com,632.254.7771,West,Low,611,"Bank 611",South,0.7,2334.60,USD,2024-03-31,Smithmouth,0,1
+765,696,"Roberta Cuevas",brett88@li.biz,+1-204-599-2186x24345,North,Medium,697,"Bank 697",North,0.61,2421.83,USD,2024-05-22,Yufort,0,1
+766,3,"Edwin Soto",thomas69@hotmail.com,908.612.6847,North,High,586,"Bank 586",East,0.6,3151.21,USD,2023-12-25,Taylorbury,1,1
+767,288,"Emily Aguilar",clarkallison@williams.com,+1-112-133-1416x490,North,Low,527,"Bank 527",West,0.59,1006.21,USD,2024-05-20,"East Matthew",0,1
+768,924,"Shelby Howell",xporter@yahoo.com,+1-011-535-0504,North,Low,486,"Bank 486",North,0.58,1861.01,USD,2024-02-15,"East Nicholasmouth",0,1
+769,849,"Sarah Mccarty",christophergardner@gmail.com,001-177-353-2915x768,West,Low,198,"Bank 198",South,0.86,6784.09,USD,2024-10-26,"East Jessicaberg",0,1
+770,377,"Joseph Lowe",allenphillip@gmail.com,+1-026-613-1095x3700,North,Low,996,"Bank 996",East,0.77,4709.74,USD,2024-11-04,Gilmoreburgh,1,1
+771,145,"Dylan Simpson",lopeztimothy@gmail.com,001-606-475-5859,North,High,313,"Bank 313",South,0.75,248.69,USD,2024-06-26,Jordanville,0,1
+772,786,"Deborah Reyes",fwood@gmail.com,863-850-9551x1306,East,High,199,"Bank 199",North,0.63,8266.10,USD,2024-04-09,"Lake Rodney",0,1
+773,387,"Ashley Dean",ericsandoval@robbins.biz,(039)978-6066,West,Medium,698,"Bank 698",East,0.88,2009.84,USD,2023-12-23,Tylerport,1,1
+774,621,"David Williamson",kingwayne@summers-matthews.net,3164977132,North,High,776,"Bank 776",West,0.54,2861.55,USD,2024-03-21,"Lake Abigail",1,1
+775,372,"Michael Arnold",ocampos@yahoo.com,514.600.0038x56093,North,Medium,715,"Bank 715",West,0.79,9017.49,USD,2024-05-31,Juliestad,1,1
+776,754,"Jessica Farmer",jmartin@stephens-kelley.com,001-500-404-1703x129,East,High,157,"Bank 157",North,0.62,3514.13,USD,2023-12-05,Mosleytown,0,1
+777,935,"Matthew Lopez",cainmichelle@smith-chapman.com,(426)527-9364,South,Low,401,"Bank 401",West,0.78,1234.38,USD,2024-07-10,Thomasberg,0,1
+778,896,"Matthew Rosario",kruegerbeverly@gonzalez-williams.biz,818.088.8428,West,Low,629,"Bank 629",West,0.64,2090.42,USD,2024-06-22,"New Tami",1,1
+779,795,"Crystal Schultz",andrew30@williams.com,001-471-796-5088,West,High,891,"Bank 891",South,0.81,5145.84,USD,2024-09-21,"Lake Sarah",0,1
+780,777,"Anna Henson",molinastephen@baker.com,786.362.1700,West,Low,1001,"Bank 1001",South,0.66,1075.73,USD,2024-09-03,Elizabethhaven,0,1
+781,825,"Dr. Michelle Warner",robertdeleon@yahoo.com,001-424-832-0988x99643,South,Low,573,"Bank 573",East,0.71,1914.77,USD,2024-09-08,"Lake Jamesside",1,1
+782,833,"Helen Williams",margaretwiley@gmail.com,441-840-1444,North,High,622,"Bank 622",West,0.92,1767.03,USD,2024-05-30,"New Kelly",0,1
+783,943,"Andrea Green",smithpatricia@lee.net,(791)560-6725,East,Low,631,"Bank 631",East,0.86,8656.60,USD,2023-12-16,Rasmussenborough,0,1
+784,40,"Amber Anderson",swansonsteven@stephens.com,001-637-376-3959x6216,East,Low,851,"Bank 851",East,0.71,3597.19,USD,2023-12-25,"Port Alexandraside",0,1
+785,886,"Katherine Hoover",franceskim@powers.com,+1-369-603-2989x98433,South,High,231,"Bank 231",South,0.96,6704.43,USD,2024-02-09,"North David",0,1
+786,494,"Steven Ochoa",evansdylan@contreras-alvarez.com,7491977086,South,Medium,580,"Bank 580",West,0.52,5585.25,USD,2023-12-09,Moorefort,0,1
+787,483,"Chad Green",rachel97@gmail.com,(705)064-4295x4912,West,High,594,"Bank 594",East,0.7,8637.82,USD,2024-02-12,"Port Melanieburgh",0,1
+788,621,"David Williamson",kingwayne@summers-matthews.net,3164977132,North,High,15,"Bank 15",West,0.59,4419.37,USD,2024-10-28,Cohenside,0,1
+789,724,"Rachel Callahan",markscrystal@cochran.com,+1-048-895-8655,North,Medium,218,"Bank 218",East,0.81,6789.75,USD,2024-07-02,"Lake Christinaside",1,1
+790,611,"Sharon Crawford",brittney14@avila.com,(162)737-7482x4087,East,Low,670,"Bank 670",North,0.72,567.52,USD,2023-11-25,Edwardchester,0,1
+791,119,"Joanna Johns",cheyennesmith@ortiz.info,901.185.2727x756,South,Medium,128,"Bank 128",East,0.75,4576.08,USD,2024-09-30,Hernandezside,1,1
+792,451,"Cody Smith",johnsmolly@mcguire.com,+1-712-995-9387x9909,North,Low,452,"Bank 452",East,0.6,4123.70,USD,2024-09-22,Griffinfort,1,1
+793,250,"Ashley Gardner",wyattmoore@mathews.com,036.579.4207,West,High,198,"Bank 198",South,0.86,684.09,USD,2024-09-12,"New Marioton",1,1
+794,768,"Susan Nelson",brookeaguirre@molina.biz,428-148-9096x15793,East,Low,881,"Bank 881",North,1,3383.69,USD,2024-09-15,Peterstad,1,1
+795,252,"Sarah Odom",zandrews@hotmail.com,+1-209-288-6101x1602,West,Medium,681,"Bank 681",South,0.86,2658.78,USD,2024-09-06,"North Timothyshire",1,1
+796,57,"Dr. Natalie Hernandez",wpatterson@adams-davis.com,739.545.9593x2502,East,Low,830,"Bank 830",East,0.93,3548.93,USD,2024-04-20,"Port Davidborough",1,1
+797,2,"Brenda Johnson",brian45@gmail.com,+1-039-539-9788x62818,South,Low,50,"Bank 50",East,0.84,3078.17,USD,2024-07-15,Watsonmouth,1,1
+798,286,"Kevin Martin",rnelson@perry-cardenas.org,839.774.2610x78713,West,Low,278,"Bank 278",North,0.57,4247.92,USD,2024-07-09,Zacharyport,1,1
+799,561,"Stacy Smith",amandahorne@anderson-hall.com,+1-414-999-9255x5442,East,High,507,"Bank 507",East,0.82,4937.52,USD,2024-05-10,"East Joanne",1,1
+800,120,"Melinda Rodriguez",andrewraymond@kirby.org,965.347.9719x27607,East,Low,171,"Bank 171",East,0.75,8034.61,USD,2024-03-30,Michaelfort,1,1
+801,786,"Deborah Reyes",fwood@gmail.com,863-850-9551x1306,East,High,459,"Bank 459",North,1,1412.78,USD,2024-04-27,Ramirezborough,0,1
+802,391,"Jonathan Spencer",vanessa12@payne.com,+1-876-041-1912x38995,North,High,434,"Bank 434",North,0.65,9763.79,USD,2024-09-10,"North Robertfort",1,1
+803,524,"Michelle Bennett MD",matthewrodriguez@yahoo.com,001-109-226-2179x75572,North,Low,622,"Bank 622",West,0.92,4490.24,USD,2024-03-19,Kevintown,1,1
+804,694,"Jeffrey Harding",timothy08@gmail.com,560-586-6418x451,South,Low,330,"Bank 330",North,0.54,7431.94,USD,2024-05-12,Lindsayland,1,1
+805,153,"Karen Yang",bryansaunders@gmail.com,889.530.1735x15466,West,Low,379,"Bank 379",South,0.84,8706.30,USD,2024-05-20,"New James",1,1
+806,763,"Brandi Meadows",travis36@smith.info,779-844-9388,South,Low,520,"Bank 520",West,0.82,723.10,USD,2024-11-09,Stevenborough,1,1
+807,649,"Ashley Wise",paul14@yahoo.com,001-756-780-2247,South,Medium,317,"Bank 317",South,0.82,2512.69,USD,2024-09-30,Gordonview,1,1
+808,937,"Melissa Smith",ashleygreen@hotmail.com,(628)568-6799,West,Low,616,"Bank 616",East,0.66,4419.71,USD,2024-01-28,Jenniferport,0,1
+809,881,"Alyssa Roberts",rebeccahernandez@sanders.com,(647)175-9272,South,Medium,638,"Bank 638",North,0.87,4560.93,USD,2024-02-24,"Lake Nicolemouth",1,1
+810,252,"Sarah Odom",zandrews@hotmail.com,+1-209-288-6101x1602,West,Medium,752,"Bank 752",East,0.75,2115.49,USD,2024-05-08,Kaylabury,0,1
+811,817,"Evan Campbell",tfuentes@yahoo.com,001-873-246-3514x4373,West,Low,485,"Bank 485",East,0.61,2050.93,USD,2023-11-29,"West Anthonymouth",0,1
+812,505,"Lori Olson",zdowns@gmail.com,046.693.7705,East,Medium,924,"Bank 924",South,0.59,4331.55,USD,2024-04-30,"New Vanessamouth",0,1
+813,857,"Jeffrey Anderson",rbrandt@gmail.com,717.082.7313,West,Medium,238,"Bank 238",South,0.5,2708.88,USD,2024-06-19,Wesleystad,1,1
+814,718,"Christopher Baxter",robertgibson@yahoo.com,+1-235-803-7906,North,Medium,608,"Bank 608",West,0.76,9300.06,USD,2024-04-19,Scottview,0,1
+815,725,"Peter James",ashley87@hotmail.com,001-018-324-1599x223,East,Medium,244,"Bank 244",West,0.73,4214.53,USD,2024-02-23,Davidland,0,1
+816,738,"Mariah Winters",haleheather@yahoo.com,(149)339-2221x5270,South,High,830,"Bank 830",East,0.93,3334.99,USD,2024-06-19,"New Jeffrey",0,1
+817,408,"Sherry Wells",markmiller@gmail.com,(709)847-7005x658,East,Low,952,"Bank 952",South,0.63,4705.23,USD,2024-07-09,"Port Christopherville",1,1
+818,310,"Diane Owen",meyeralice@yahoo.com,457.914.5241,East,Medium,415,"Bank 415",East,0.96,3349.29,USD,2023-12-01,"South Larryview",1,1
+819,300,"Joseph Lee",leslieproctor@gmail.com,2698067397,South,Low,7,"Garcia, Smith and Woods",West,0.81,3057.17,USD,2024-02-17,"North Cheyenneside",1,1
+820,715,"Melissa Murray",jenniferroberts@gmail.com,+1-086-269-9513x512,West,Low,804,"Bank 804",South,0.67,8229.96,USD,2024-10-15,Brandiberg,0,1
+821,95,"Amy Bates",sherryvillanueva@yahoo.com,847.738.4007,East,Medium,930,"Bank 930",West,0.74,9856.99,USD,2024-02-07,Manningchester,0,1
+822,597,"Michael Dunn",knightgeorge@griffin-flores.net,6102996239,East,High,433,"Bank 433",East,0.84,8986.30,USD,2024-04-26,Joshuabury,1,1
+823,787,"Max Lloyd",cynthiacarter@gmail.com,+1-989-683-1109,East,Low,438,"Bank 438",West,0.86,5000.76,USD,2024-05-22,Michaelburgh,1,1
+824,709,"Emily Martinez",gzuniga@yahoo.com,001-270-566-5258x9029,East,High,492,"Bank 492",West,0.77,1782.42,USD,2023-12-02,"New Arthurchester",0,1
+825,784,"Jessica Rubio",christopherreilly@yahoo.com,(156)433-3418,East,High,251,"Bank 251",West,0.72,3601.20,USD,2024-11-22,Rogershaven,0,1
+826,196,"Cristina Goodwin",sethwalker@hotmail.com,765.212.0001,North,High,840,"Bank 840",South,0.93,2377.28,USD,2024-04-03,"New Nicholas",1,1
+827,630,"Logan Mendez",ibarker@yahoo.com,(685)154-4732x130,South,Low,380,"Bank 380",South,0.52,3262.58,USD,2023-11-28,Sawyerberg,0,1
+828,79,"Linda Simpson",denisewiley@hotmail.com,+1-105-601-8227x5633,North,Medium,548,"Bank 548",North,0.88,3956.41,USD,2024-02-18,Jesseshire,1,1
+829,13,"Sarah Harper",michaelsmith@gmail.com,999.595.0833x62937,East,Low,48,"Bank 48",East,0.7,4844.53,USD,2023-12-18,"North Kimberlyhaven",0,1
+830,467,"Stanley Rowe",joelmorris@fuentes-brown.org,001-954-432-3554x21219,South,Medium,822,"Bank 822",West,0.53,2126.21,USD,2024-05-24,Reyesfort,1,1
+831,171,"Alice Whitney",chapmanmark@yahoo.com,001-621-000-7899x38640,North,Low,32,"Bank 32",North,0.57,3579.57,USD,2024-07-22,Rosariostad,0,1
+832,246,"Stephen Vega",adkinslisa@cole.com,(114)648-7212x935,West,Medium,72,"Bank 72",South,0.55,3371.53,USD,2024-11-05,"Lake Caitlin",1,1
+833,59,"Rachel Avila",jenniferward@jackson-lewis.biz,939-519-7695,West,High,885,"Bank 885",North,0.7,6010.86,USD,2024-01-01,Watsonside,1,1
+834,423,"Joshua Ortiz",saraholmes@hernandez-moran.com,5400975139,South,Medium,433,"Bank 433",East,0.84,4461.35,USD,2024-10-30,"West Henryshire",1,1
+835,81,"Cynthia Christensen",brownrita@figueroa-miles.com,898-003-3371,West,Low,425,"Bank 425",North,0.87,9420.27,USD,2024-06-26,"Port Robert",1,1
+836,661,"Carlos Salas",denise32@yahoo.com,(915)991-6264,East,Medium,935,"Bank 935",East,0.86,6536.11,USD,2024-08-28,"South Dianehaven",1,1
+837,164,"Scott Fernandez",jgonzalez@hotmail.com,+1-621-160-7073x79198,West,Low,903,"Bank 903",South,0.76,9203.33,USD,2024-11-05,Danielton,0,1
+838,551,"Carol Berg",mercedes39@cooper.com,001-841-724-4814x355,West,Medium,112,"Bank 112",South,0.91,412.07,USD,2024-01-21,"South Lisa",1,1
+839,558,"Amy Patel",pavila@martin.org,698.434.6783x176,West,High,79,"Bank 79",North,0.56,9730.33,USD,2024-03-25,"East Stephaniebury",0,1
+840,512,"Erica Rogers",josephewing@yahoo.com,(233)574-1898x77939,West,High,1010,"Bank 1010",North,0.8,6572.08,USD,2024-08-25,Griffithville,1,1
+841,707,"Sarah Walker",adamscarol@hotmail.com,001-011-977-7346x987,West,Low,129,"Bank 129",South,0.85,7936.13,USD,2024-03-29,Jasmineport,0,1
+842,725,"Peter James",ashley87@hotmail.com,001-018-324-1599x223,East,Medium,610,"Bank 610",South,0.97,8696.75,USD,2024-05-29,Arnoldborough,0,1
+843,209,"Alejandra Butler",jmcdowell@hotmail.com,+1-417-232-2735,East,Low,182,"Bank 182",North,0.55,9954.31,USD,2024-05-08,"New Katietown",0,1
+844,175,"Anthony Gonzales",alvarezcheryl@bailey.com,897.398.0669x289,South,Low,502,"Bank 502",East,0.66,4553.08,USD,2024-10-13,"Lake Keithview",1,1
+845,448,"Seth Reyes",hallricky@hotmail.com,265-963-0056x54282,North,Medium,442,"Bank 442",North,0.66,4091.36,USD,2024-03-07,Orrville,1,1
+846,784,"Jessica Rubio",christopherreilly@yahoo.com,(156)433-3418,East,High,343,"Bank 343",North,0.79,6969.96,USD,2024-09-06,"South Adrian",1,1
+847,728,"Andrew Bell",susan11@hotmail.com,327-498-3243x5034,West,Medium,147,"Bank 147",West,0.59,7081.95,USD,2024-11-13,"New Lisastad",0,1
+848,778,"Mark Rogers",irodgers@yahoo.com,108-203-0596,East,Low,992,"Bank 992",West,0.91,6195.11,USD,2024-03-25,Leetown,0,1
+849,67,"Jessica Moyer",williamsmichelle@hotmail.com,7920943978,South,Medium,968,"Bank 968",North,0.83,1313.72,USD,2024-05-11,Frazierfurt,1,1
+850,646,"Clayton Newman DDS",castillosamuel@watts-ross.info,884-187-7832,West,High,321,"Bank 321",West,0.73,2005.85,USD,2024-06-10,Juliestad,1,1
+851,532,"Stephanie Hudson",zachary75@gmail.com,(922)885-9020x77006,South,Low,490,"Bank 490",East,0.99,7157.74,USD,2024-05-31,Carlsonstad,0,1
+852,212,"Bryan Bennett PhD",alexa35@robinson-mullins.com,0510357140,South,Medium,687,"Bank 687",South,0.81,3372.46,USD,2024-04-25,"West Brianmouth",0,1
+853,127,"Gina Rios",erictaylor@yahoo.com,+1-753-585-3701x467,North,Medium,313,"Bank 313",South,0.75,4648.43,USD,2024-02-25,"East Victoriafort",1,1
+854,988,"James Johnson",mariawilliams@holt.net,164.374.2083x4654,East,Medium,848,"Bank 848",North,0.58,694.14,USD,2024-11-09,"Port Mirandaside",1,1
+855,366,"Michelle Martin",sarahhall@castro-lee.com,7009740680,South,Medium,638,"Bank 638",North,0.87,130.14,USD,2024-04-23,Vangtown,0,1
+856,587,"Ashley Williams",beckjeffrey@yahoo.com,(285)796-6083x998,West,Low,286,"Bank 286",North,0.76,529.14,USD,2024-03-30,Brianmouth,1,1
+857,493,"Michelle Rivera",justin61@yahoo.com,(705)603-7481,South,Medium,926,"Bank 926",South,0.77,2612.29,USD,2024-06-03,"Port Emily",1,1
+858,450,"Kaitlyn Bruce",adrian47@wright-ritter.info,+1-652-974-5067x97628,East,Low,958,"Bank 958",North,0.84,4766.97,USD,2024-02-01,Tracyfort,0,1
+859,33,"Tammy Lopez",donnapotter@gmail.com,(974)811-5648,North,Medium,130,"Bank 130",North,0.6,6234.57,USD,2024-07-04,"North William",1,1
+860,608,"Kristy Stephens",shellyowens@gmail.com,959-549-2628x70404,North,High,449,"Bank 449",West,0.55,1521.92,USD,2024-01-25,Reyestown,0,1
+861,48,"Nicole Bowers",bpratt@williams.com,+1-809-620-6411x3966,East,High,502,"Bank 502",East,0.66,4148.39,USD,2024-04-21,Garciamouth,1,1
+862,909,"Christie Johnson",michellebaker@gmail.com,435-343-6533,West,Medium,799,"Bank 799",West,0.97,7158.82,USD,2024-05-25,"North Markshire",0,1
+863,561,"Stacy Smith",amandahorne@anderson-hall.com,+1-414-999-9255x5442,East,High,614,"Bank 614",West,0.53,3337.21,USD,2024-06-17,Tamaramouth,1,1
+864,609,"Rachel Townsend",ann27@hotmail.com,(448)516-1846x913,North,High,493,"Bank 493",South,0.97,7579.24,USD,2023-12-28,Terristad,1,1
+865,871,"Chelsey Green",johnsonsherry@gmail.com,941-439-9243x018,South,High,416,"Bank 416",North,0.73,922.06,USD,2024-05-27,Patrickland,0,1
+866,859,"Darren Bernard",jtran@gmail.com,320-951-3441,West,High,82,"Bank 82",North,0.63,5390.74,USD,2023-12-09,"West Matthew",1,1
+867,461,"Tyler Martin",amberfloyd@hotmail.com,+1-143-008-5080x1419,East,Low,30,"Bank 30",East,0.92,6353.24,USD,2024-08-17,"New Mark",0,1
+868,234,"Daniel Ortega",tmartin@yahoo.com,+1-093-304-0342x30293,East,High,629,"Bank 629",West,0.64,6216.57,USD,2024-09-14,"South Nancy",0,1
+869,831,"Samantha Thompson",suelong@yahoo.com,198-543-9211x50268,North,Low,290,"Bank 290",East,0.87,4776.30,USD,2024-01-04,Suefurt,1,1
+870,170,"Michelle Alvarado",smithbarbara@hotmail.com,822.940.5894,North,Low,720,"Bank 720",North,0.89,2084.02,USD,2024-03-19,"West Christopher",0,1
+871,955,"Rachel Bell",samuelhurley@york-serrano.com,(225)425-4053,South,Low,406,"Bank 406",West,0.97,1191.51,USD,2023-12-30,Cookshire,0,1
+872,595,"Sherry Brown",katherineperry@hotmail.com,001-292-514-4039x640,West,Low,660,"Bank 660",East,0.71,5965.70,USD,2024-01-07,"North Cynthia",0,1
+873,960,"Matthew Taylor",usingleton@yahoo.com,924-907-2397x218,East,High,646,"Bank 646",North,0.95,6711.31,USD,2024-11-07,"North Laurenmouth",1,1
+874,714,"Alexis Wilson",josewhite@gmail.com,(007)064-2235,West,Medium,27,"Bank 27",East,0.97,2764.94,USD,2024-03-06,"Port Bradleyview",0,1
+875,130,"Jesse Mckinney",lindseydiana@hotmail.com,001-214-297-4716x9864,East,High,685,"Bank 685",North,0.96,2965.15,USD,2024-05-03,"West Kellyfurt",1,1
+876,136,"Raven Rogers",megan99@golden.net,+1-356-141-8725x3102,East,Medium,548,"Bank 548",North,0.88,360.92,USD,2023-12-12,Michelleshire,1,1
+877,408,"Sherry Wells",markmiller@gmail.com,(709)847-7005x658,East,Low,984,"Bank 984",East,0.96,7018.96,USD,2023-12-14,Bassville,1,1
+878,178,"Tamara Castro",martinezmargaret@hotmail.com,001-946-118-0367x3154,North,High,964,"Bank 964",South,0.63,3463.89,USD,2023-12-06,"Port Tracy",0,1
+879,740,"Ronnie Aguirre",christopherdillon@gmail.com,(391)931-1798,West,Medium,831,"Bank 831",South,0.77,8806.20,USD,2024-03-22,Pattersonview,0,1
+880,717,"Albert Freeman",jgarrett@hotmail.com,+1-043-668-0864x3696,North,Medium,157,"Bank 157",North,0.62,8022.00,USD,2024-03-30,"Port Jeanette",1,1
+881,658,"Jordan Carr",zvargas@hotmail.com,015.605.5460x56031,South,High,308,"Bank 308",West,0.99,9912.62,USD,2024-08-20,Darrenborough,0,1
+882,533,"Sonya Phillips",cynthia02@gmail.com,788.114.7931x237,West,Medium,855,"Bank 855",West,0.98,2316.97,USD,2024-03-16,Haleyport,0,1
+883,371,"Tonya Lane",jasonsnyder@smith.biz,361.700.8894x89523,East,Low,867,"Bank 867",East,0.57,5123.12,USD,2024-03-17,"Port Brittany",0,1
+884,652,"Amy Holden",jill00@hotmail.com,+1-910-886-6978x488,South,Low,206,"Bank 206",East,0.84,5504.76,USD,2024-10-04,Traceyville,0,1
+885,569,"Trevor Trevino",ssmith@yahoo.com,(276)606-5300,North,Low,782,"Bank 782",East,0.65,132.06,USD,2024-02-26,"West Susan",0,1
+886,889,"Brenda Richardson",allensheryl@avery.com,(600)936-7593,West,Low,676,"Bank 676",West,1,3445.80,USD,2024-09-20,Joseview,0,1
+887,695,"Tammie Kennedy",timothy47@spencer.com,475.487.8718x410,North,High,941,"Bank 941",West,0.78,5270.88,USD,2024-07-09,Benjaminstad,0,1
+888,923,"Jennifer Watts",patricia89@hotmail.com,110-345-6775,East,High,631,"Bank 631",East,0.86,6436.33,USD,2024-06-25,"Port Kristy",0,1
+889,505,"Lori Olson",zdowns@gmail.com,046.693.7705,East,Medium,852,"Bank 852",North,0.53,826.94,USD,2024-03-20,"North Gregoryport",0,1
+890,143,"Mark Taylor",kelly85@weber.net,7073159635,East,Medium,602,"Bank 602",East,0.9,6615.78,USD,2023-11-23,Bridgetmouth,0,1
+891,385,"Patricia Schwartz",chris13@yahoo.com,296-384-5967x398,East,High,1008,"Bank 1008",West,0.71,5133.66,USD,2023-12-13,Marybury,0,1
+892,519,"James Osborne",carrillodawn@yahoo.com,(403)134-3212,North,Low,606,"Bank 606",East,0.62,1632.37,USD,2024-09-09,Johnsonshire,0,1
+893,315,"James Garrett",perezkevin@brown-nelson.com,(403)793-9962x42141,East,Low,636,"Bank 636",South,0.65,6686.31,USD,2024-02-01,"New Jorgeborough",0,1
+894,251,"Christopher Moore",carlosgarcia@gmail.com,585.786.7694x70532,West,High,1001,"Bank 1001",South,0.66,7046.31,USD,2024-07-06,"West Susanburgh",1,1
+895,755,"Debbie Parrish DDS",michael27@gmail.com,+1-595-620-9873x5686,South,Medium,546,"Bank 546",West,0.54,1825.81,USD,2024-05-19,Armstrongfurt,1,1
+896,766,"Robert Davidson",samanthagutierrez@gomez.info,(830)378-8564,East,Low,835,"Bank 835",North,0.83,6338.10,USD,2024-04-25,"West Jeffreyhaven",1,1
+897,631,"Robert Nunez",gentrywillie@hotmail.com,(468)255-3045,North,Medium,766,"Bank 766",East,0.67,3153.81,USD,2024-05-09,Hernandezberg,1,1
+898,475,"Isaac Hutchinson",nicholas33@hendricks-moran.org,947.254.5787x126,North,Low,836,"Bank 836",East,0.98,2886.41,USD,2024-08-16,Taylorport,1,1
+899,326,"Maria Martin",rmartinez@jacobs-davis.info,618-921-8998,South,Low,725,"Bank 725",North,0.83,9293.79,USD,2024-05-16,"New John",0,1
+900,2,"Brenda Johnson",brian45@gmail.com,+1-039-539-9788x62818,South,Low,122,"Bank 122",West,0.55,9928.75,USD,2024-10-30,"North Robert",0,1
+901,665,"Michael Cummings",djimenez@gmail.com,0816088981,North,Medium,672,"Bank 672",West,0.93,8014.13,USD,2024-03-24,Bakerberg,0,1
+902,29,"Becky Hughes DVM",stephaniewells@moon.com,(921)109-3784,South,High,43,"Bank 43",North,0.85,6418.22,USD,2024-06-07,"New Spencer",1,1
+903,14,"April Brown",miguel56@hotmail.com,+1-264-420-9754x046,South,Low,852,"Bank 852",North,0.53,8724.29,USD,2023-11-23,Shelbyshire,1,1
+904,765,"Allen Delgado",garnerjoy@hotmail.com,+1-330-077-7343,East,Medium,779,"Bank 779",South,0.75,3064.15,USD,2024-04-27,Holmesfurt,0,1
+905,878,"John Fisher",christina28@walker.com,320-294-2230,North,Medium,54,"Bank 54",West,0.81,5750.59,USD,2024-06-04,"Lake Joseph",1,1
+906,254,"Abigail Herrera",johnlane@phillips.info,(393)342-9833x7119,West,High,967,"Bank 967",West,0.98,4748.88,USD,2024-08-08,Robinsonhaven,0,1
+907,231,"Lauren Miller",jeremiah55@rodriguez-rodriguez.com,8165715272,West,High,97,"Bank 97",South,0.59,3729.47,USD,2024-09-14,Jacksonport,1,1
+908,966,"Christopher Palmer",beltranjacqueline@gregory.com,616-296-2994,North,Low,286,"Bank 286",North,0.76,4274.36,USD,2024-10-25,Jacobchester,1,1
+909,771,"Jennifer Jimenez",hallstacey@allen.com,708.121.2556x504,West,Medium,132,"Bank 132",East,0.85,9648.45,USD,2024-03-22,"New Dawn",1,1
+910,557,"Lisa Murray",thomasgardner@gmail.com,001-385-039-9540x5151,South,Low,914,"Bank 914",South,0.82,2752.02,USD,2024-07-07,Robertborough,0,1
+911,379,"Brian Gonzalez",vcross@yahoo.com,001-696-800-3314,South,Low,34,"Bank 34",North,0.64,2697.21,USD,2024-08-19,Campbellland,1,1
+912,151,"Cory Collins",laurapreston@hotmail.com,(378)285-3242x934,East,High,843,"Bank 843",South,0.95,302.19,USD,2024-09-15,"Port Matthewbury",1,1
+913,801,"Sara Hines",karenmoore@cruz-cobb.info,4656510311,West,High,1009,"Bank 1009",West,0.71,9880.61,USD,2024-09-08,Smithfort,0,1
+914,749,"Laura Wright",tuckercolin@kramer-jenkins.com,2308004942,South,High,225,"Bank 225",West,0.73,6155.52,USD,2024-09-30,"New Ethan",1,1
+915,670,"Jennifer Johnson",chambersjoseph@gibson.com,781.920.5200,North,High,482,"Bank 482",South,0.71,6929.89,USD,2024-07-05,Douglasfurt,1,1
+916,187,"Linda Robinson",whitakerlisa@flores.com,800.813.2808x1058,West,High,18,"Bank 18",North,0.57,6137.93,USD,2024-01-19,"Lake Johnmouth",1,1
+917,102,"Emily Whitney",robinroberson@black.com,071.733.8655x0553,West,Low,394,"Bank 394",East,0.64,6382.45,USD,2024-09-03,Stacychester,1,1
+918,778,"Mark Rogers",irodgers@yahoo.com,108-203-0596,East,Low,184,"Bank 184",East,1,5358.12,USD,2024-11-04,"East Kristin",1,1
+919,966,"Christopher Palmer",beltranjacqueline@gregory.com,616-296-2994,North,Low,704,"Bank 704",North,0.92,9529.77,USD,2024-05-18,"East Johnfurt",1,1
+920,579,"Tony Stokes",markjones@hart-riddle.biz,+1-737-365-9711,South,High,733,"Bank 733",South,0.58,5929.00,USD,2024-08-22,"North Felicia",1,1
+921,568,"Annette Adams",veronicaallen@gmail.com,915-948-8105,South,Medium,876,"Bank 876",South,0.55,5059.83,USD,2024-06-03,"Lake Taylorside",0,1
+922,860,"Rodney Campbell",kennethestrada@hotmail.com,+1-650-456-2874,South,High,71,"Bank 71",South,0.78,977.82,USD,2024-01-15,"Lake Lindseyland",1,1
+923,369,"Lauren Johnson",jonathan82@anderson.com,001-394-298-2562x474,West,Low,689,"Bank 689",South,0.91,4457.57,USD,2024-09-27,Brianburgh,0,1
+924,213,"Cameron Stafford",matthew64@thomas-drake.com,(157)684-8272x2339,West,Medium,698,"Bank 698",East,0.88,5013.57,USD,2024-01-07,"New Brian",1,1
+925,197,"Andrew Livingston",norrisdiane@yahoo.com,+1-291-620-2966x3095,South,Medium,744,"Bank 744",North,0.75,3457.62,USD,2024-03-31,"South Jessica",0,1
+926,296,"Stacy Mccoy",scottgloria@novak.biz,1496557199,North,Medium,753,"Bank 753",North,0.81,8881.09,USD,2024-06-29,Danielhaven,1,1
+927,468,"Dawn Hanson",leonardjordan@dixon.biz,506.064.9597x55646,West,High,880,"Bank 880",West,0.96,189.31,USD,2024-10-25,"New Christy",1,1
+928,191,"Mr. Justin Taylor",jstevens@edwards-neal.org,(490)760-1599,South,High,530,"Bank 530",East,0.5,5402.23,USD,2024-04-26,"South Debra",0,1
+929,558,"Amy Patel",pavila@martin.org,698.434.6783x176,West,High,774,"Bank 774",North,0.61,6563.18,USD,2024-01-29,"South Stephanie",0,1
+930,498,"Brian Thompson",katelyn97@mills-walker.org,(236)234-2277,South,Low,804,"Bank 804",South,0.67,7340.07,USD,2023-12-27,Lynchland,1,1
+931,243,"Seth Anderson",martinharry@gmail.com,+1-040-552-9452x7738,East,Low,423,"Bank 423",South,0.79,5006.46,USD,2024-07-28,Mariaview,0,1
+932,225,"Robert Ware",hudsonjason@johnson.org,(481)634-6156,West,Medium,723,"Bank 723",South,0.75,2861.53,USD,2024-04-09,"Port Derrick",1,1
+933,953,"John Mcdaniel",quinnedward@gmail.com,491-713-8358x626,West,Medium,760,"Bank 760",East,0.71,9532.44,USD,2024-09-29,Allenmouth,0,1
+934,244,"Jack Barnes",gary66@morse.com,1977209803,South,High,121,"Bank 121",West,0.9,5153.80,USD,2024-04-27,"North Jaredhaven",1,1
+935,989,"Ashley Herrera",howardmartha@gmail.com,+1-600-651-4781x189,West,Low,619,"Bank 619",South,0.89,7418.45,USD,2024-08-05,Juliehaven,0,1
+936,289,"Brian Shelton",ebrown@hotmail.com,4968166370,South,High,662,"Bank 662",East,0.85,1075.12,USD,2024-08-31,"West Michaelburgh",0,1
+937,541,"Scott Watson",oprice@lewis.com,927.527.5984x2107,North,High,565,"Bank 565",East,0.72,2194.98,USD,2024-06-09,Doylechester,0,1
+938,9,"James Lopez",bethroberts@rojas.biz,011.287.5137x958,East,Medium,508,"Bank 508",West,0.54,40.42,USD,2024-11-18,Livingstonburgh,1,1
+939,846,"Travis Reyes",simmonsrobert@hotmail.com,(816)091-7303,North,Low,103,"Bank 103",North,0.97,5547.11,USD,2024-04-17,Williamsfort,1,1
+940,318,"Andrea Tanner",rosecharles@lopez-gonzalez.net,(705)228-7225,West,High,20,"Bank 20",West,0.71,4020.19,USD,2024-05-04,"Lake Nicholas",1,1
+941,436,"Connie Burton",williamschristina@golden.com,001-852-594-9733,West,High,897,"Bank 897",North,0.8,5555.16,USD,2024-08-28,"South Joseberg",1,1
+942,532,"Stephanie Hudson",zachary75@gmail.com,(922)885-9020x77006,South,Low,875,"Bank 875",South,0.58,4365.61,USD,2024-10-14,"Port Kimberly",0,1
+943,498,"Brian Thompson",katelyn97@mills-walker.org,(236)234-2277,South,Low,497,"Bank 497",North,0.65,4512.23,USD,2024-10-17,Kingtown,1,1
+944,311,"James King",simmonsjoshua@burns.com,825.954.9102,West,Medium,973,"Bank 973",East,0.8,9571.68,USD,2024-09-04,"East Ryan",0,1
+945,987,"Denise Maldonado",debramahoney@hotmail.com,990.690.9357,West,Medium,440,"Bank 440",North,0.88,5040.11,USD,2024-03-21,"New Cynthiafort",1,1
+946,273,"Adam Caldwell",stephenkelley@robinson.biz,218.355.9831x529,South,Low,177,"Bank 177",West,0.72,5524.76,USD,2023-11-28,Edwardshire,0,1
+947,804,"Wesley Butler",acannon@poole.org,644.511.0759,East,Low,71,"Bank 71",South,0.78,7698.37,USD,2024-04-17,"Port Amanda",0,1
+948,948,"Darrell Farmer",timothy35@klein.info,001-113-273-6155x87747,South,Low,696,"Bank 696",West,0.95,688.99,USD,2023-12-25,"West Bobby",0,1
+949,832,"Susan Watkins",omoore@watson-whitney.com,(142)657-7552x17942,East,Medium,71,"Bank 71",South,0.78,7498.01,USD,2024-03-15,Johnsonville,0,1
+950,89,"Christina Cross",tmarks@dalton.com,(065)368-4609x7005,South,Low,567,"Bank 567",East,0.98,4909.12,USD,2024-05-07,"North Natasha",1,1
+951,316,"Paul Harmon",chelsea22@henderson.com,219.457.8401,East,High,46,"Bank 46",West,0.97,604.57,USD,2023-12-20,"East Mariahbury",1,1
+952,831,"Samantha Thompson",suelong@yahoo.com,198-543-9211x50268,North,Low,862,"Bank 862",West,0.77,89.41,USD,2024-09-25,Careymouth,1,1
+953,154,"Nancy Flowers",davidharris@roberts.com,(928)152-0513,North,Medium,754,"Bank 754",South,0.78,9308.24,USD,2024-04-21,"West Spencer",1,1
+954,314,"Lisa Colon",lvaldez@hotmail.com,0798857202,West,Low,557,"Bank 557",West,0.58,9683.82,USD,2024-04-07,Stephanieberg,1,1
+955,21,"Michelle Hart",meredithjackson@clark.biz,837.992.4785,West,Medium,318,"Bank 318",South,0.93,5855.25,USD,2024-09-22,"South Brianna",0,1
+956,352,"John Benton",madeline24@horn-smith.com,001-629-084-8308x26230,South,Low,167,"Bank 167",West,0.87,5055.10,USD,2024-08-24,"New Bryanhaven",0,1
+957,400,"Mary Brewer",vchristian@yahoo.com,001-613-794-6849x582,South,Low,279,"Bank 279",West,0.93,9209.03,USD,2024-09-20,Greenside,1,1
+958,507,"Craig Wilkins",wilkinsdavid@yahoo.com,729-098-9961x141,East,High,622,"Bank 622",West,0.92,9798.69,USD,2024-05-31,"West Rayport",0,1
+959,13,"Sarah Harper",michaelsmith@gmail.com,999.595.0833x62937,East,Low,925,"Bank 925",North,0.87,6884.99,USD,2024-05-15,"West Jessicaton",1,1
+960,732,"Frank Harris",baileysara@gmail.com,083-837-8253,West,Low,511,"Bank 511",East,0.53,6209.58,USD,2024-01-05,Stonehaven,0,1
+961,41,"Tyler Gray",hroy@hotmail.com,603-317-9617x5047,West,High,286,"Bank 286",North,0.76,6712.87,USD,2024-07-12,Jamesstad,0,1
+962,785,"Curtis Davis",brittany82@thomas.com,8777251507,North,Low,501,"Bank 501",North,0.95,9921.79,USD,2024-09-09,"East Brendashire",0,1
+963,502,"Tiffany Kelly",rachelprice@graham.net,325-310-0967x09814,East,Low,542,"Bank 542",West,0.96,463.15,USD,2024-04-12,Mosleyside,0,1
+964,481,"Jenna Payne",annaavila@hotmail.com,+1-383-428-5067x832,North,Low,857,"Bank 857",West,0.61,8964.11,USD,2023-12-01,Jonesberg,0,1
+965,649,"Ashley Wise",paul14@yahoo.com,001-756-780-2247,South,Medium,590,"Bank 590",North,0.78,9411.22,USD,2024-02-04,"New Kyleberg",0,1
+966,174,"Anthony Taylor",mckenziepayne@gmail.com,709-550-2288,South,Medium,682,"Bank 682",West,0.82,8957.62,USD,2024-08-19,Pamelafort,1,1
+967,404,"Richard Cordova",tuckermeredith@yahoo.com,817.408.3814,East,High,746,"Bank 746",North,0.53,2618.90,USD,2024-02-18,"North John",1,1
+968,149,"Timothy Fox",lrobinson@singleton.com,(140)408-0025x478,South,Low,312,"Bank 312",West,0.8,1300.78,USD,2024-07-08,"West Danielhaven",1,1
+969,376,"Scott Adams",olivia95@parrish-smith.net,025-302-8678,South,Low,655,"Bank 655",East,0.84,2757.18,USD,2024-06-30,"West Juan",0,1
+970,52,"Briana Johnson",gainesdiane@yahoo.com,201.730.4381x00326,East,Low,696,"Bank 696",West,0.95,7025.51,USD,2024-01-30,Nancybury,1,1
+971,623,"Michael Maldonado",williamstyler@phillips.com,001-127-759-6847x47569,South,High,470,"Bank 470",South,0.56,7631.71,USD,2024-10-10,Mcleanville,0,1
+972,813,"Aimee Wright",petersonsuzanne@yahoo.com,(014)612-5133,West,Medium,859,"Bank 859",North,0.9,2592.12,USD,2024-03-28,Kristenborough,1,1
+973,387,"Ashley Dean",ericsandoval@robbins.biz,(039)978-6066,West,Medium,793,"Bank 793",South,0.82,7653.14,USD,2024-02-16,"New Angelicafurt",1,1
+974,349,"Lindsey Tran",carl32@allison.com,408-522-9445,East,Medium,17,"Bank 17",South,0.93,3433.03,USD,2024-10-02,Salazarmouth,1,1
+975,496,"Christopher Calhoun",danielbullock@brown-jacobson.com,(138)245-7799,North,Low,392,"Bank 392",South,0.92,5297.67,USD,2024-04-18,Mayobury,0,1
+976,723,"Jeffrey Garrett",sleach@woods.com,001-092-544-8754x309,South,Low,455,"Bank 455",South,0.86,5130.16,USD,2023-12-13,"East Jeffreystad",1,1
+977,649,"Ashley Wise",paul14@yahoo.com,001-756-780-2247,South,Medium,995,"Bank 995",North,0.94,7141.02,USD,2024-10-20,Heathermouth,0,1
+978,898,"Caroline Alvarez",owilliams@yahoo.com,901-878-2360x6637,North,Medium,376,"Bank 376",North,0.97,7676.75,USD,2023-12-19,Ruizton,0,1
+979,907,"Jeremiah Russell",pachecomarvin@yahoo.com,286.216.1203x382,West,Medium,874,"Bank 874",West,0.77,8529.58,USD,2024-03-08,"West Justinchester",1,1
+980,130,"Jesse Mckinney",lindseydiana@hotmail.com,001-214-297-4716x9864,East,High,783,"Bank 783",South,0.88,564.79,USD,2024-04-16,Monicaburgh,1,1
+981,240,"Jill Harding",deannamason@zuniga.org,+1-002-090-3419,East,Medium,539,"Bank 539",South,0.99,3740.71,USD,2024-03-26,Mirandaville,1,1
+982,182,"Vickie Scott",kyledudley@gmail.com,022-735-4785x638,North,Low,667,"Bank 667",West,0.99,3084.57,USD,2024-07-24,Derekbury,1,1
+983,133,"Anna Sanders MD",padillajesse@reed.com,+1-284-720-3398,North,Medium,645,"Bank 645",South,0.69,1808.53,USD,2023-11-24,Bryanhaven,0,1
+984,824,"Melissa White",freemanjerry@yahoo.com,001-208-376-0056,East,Low,263,"Bank 263",West,0.91,3953.74,USD,2024-03-03,Hamptonfort,1,1
+985,719,"Lawrence Warner",michaelelliott@jenkins.com,001-756-921-6262,West,Low,356,"Bank 356",North,0.9,2649.06,USD,2024-09-25,"West Jesushaven",0,1
+986,656,"Scott Young",vlynch@yahoo.com,3335039566,North,High,318,"Bank 318",South,0.93,3289.64,USD,2024-01-26,"South Charlesberg",1,1
+987,638,"Patricia Bird",rachaelweaver@hotmail.com,(333)427-2728x84806,North,Low,210,"Bank 210",North,0.56,2198.71,USD,2024-03-10,Sethton,0,1
+988,211,"Maria Fowler",fmiller@williams.com,692-987-1099x22547,East,High,584,"Bank 584",North,0.5,1816.67,USD,2024-08-05,"Lake Kevin",1,1
+989,731,"Tyler Pham",leonard39@hotmail.com,+1-274-483-4207x545,South,Low,381,"Bank 381",North,0.66,854.38,USD,2024-02-29,"Lake Jeffreytown",0,1
+990,909,"Christie Johnson",michellebaker@gmail.com,435-343-6533,West,Medium,311,"Bank 311",North,0.92,6013.79,USD,2024-06-19,Tinaside,1,1
+991,781,"Jessica Schmitt",rachaelhowell@gmail.com,189-636-5607x09948,South,High,978,"Bank 978",South,0.97,5839.21,USD,2023-12-11,Greenchester,1,1
+992,474,"Alyssa Black",dthompson@yahoo.com,776-187-6466x1026,East,High,536,"Bank 536",South,0.99,8795.33,USD,2023-12-20,Quinnshire,1,1
+993,323,"John Crane",christina89@davenport-trevino.org,+1-612-619-6463x53764,South,Medium,576,"Bank 576",West,0.97,6208.19,USD,2024-02-17,"West Thomas",0,1
+994,472,"Brett Morrison",jwilliams@hotmail.com,(226)943-1534x982,East,High,519,"Bank 519",East,0.82,6168.77,USD,2024-09-24,Jordanland,1,1
+995,247,"Rachel Sims",jacob82@yahoo.com,067-869-5159x45545,North,Low,438,"Bank 438",West,0.86,2185.82,USD,2024-07-05,Charlesmouth,1,1
+996,580,"Jeff Munoz",timothybeck@cruz-jackson.com,9592219322,West,Low,270,"Bank 270",North,0.64,9657.76,USD,2023-12-25,"Port Nicoleville",0,1
+997,906,"Juan Cherry",qcoleman@miller.net,567-043-2889x063,North,Medium,532,"Bank 532",North,0.6,3062.71,USD,2024-04-12,Brownfurt,1,1
+998,640,"Brittany Huber",lance33@yahoo.com,634.273.9685x064,South,High,422,"Bank 422",East,0.61,280.01,USD,2024-03-17,"South Kimberlybury",1,1
+999,368,"Shannon King",jarviskaren@johnson.info,(426)117-7563x659,West,Low,670,"Bank 670",North,0.72,6974.08,USD,2024-06-28,Johnside,0,1
+1000,247,"Rachel Sims",jacob82@yahoo.com,067-869-5159x45545,North,Low,313,"Bank 313",South,0.75,3488.39,USD,2024-01-18,"East Robertburgh",1,1
